@@ -1,0 +1,8 @@
+{
+	"model" : "model001",
+	"interval" : 40,
+	"scales" : [1.0, 0.5, 0.25, 0.125],
+	"event_maximum" : 720000,
+	"warning_action" : true,
+	"summary_active" : true
+}

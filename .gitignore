@@ -1,5 +1,13 @@
 actor.rec
 actor.json
 
+test.*
+
+WBOT02.txt
+WBOT02.log
+
+*.ac
+*.rep
+
 VID_20220420_103940756.mp4
 VID_20220420_104301506.mp4

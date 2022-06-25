@@ -1,0 +1,10 @@
+{
+	"model" : "model006",
+	"interval" : 40,
+	"scales" : [0.5],
+	"event_maximum" : 180000,
+	"logging_action" : true,
+	"logging_action_factor" : 1000,
+	"warning_action" : true,
+	"summary_active" : true
+}

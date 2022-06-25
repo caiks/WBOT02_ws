@@ -4,6 +4,8 @@
 	"scales" : [0.5, 0.5, 0.5, 0.5, 0.5],
 	"offsets" : [[-0.25,0.0],[0.0,-0.25],[0.0,0.0],[0.0,0.25],[0.25,0.0]],
 	"event_maximum" : 720000,
+	"logging_action" : true,
+	"logging_action_factor" : 1000,
 	"warning_action" : true,
 	"summary_active" : true
 }

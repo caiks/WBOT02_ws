@@ -1,0 +1,12 @@
+{
+	"model" : "model009",
+	"interval" : 40,
+	"mode" : "mode001",
+	"event_maximum" : 180000,
+	"lag_threshold" : 5,
+	"motion_detection_threshold" : 25,
+	"logging_event" : true,
+	"logging_event_factor" : 1000,
+	"warning_action" : true,
+	"summary_active" : true
+}

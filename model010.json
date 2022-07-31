@@ -3,7 +3,7 @@
 	"interval" : 40,
 	"mode" : "mode001",
 	"event_size" : 4,
-	"random_centreX" : 0.1,
+	"random_centreX" : 0.18,
 	"random_centreY" : 0.25,
 	"event_maximum" : 720001,
 	"lag_threshold" : 5,

@@ -1,0 +1,8 @@
+model016	load	file name: model016.ac	time 2.80969s
+model018	fuds cardinality: 3102	model cardinality: 56809	active size: 719888	fuds per threshold: 0.861801
+actor	status: started
+application.exec(): actor	event id: 720005	time 0.0060165s
+0
+model018	dump	file name: model018.ac	time 2.0699s
+actor	dump	file name:model018.rep
+actor	status: finished

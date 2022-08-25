@@ -1,0 +1,19 @@
+{
+	"model" : "model018",
+	"interval" : 80,
+	"model_initial" : "model016",
+	"mode" : "mode003",
+	"event_size" : 4,
+	"scan_size" : 20,
+	"random_centreX" : 0.549,
+	"random_centreY" : 0.412,
+	"event_maximum" : 1000000,
+	"lag_threshold" : 5,
+	"motion_detection_threshold" : 25,
+	"interactive" : false,
+	"logging_event" : true,
+	"logging_event_factor" : 1000,
+	"summary_active" : true,
+	"logging_action" : false,
+	"warning_action" : true
+}

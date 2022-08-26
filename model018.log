@@ -1,8 +1,1480 @@
-model016	load	file name: model016.ac	time 2.80969s
+model016	load	file name: model016.ac	time 3.97076s
 model018	fuds cardinality: 3102	model cardinality: 56809	active size: 719888	fuds per threshold: 0.861801
 actor	status: started
-application.exec(): actor	event id: 720005	time 0.0060165s
+application.exec(): actor	event id: 720005	time 0.0116605s
+model018	induce summary	slice: 139193	diagonal: 27.8365	fud cardinality: 3103	model cardinality: 56824	fuds per threshold: 0.861605
+model018	induce summary	slice: 156850	diagonal: 30.7233	fud cardinality: 3104	model cardinality: 56843	fuds per threshold: 0.861767
+model018	induce summary	slice: 143411	diagonal: 22.7842	fud cardinality: 3105	model cardinality: 56859	fuds per threshold: 0.861954
+model018	induce summary	slice: 150919	diagonal: 22.6723	fud cardinality: 3106	model cardinality: 56875	fuds per threshold: 0.862141
+actor	event id: 721005	time 0.0047097s
+model018	induce summary	slice: 144293	diagonal: 26.048	fud cardinality: 3107	model cardinality: 56891	fuds per threshold: 0.861648
+model018	induce summary	slice: 131180	diagonal: 28.6847	fud cardinality: 3108	model cardinality: 56915	fuds per threshold: 0.861749
+model018	induce summary	slice: 131558	diagonal: 25.5677	fud cardinality: 3109	model cardinality: 56931	fuds per threshold: 0.861911
+model018	induce summary	slice: 131738	diagonal: 27.137	fud cardinality: 3110	model cardinality: 56955	fuds per threshold: 0.862079
+model018	induce summary	slice: 146768	diagonal: 26.712	fud cardinality: 3111	model cardinality: 56973	fuds per threshold: 0.862184
+model018	induce summary	slice: 132292	diagonal: 20.7467	fud cardinality: 3112	model cardinality: 56988	fuds per threshold: 0.862294
+model018	induce summary	slice: 141677	diagonal: 21.8003	fud cardinality: 3113	model cardinality: 57004	fuds per threshold: 0.862475
+actor	event id: 722005	time 0.0076537s
+model018	induce summary	slice: 135030	diagonal: 20.7063	fud cardinality: 3114	model cardinality: 57019	fuds per threshold: 0.862656
+model018	induce summary	slice: 131145	diagonal: 27.8387	fud cardinality: 3115	model cardinality: 57034	fuds per threshold: 0.862317
+model018	induce summary	slice: 158931	diagonal: 35.6074	fud cardinality: 3116	model cardinality: 57042	fuds per threshold: 0.862136
+actor	event id: 723005	time 0.0081878s
+model018	induce summary	slice: 131198	diagonal: 32.6502	fud cardinality: 3117	model cardinality: 57058	fuds per threshold: 0.861521
+model018	induce summary	slice: 156857	diagonal: 32.307	fud cardinality: 3118	model cardinality: 57073	fuds per threshold: 0.861726
+actor	event id: 724005	time 0.0047581s
+model018	induce summary	slice: 147781	diagonal: 24.4646	fud cardinality: 3119	model cardinality: 57088	fuds per threshold: 0.861588
+actor	warning: act time 0.105874s
+model018	induce summary	slice: 131777	diagonal: 19.1044	fud cardinality: 3120	model cardinality: 57105	fuds per threshold: 0.861027
+model018	induce summary	slice: 134102	diagonal: 30.3778	fud cardinality: 3121	model cardinality: 57139	fuds per threshold: 0.861217
+actor	event id: 725005	time 0.0047957s
+model018	induce summary	slice: 149756	diagonal: 21.1291	fud cardinality: 3122	model cardinality: 57152	fuds per threshold: 0.861018
+model018	induce summary	slice: 159058	diagonal: 34.1023	fud cardinality: 3123	model cardinality: 57179	fuds per threshold: 0.86108
+model018	induce summary	slice: 144251	diagonal: 30.0509	fud cardinality: 3124	model cardinality: 57197	fuds per threshold: 0.86118
+model018	induce summary	slice: 149795	diagonal: 30.7304	fud cardinality: 3125	model cardinality: 57230	fuds per threshold: 0.861351
+model018	induce summary	slice: 159056	diagonal: 32.4556	fud cardinality: 3126	model cardinality: 57238	fuds per threshold: 0.861447
+model018	induce summary	slice: 145175	diagonal: 31.2481	fud cardinality: 3127	model cardinality: 57261	fuds per threshold: 0.86158
+actor	event id: 726005	time 0.0083921s
+model018	induce summary	slice: 138086	diagonal: 29.6776	fud cardinality: 3128	model cardinality: 57276	fuds per threshold: 0.861755
+model018	induce summary	slice: 148843	diagonal: 23.0021	fud cardinality: 3129	model cardinality: 57291	fuds per threshold: 0.861675
+model018	induce summary	slice: 159069	diagonal: 22.0322	fud cardinality: 3130	model cardinality: 57309	fuds per threshold: 0.861424
+actor	event id: 727005	time 0.0052947s
+model018	induce summary	slice: 149793	diagonal: 33.4714	fud cardinality: 3131	model cardinality: 57340	fuds per threshold: 0.861476
+model018	induce summary	slice: 159130	diagonal: 37.1727	fud cardinality: 3132	model cardinality: 57375	fuds per threshold: 0.861481
+model018	induce summary	slice: 131143	diagonal: 22.8855	fud cardinality: 3133	model cardinality: 57390	fuds per threshold: 0.861528
+model018	induce summary	slice: 144376	diagonal: 21.7834	fud cardinality: 3134	model cardinality: 57403	fuds per threshold: 0.861609
+model018	induce summary	slice: 131723	diagonal: 35.2385	fud cardinality: 3135	model cardinality: 57411	fuds per threshold: 0.861685
+model018	induce summary	slice: 143997	diagonal: 27.6637	fud cardinality: 3136	model cardinality: 57429	fuds per threshold: 0.861804
+actor	event id: 728005	time 0.0048523s
+model018	induce summary	slice: 141999	diagonal: 29.1532	fud cardinality: 3137	model cardinality: 57444	fuds per threshold: 0.861823
+model018	induce summary	slice: 147777	diagonal: 25.434	fud cardinality: 3138	model cardinality: 57460	fuds per threshold: 0.86196
+model018	induce summary	slice: 131512	diagonal: 27.7877	fud cardinality: 3139	model cardinality: 57481	fuds per threshold: 0.861922
+model018	induce summary	slice: 145337	diagonal: 30.4388	fud cardinality: 3140	model cardinality: 57501	fuds per threshold: 0.862003
+model018	induce summary	slice: 146910	diagonal: 27.8121	fud cardinality: 3141	model cardinality: 57518	fuds per threshold: 0.862088
+model018	induce summary	slice: 149574	diagonal: 31.4753	fud cardinality: 3142	model cardinality: 57538	fuds per threshold: 0.862244
+actor	event id: 729005	time 0.0087198s
+model018	induce summary	slice: 159067	diagonal: 37.5936	fud cardinality: 3143	model cardinality: 57564	fuds per threshold: 0.862045
+model018	induce summary	slice: 131271	diagonal: 24.2636	fud cardinality: 3144	model cardinality: 57579	fuds per threshold: 0.862107
+model018	induce summary	slice: 142333	diagonal: 28.3221	fud cardinality: 3145	model cardinality: 57605	fuds per threshold: 0.862258
+actor	event id: 730005	time 0.0053681s
+model018	induce summary	slice: 144217	diagonal: 24.7454	fud cardinality: 3146	model cardinality: 57622	fuds per threshold: 0.861668
+model018	induce summary	slice: 159179	diagonal: 36.7748	fud cardinality: 3147	model cardinality: 57649	fuds per threshold: 0.861856
+model018	induce summary	slice: 159259	diagonal: 37.126	fud cardinality: 3148	model cardinality: 57656	fuds per threshold: 0.86197
+model018	induce summary	slice: 159060	diagonal: 36.5805	fud cardinality: 3149	model cardinality: 57672	fuds per threshold: 0.862055
+model018	induce summary	slice: 147139	diagonal: 27.4636	fud cardinality: 3150	model cardinality: 57684	fuds per threshold: 0.862102
+actor	event id: 731005	time 0.0056741s
+model018	induce summary	slice: 131219	diagonal: 21.1196	fud cardinality: 3151	model cardinality: 57700	fuds per threshold: 0.861517
+actor	event id: 732005	time 0.0050869s
+model018	induce summary	slice: 133034	diagonal: 22.9032	fud cardinality: 3152	model cardinality: 57714	fuds per threshold: 0.861329
+model018	induce summary	slice: 156854	diagonal: 34.7694	fud cardinality: 3153	model cardinality: 57723	fuds per threshold: 0.861522
+model018	induce summary	slice: 159290	diagonal: 35.9652	fud cardinality: 3154	model cardinality: 57744	fuds per threshold: 0.86148
+model018	induce summary	slice: 133191	diagonal: 26.0865	fud cardinality: 3155	model cardinality: 57760	fuds per threshold: 0.861344
+model018	induce summary	slice: 159171	diagonal: 24.5331	fud cardinality: 3156	model cardinality: 57780	fuds per threshold: 0.86133
+actor	event id: 733005	time 0.0135568s
+model018	induce summary	slice: 159293	diagonal: 33.6466	fud cardinality: 3157	model cardinality: 57793	fuds per threshold: 0.861495
+model018	induce summary	slice: 149966	diagonal: 26.9371	fud cardinality: 3158	model cardinality: 57810	fuds per threshold: 0.861641
+model018	induce summary	slice: 143437	diagonal: 25.0069	fud cardinality: 3159	model cardinality: 57829	fuds per threshold: 0.861679
+actor	event id: 734005	time 0.004466s
+model018	induce summary	slice: 159113	diagonal: 30.6724	fud cardinality: 3160	model cardinality: 57857	fuds per threshold: 0.860445
+model018	induce summary	slice: 146876	diagonal: 29.4499	fud cardinality: 3161	model cardinality: 57879	fuds per threshold: 0.860581
+model018	induce summary	slice: 159357	diagonal: 35.9119	fud cardinality: 3162	model cardinality: 57898	fuds per threshold: 0.860755
+model018	induce summary	slice: 159199	diagonal: 37.268	fud cardinality: 3163	model cardinality: 57906	fuds per threshold: 0.8609
+actor	event id: 735005	time 0.0042657s
+model018	induce summary	slice: 159258	diagonal: 35.7465	fud cardinality: 3164	model cardinality: 57941	fuds per threshold: 0.86099
+model018	induce summary	slice: 159287	diagonal: 37.7084	fud cardinality: 3165	model cardinality: 57948	fuds per threshold: 0.861018
+model018	induce summary	slice: 134103	diagonal: 21.4528	fud cardinality: 3166	model cardinality: 57966	fuds per threshold: 0.861084
+model018	induce summary	slice: 148685	diagonal: 31.0287	fud cardinality: 3167	model cardinality: 57982	fuds per threshold: 0.860935
+actor	event id: 736005	time 0.0087068s
+model018	induce summary	slice: 159332	diagonal: 32.9476	fud cardinality: 3168	model cardinality: 57989	fuds per threshold: 0.860996
+model018	induce summary	slice: 134802	diagonal: 21.7598	fud cardinality: 3169	model cardinality: 58005	fuds per threshold: 0.861123
+model018	induce summary	slice: 159110	diagonal: 37.6823	fud cardinality: 3170	model cardinality: 58030	fuds per threshold: 0.860983
+model018	induce summary	slice: 148726	diagonal: 24.9605	fud cardinality: 3171	model cardinality: 58043	fuds per threshold: 0.860759
+model018	induce summary	slice: 159289	diagonal: 35.8181	fud cardinality: 3172	model cardinality: 58072	fuds per threshold: 0.860918
+actor	event id: 737005	time 0.0076722s
+model018	induce summary	slice: 149304	diagonal: 35.445	fud cardinality: 3173	model cardinality: 58087	fuds per threshold: 0.860942
+model018	induce summary	slice: 159392	diagonal: 31.7147	fud cardinality: 3174	model cardinality: 58094	fuds per threshold: 0.860615
+model018	induce summary	slice: 159178	diagonal: 37.8875	fud cardinality: 3175	model cardinality: 58101	fuds per threshold: 0.86083
+model018	induce summary	slice: 149141	diagonal: 34.1719	fud cardinality: 3176	model cardinality: 58131	fuds per threshold: 0.860868
+actor	event id: 738005	time 0.0051713s
+model018	induce summary	slice: 150917	diagonal: 36.3557	fud cardinality: 3177	model cardinality: 58138	fuds per threshold: 0.860901
+model018	induce summary	slice: 141409	diagonal: 23.4078	fud cardinality: 3178	model cardinality: 58156	fuds per threshold: 0.860999
+model018	induce summary	slice: 144048	diagonal: 27.7696	fud cardinality: 3179	model cardinality: 58172	fuds per threshold: 0.86114
+actor	event id: 739005	time 0.0067066s
+model018	induce summary	slice: 159420	diagonal: 37.9685	fud cardinality: 3180	model cardinality: 58204	fuds per threshold: 0.860287
+model018	induce summary	slice: 149733	diagonal: 32.5704	fud cardinality: 3181	model cardinality: 58226	fuds per threshold: 0.860455
+model018	induce summary	slice: 147365	diagonal: 31.3938	fud cardinality: 3182	model cardinality: 58254	fuds per threshold: 0.860535
+actor	event id: 740005	time 0.0089973s
+model018	induce summary	slice: 159159	diagonal: 33.8148	fud cardinality: 3183	model cardinality: 58265	fuds per threshold: 0.860391
+model018	induce summary	slice: 134176	diagonal: 31.4053	fud cardinality: 3184	model cardinality: 58283	fuds per threshold: 0.860527
+model018	induce summary	slice: 146169	diagonal: 24.8209	fud cardinality: 3185	model cardinality: 58304	fuds per threshold: 0.860671
+model018	induce summary	slice: 152599	diagonal: 20.2595	fud cardinality: 3186	model cardinality: 58326	fuds per threshold: 0.860709
+model018	induce summary	slice: 147264	diagonal: 27.6026	fud cardinality: 3187	model cardinality: 58341	fuds per threshold: 0.860798
+model018	induce summary	slice: 159325	diagonal: 37.8439	fud cardinality: 3188	model cardinality: 58348	fuds per threshold: 0.860775
+actor	event id: 741005	time 0.0042533s
+model018	induce summary	slice: 143024	diagonal: 25.3648	fud cardinality: 3189	model cardinality: 58366	fuds per threshold: 0.860478
+model018	induce summary	slice: 159452	diagonal: 37.5448	fud cardinality: 3190	model cardinality: 58373	fuds per threshold: 0.860567
+model018	induce summary	slice: 139310	diagonal: 25.191	fud cardinality: 3191	model cardinality: 58386	fuds per threshold: 0.860484
+actor	event id: 742005	time 0.0128002s
+model018	induce summary	slice: 133615	diagonal: 25.064	fud cardinality: 3192	model cardinality: 58402	fuds per threshold: 0.860461
+model018	induce summary	slice: 146871	diagonal: 19.6901	fud cardinality: 3193	model cardinality: 58420	fuds per threshold: 0.860619
+model018	induce summary	slice: 146730	diagonal: 36.8557	fud cardinality: 3194	model cardinality: 58449	fuds per threshold: 0.860754
+model018	induce summary	slice: 131693	diagonal: 23.2083	fud cardinality: 3195	model cardinality: 58466	fuds per threshold: 0.860875
+model018	induce summary	slice: 159444	diagonal: 21.5123	fud cardinality: 3196	model cardinality: 58483	fuds per threshold: 0.861066
+model018	induce summary	slice: 151138	diagonal: 18.3874	fud cardinality: 3197	model cardinality: 58497	fuds per threshold: 0.861224
+model018	induce summary	slice: 159328	diagonal: 33.1802	fud cardinality: 3198	model cardinality: 58533	fuds per threshold: 0.861345
+model018	induce summary	slice: 136094	diagonal: 25.2358	fud cardinality: 3199	model cardinality: 58552	fuds per threshold: 0.861493
+actor	event id: 743005	time 0.0067785s
+model018	induce summary	slice: 159292	diagonal: 35.145	fud cardinality: 3200	model cardinality: 58575	fuds per threshold: 0.861197
+model018	induce summary	slice: 159331	diagonal: 35.4141	fud cardinality: 3201	model cardinality: 58582	fuds per threshold: 0.861359
+model018	induce summary	slice: 159065	diagonal: 36.0113	fud cardinality: 3202	model cardinality: 58615	fuds per threshold: 0.861364
+model018	induce summary	slice: 143670	diagonal: 28.7289	fud cardinality: 3203	model cardinality: 58633	fuds per threshold: 0.861401
+model018	induce summary	slice: 159398	diagonal: 31.7645	fud cardinality: 3204	model cardinality: 58649	fuds per threshold: 0.861443
+actor	event id: 744005	time 0.0059354s
+model018	induce summary	slice: 159399	diagonal: 25.0298	fud cardinality: 3205	model cardinality: 58668	fuds per threshold: 0.861499
+model018	induce summary	slice: 144842	diagonal: 29.6167	fud cardinality: 3206	model cardinality: 58681	fuds per threshold: 0.861226
+model018	induce summary	slice: 136225	diagonal: 28.6381	fud cardinality: 3207	model cardinality: 58692	fuds per threshold: 0.861388
+model018	induce summary	slice: 159402	diagonal: 38.1439	fud cardinality: 3208	model cardinality: 58720	fuds per threshold: 0.861536
+model018	induce summary	slice: 159286	diagonal: 38.0738	fud cardinality: 3209	model cardinality: 58750	fuds per threshold: 0.861712
+model018	induce summary	slice: 138737	diagonal: 22.7251	fud cardinality: 3210	model cardinality: 58766	fuds per threshold: 0.861875
+actor	event id: 745005	time 0.0079714s
+model018	induce summary	slice: 146256	diagonal: 26.6159	fud cardinality: 3211	model cardinality: 58780	fuds per threshold: 0.861782
+model018	induce summary	slice: 158937	diagonal: 27.6129	fud cardinality: 3212	model cardinality: 58797	fuds per threshold: 0.861852
+model018	induce summary	slice: 159401	diagonal: 38.1437	fud cardinality: 3213	model cardinality: 58833	fuds per threshold: 0.861884
+actor	event id: 746005	time 0.009973s
+model018	induce summary	slice: 159128	diagonal: 35.44	fud cardinality: 3214	model cardinality: 58850	fuds per threshold: 0.861445
+model018	induce summary	slice: 146600	diagonal: 27.0065	fud cardinality: 3215	model cardinality: 58864	fuds per threshold: 0.861616
+model018	induce summary	slice: 146222	diagonal: 25.0603	fud cardinality: 3216	model cardinality: 58880	fuds per threshold: 0.861773
+model018	induce summary	slice: 148774	diagonal: 25.8856	fud cardinality: 3217	model cardinality: 58895	fuds per threshold: 0.86193
+model018	induce summary	slice: 159396	diagonal: 32.2432	fud cardinality: 3218	model cardinality: 58903	fuds per threshold: 0.862092
+model018	induce summary	slice: 151116	diagonal: 25.973	fud cardinality: 3219	model cardinality: 58925	fuds per threshold: 0.862194
+model018	induce summary	slice: 159455	diagonal: 37.8705	fud cardinality: 3220	model cardinality: 58932	fuds per threshold: 0.862314
+actor	event id: 747005	time 0.008797s
+model018	induce summary	slice: 139490	diagonal: 23.1609	fud cardinality: 3221	model cardinality: 58950	fuds per threshold: 0.862466
+model018	induce summary	slice: 136092	diagonal: 26.1094	fud cardinality: 3222	model cardinality: 58968	fuds per threshold: 0.862623
+model018	induce summary	slice: 146499	diagonal: 23.3826	fud cardinality: 3223	model cardinality: 58981	fuds per threshold: 0.862784
+model018	induce summary	slice: 159538	diagonal: 34.5466	fud cardinality: 3224	model cardinality: 58989	fuds per threshold: 0.862886
+actor	event id: 748005	time 0.0087376s
+model018	induce summary	slice: 149911	diagonal: 21.2981	fud cardinality: 3225	model cardinality: 59002	fuds per threshold: 0.862419
+model018	induce summary	slice: 159330	diagonal: 23.6419	fud cardinality: 3226	model cardinality: 59017	fuds per threshold: 0.862618
+model018	induce summary	slice: 143878	diagonal: 26.7213	fud cardinality: 3227	model cardinality: 59036	fuds per threshold: 0.862484
+model018	induce summary	slice: 151073	diagonal: 27.2787	fud cardinality: 3228	model cardinality: 59051	fuds per threshold: 0.862156
+actor	event id: 749005	time 0.0070351s
+model018	induce summary	slice: 159454	diagonal: 37.909	fud cardinality: 3229	model cardinality: 59081	fuds per threshold: 0.862336
+model018	induce summary	slice: 159445	diagonal: 18.3896	fud cardinality: 3230	model cardinality: 59098	fuds per threshold: 0.86246
+model018	induce summary	slice: 159380	diagonal: 21.1133	fud cardinality: 3231	model cardinality: 59112	fuds per threshold: 0.862511
+model018	induce summary	slice: 159639	diagonal: 38.0252	fud cardinality: 3232	model cardinality: 59144	fuds per threshold: 0.862492
+model018	induce summary	slice: 159356	diagonal: 38.204	fud cardinality: 3233	model cardinality: 59194	fuds per threshold: 0.862639
+model018	induce summary	slice: 159486	diagonal: 21.1325	fud cardinality: 3234	model cardinality: 59210	fuds per threshold: 0.862662
+model018	induce summary	slice: 145330	diagonal: 24.7448	fud cardinality: 3235	model cardinality: 59226	fuds per threshold: 0.862819
+actor	event id: 750005	time 0.0087493s
+model018	induce summary	slice: 159537	diagonal: 37.9835	fud cardinality: 3236	model cardinality: 59264	fuds per threshold: 0.862956
+model018	induce summary	slice: 137060	diagonal: 22.1889	fud cardinality: 3237	model cardinality: 59278	fuds per threshold: 0.863117
+model018	induce summary	slice: 159433	diagonal: 26.0191	fud cardinality: 3238	model cardinality: 59294	fuds per threshold: 0.863273
+model018	induce summary	slice: 159651	diagonal: 24.3604	fud cardinality: 3239	model cardinality: 59310	fuds per threshold: 0.863181
+model018	induce summary	slice: 151135	diagonal: 28.6857	fud cardinality: 3240	model cardinality: 59327	fuds per threshold: 0.863305
+model018	induce summary	slice: 147702	diagonal: 30.9043	fud cardinality: 3241	model cardinality: 59339	fuds per threshold: 0.863461
+model018	induce summary	slice: 159485	diagonal: 25.8795	fud cardinality: 3242	model cardinality: 59355	fuds per threshold: 0.863539
+actor	event id: 751005	time 0.011366s
+model018	induce summary	slice: 159656	diagonal: 23.9987	fud cardinality: 3243	model cardinality: 59373	fuds per threshold: 0.863731
+model018	induce summary	slice: 159805	diagonal: 38.1849	fud cardinality: 3244	model cardinality: 59410	fuds per threshold: 0.863666
+model018	induce summary	slice: 144827	diagonal: 23.6412	fud cardinality: 3245	model cardinality: 59424	fuds per threshold: 0.863818
+model018	induce summary	slice: 159619	diagonal: 35.8274	fud cardinality: 3246	model cardinality: 59432	fuds per threshold: 0.863978
+model018	induce summary	slice: 159432	diagonal: 38.1893	fud cardinality: 3247	model cardinality: 59456	fuds per threshold: 0.864115
+model018	induce summary	slice: 140036	diagonal: 26.1628	fud cardinality: 3248	model cardinality: 59473	fuds per threshold: 0.864106
+actor	event id: 752005	time 0.0047936s
+model018	induce summary	slice: 159346	diagonal: 23.2443	fud cardinality: 3249	model cardinality: 59497	fuds per threshold: 0.863701
+model018	induce summary	slice: 148083	diagonal: 29.7521	fud cardinality: 3250	model cardinality: 59524	fuds per threshold: 0.863842
+model018	induce summary	slice: 159391	diagonal: 37.3779	fud cardinality: 3251	model cardinality: 59558	fuds per threshold: 0.863989
+actor	event id: 753005	time 0.0048437s
+model018	induce summary	slice: 159419	diagonal: 30.0438	fud cardinality: 3252	model cardinality: 59584	fuds per threshold: 0.863511
+model018	induce summary	slice: 159899	diagonal: 38.2218	fud cardinality: 3253	model cardinality: 59627	fuds per threshold: 0.863373
+model018	induce summary	slice: 141821	diagonal: 33.2245	fud cardinality: 3254	model cardinality: 59661	fuds per threshold: 0.863501
+model018	induce summary	slice: 146067	diagonal: 25.5407	fud cardinality: 3255	model cardinality: 59676	fuds per threshold: 0.863556
+actor	event id: 754005	time 0.0131602s
+model018	induce summary	slice: 143679	diagonal: 23.8951	fud cardinality: 3256	model cardinality: 59694	fuds per threshold: 0.863706
+model018	induce summary	slice: 138738	diagonal: 24.1582	fud cardinality: 3257	model cardinality: 59709	fuds per threshold: 0.863807
+model018	induce summary	slice: 159394	diagonal: 35.7602	fud cardinality: 3258	model cardinality: 59716	fuds per threshold: 0.863998
+model018	induce summary	slice: 141520	diagonal: 24.4653	fud cardinality: 3259	model cardinality: 59731	fuds per threshold: 0.864057
+model018	induce summary	slice: 158588	diagonal: 29.5759	fud cardinality: 3260	model cardinality: 59747	fuds per threshold: 0.864148
+model018	induce summary	slice: 159596	diagonal: 29.3539	fud cardinality: 3261	model cardinality: 59768	fuds per threshold: 0.864299
+actor	event id: 755005	time 0.0109191s
+model018	induce summary	slice: 152594	diagonal: 25.2526	fud cardinality: 3262	model cardinality: 59784	fuds per threshold: 0.864106
+model018	induce summary	slice: 146952	diagonal: 22.6409	fud cardinality: 3263	model cardinality: 59797	fuds per threshold: 0.863387
+actor	event id: 756005	time 0.0049517s
+model018	induce summary	slice: 159723	diagonal: 37.0657	fud cardinality: 3264	model cardinality: 59804	fuds per threshold: 0.86357
+model018	induce summary	slice: 159503	diagonal: 36.6869	fud cardinality: 3265	model cardinality: 59811	fuds per threshold: 0.863336
+model018	induce summary	slice: 147388	diagonal: 33.4806	fud cardinality: 3266	model cardinality: 59841	fuds per threshold: 0.863126
+actor	event id: 757005	time 0.0118783s
+model018	induce summary	slice: 159977	diagonal: 22.7565	fud cardinality: 3267	model cardinality: 59859	fuds per threshold: 0.862497
+model018	induce summary	slice: 159992	diagonal: 30.9378	fud cardinality: 3268	model cardinality: 59882	fuds per threshold: 0.862538
+model018	induce summary	slice: 160035	diagonal: 31.9419	fud cardinality: 3269	model cardinality: 59903	fuds per threshold: 0.862706
+actor	event id: 758005	time 0.0083751s
+model018	induce summary	slice: 138221	diagonal: 27.382	fud cardinality: 3270	model cardinality: 59927	fuds per threshold: 0.86277
+model018	induce summary	slice: 146430	diagonal: 30.7315	fud cardinality: 3271	model cardinality: 59946	fuds per threshold: 0.862901
+model018	induce summary	slice: 159683	diagonal: 25.6091	fud cardinality: 3272	model cardinality: 59960	fuds per threshold: 0.862837
+model018	induce summary	slice: 137200	diagonal: 21.3706	fud cardinality: 3273	model cardinality: 59975	fuds per threshold: 0.862924
+model018	induce summary	slice: 159760	diagonal: 36.847	fud cardinality: 3274	model cardinality: 59983	fuds per threshold: 0.863087
+actor	event id: 759005	time 0.0060946s
+model018	induce summary	slice: 159898	diagonal: 30.9621	fud cardinality: 3275	model cardinality: 60001	fuds per threshold: 0.862914
+model018	induce summary	slice: 159978	diagonal: 28.3834	fud cardinality: 3276	model cardinality: 60016	fuds per threshold: 0.862782
+model018	induce summary	slice: 149978	diagonal: 23.7021	fud cardinality: 3277	model cardinality: 60031	fuds per threshold: 0.862791
+model018	induce summary	slice: 142271	diagonal: 32.5051	fud cardinality: 3278	model cardinality: 60049	fuds per threshold: 0.862768
+actor	event id: 760005	time 0.0136707s
+model018	induce summary	slice: 143797	diagonal: 36.106	fud cardinality: 3279	model cardinality: 60068	fuds per threshold: 0.862899
+actor	event id: 761005	time 0.0048937s
+model018	induce summary	slice: 159687	diagonal: 33.5272	fud cardinality: 3280	model cardinality: 60092	fuds per threshold: 0.861716
+model018	induce summary	slice: 159825	diagonal: 20.3906	fud cardinality: 3281	model cardinality: 60108	fuds per threshold: 0.861929
+model018	induce summary	slice: 159719	diagonal: 32.5704	fud cardinality: 3282	model cardinality: 60137	fuds per threshold: 0.861829
+model018	induce summary	slice: 159686	diagonal: 24.3437	fud cardinality: 3283	model cardinality: 60151	fuds per threshold: 0.861938
+actor	event id: 762005	time 0.0115811s
+model018	induce summary	slice: 145778	diagonal: 32.3749	fud cardinality: 3284	model cardinality: 60173	fuds per threshold: 0.862001
+model018	induce summary	slice: 143873	diagonal: 23.2397	fud cardinality: 3285	model cardinality: 60192	fuds per threshold: 0.862146
+model018	induce summary	slice: 131961	diagonal: 33.8858	fud cardinality: 3286	model cardinality: 60199	fuds per threshold: 0.8623
+model018	induce summary	slice: 159551	diagonal: 34.9309	fud cardinality: 3287	model cardinality: 60222	fuds per threshold: 0.862431
+model018	induce summary	slice: 141527	diagonal: 22.9668	fud cardinality: 3288	model cardinality: 60235	fuds per threshold: 0.862585
+model018	induce summary	slice: 144644	diagonal: 25.2111	fud cardinality: 3289	model cardinality: 60250	fuds per threshold: 0.862738
+model018	induce summary	slice: 160034	diagonal: 24.9811	fud cardinality: 3290	model cardinality: 60265	fuds per threshold: 0.862562
+actor	event id: 763005	time 0.0053986s
+model018	induce summary	slice: 159720	diagonal: 23.4649	fud cardinality: 3291	model cardinality: 60281	fuds per threshold: 0.862521
+model018	induce summary	slice: 160124	diagonal: 33.0004	fud cardinality: 3292	model cardinality: 60293	fuds per threshold: 0.862697
+model018	induce summary	slice: 139688	diagonal: 29.5123	fud cardinality: 3293	model cardinality: 60321	fuds per threshold: 0.862778
+model018	induce summary	slice: 154606	diagonal: 32.4001	fud cardinality: 3294	model cardinality: 60339	fuds per threshold: 0.862737
+model018	induce summary	slice: 160133	diagonal: 28.0427	fud cardinality: 3295	model cardinality: 60362	fuds per threshold: 0.862864
+model018	induce summary	slice: 145260	diagonal: 30.1825	fud cardinality: 3296	model cardinality: 60378	fuds per threshold: 0.863017
+actor	event id: 764005	time 0.0053655s
+model018	induce summary	slice: 146869	diagonal: 31.0153	fud cardinality: 3297	model cardinality: 60390	fuds per threshold: 0.862741
+model018	induce summary	slice: 159870	diagonal: 28.111	fud cardinality: 3298	model cardinality: 60418	fuds per threshold: 0.862854
+model018	induce summary	slice: 141777	diagonal: 25.7758	fud cardinality: 3299	model cardinality: 60431	fuds per threshold: 0.863003
+model018	induce summary	slice: 133792	diagonal: 26.0039	fud cardinality: 3300	model cardinality: 60447	fuds per threshold: 0.862921
+actor	event id: 765005	time 0.0068583s
+model018	induce summary	slice: 159638	diagonal: 26.3583	fud cardinality: 3301	model cardinality: 60470	fuds per threshold: 0.863056
+model018	induce summary	slice: 159623	diagonal: 25.1039	fud cardinality: 3302	model cardinality: 60490	fuds per threshold: 0.863006
+model018	induce summary	slice: 159773	diagonal: 25.888	fud cardinality: 3303	model cardinality: 60511	fuds per threshold: 0.863078
+model018	induce summary	slice: 159508	diagonal: 28.6989	fud cardinality: 3304	model cardinality: 60532	fuds per threshold: 0.862839
+actor	event id: 766005	time 0.0076098s
+model018	induce summary	slice: 159684	diagonal: 38.154	fud cardinality: 3305	model cardinality: 60570	fuds per threshold: 0.862884
+model018	induce summary	slice: 159379	diagonal: 31.6499	fud cardinality: 3306	model cardinality: 60587	fuds per threshold: 0.863032
+model018	induce summary	slice: 159803	diagonal: 23.2745	fud cardinality: 3307	model cardinality: 60605	fuds per threshold: 0.863086
+model018	induce summary	slice: 159848	diagonal: 22.4092	fud cardinality: 3308	model cardinality: 60624	fuds per threshold: 0.863288
+model018	induce summary	slice: 142933	diagonal: 25.9715	fud cardinality: 3309	model cardinality: 60640	fuds per threshold: 0.863374
+model018	induce summary	slice: 143077	diagonal: 19.5334	fud cardinality: 3310	model cardinality: 60656	fuds per threshold: 0.863526
+model018	induce summary	slice: 159390	diagonal: 33.1852	fud cardinality: 3311	model cardinality: 60686	fuds per threshold: 0.863702
+model018	induce summary	slice: 159933	diagonal: 24.0526	fud cardinality: 3312	model cardinality: 60706	fuds per threshold: 0.863886
+model018	induce summary	slice: 159772	diagonal: 27.8339	fud cardinality: 3313	model cardinality: 60734	fuds per threshold: 0.864066
+actor	event id: 767005	time 0.0138582s
+model018	induce summary	slice: 159871	diagonal: 25.4509	fud cardinality: 3314	model cardinality: 60750	fuds per threshold: 0.864223
+model018	induce summary	slice: 148298	diagonal: 31.3771	fud cardinality: 3315	model cardinality: 60784	fuds per threshold: 0.864339
+model018	induce summary	slice: 160151	diagonal: 37.6942	fud cardinality: 3316	model cardinality: 60814	fuds per threshold: 0.864289
+actor	event id: 768005	time 0.0074713s
+model018	induce summary	slice: 160150	diagonal: 18.0296	fud cardinality: 3317	model cardinality: 60831	fuds per threshold: 0.863766
+model018	induce summary	slice: 159968	diagonal: 23.1863	fud cardinality: 3318	model cardinality: 60847	fuds per threshold: 0.863986
+model018	induce summary	slice: 160199	diagonal: 23.1991	fud cardinality: 3319	model cardinality: 60862	fuds per threshold: 0.86417
+actor	event id: 769005	time 0.0050675s
+model018	induce summary	slice: 139627	diagonal: 28.1753	fud cardinality: 3320	model cardinality: 60882	fuds per threshold: 0.86354
+model018	induce summary	slice: 133321	diagonal: 25.1882	fud cardinality: 3321	model cardinality: 60894	fuds per threshold: 0.863683
+model018	induce summary	slice: 159994	diagonal: 36.0841	fud cardinality: 3322	model cardinality: 60919	fuds per threshold: 0.863719
+actor	event id: 770005	time 0.0069509s
+model018	induce summary	slice: 137894	diagonal: 35.0376	fud cardinality: 3323	model cardinality: 60942	fuds per threshold: 0.862942
+model018	induce summary	slice: 148615	diagonal: 27.0463	fud cardinality: 3324	model cardinality: 60960	fuds per threshold: 0.863134
+model018	induce summary	slice: 137983	diagonal: 32.6493	fud cardinality: 3325	model cardinality: 60980	fuds per threshold: 0.863183
+model018	induce summary	slice: 135889	diagonal: 31.4715	fud cardinality: 3326	model cardinality: 61007	fuds per threshold: 0.862973
+actor	event id: 771005	time 0.011291s
+model018	induce summary	slice: 150180	diagonal: 30.9773	fud cardinality: 3327	model cardinality: 61030	fuds per threshold: 0.863107
+model018	induce summary	slice: 159877	diagonal: 26.8692	fud cardinality: 3328	model cardinality: 61048	fuds per threshold: 0.863254
+model018	induce summary	slice: 146945	diagonal: 29.2565	fud cardinality: 3329	model cardinality: 61066	fuds per threshold: 0.863397
+model018	induce summary	slice: 145607	diagonal: 23.9253	fud cardinality: 3330	model cardinality: 61079	fuds per threshold: 0.86354
+model018	induce summary	slice: 160201	diagonal: 21.9767	fud cardinality: 3331	model cardinality: 61099	fuds per threshold: 0.863593
+model018	induce summary	slice: 159460	diagonal: 37.7134	fud cardinality: 3332	model cardinality: 61106	fuds per threshold: 0.863754
+actor	event id: 772005	time 0.0047202s
+model018	induce summary	slice: 159923	diagonal: 22.9999	fud cardinality: 3333	model cardinality: 61124	fuds per threshold: 0.863494
+model018	induce summary	slice: 144269	diagonal: 27.0579	fud cardinality: 3334	model cardinality: 61139	fuds per threshold: 0.863668
+model018	induce summary	slice: 138820	diagonal: 26.4874	fud cardinality: 3335	model cardinality: 61153	fuds per threshold: 0.863095
+actor	event id: 773005	time 0.0052781s
+model018	induce summary	slice: 138971	diagonal: 21.7451	fud cardinality: 3336	model cardinality: 61170	fuds per threshold: 0.86297
+model018	induce summary	slice: 152378	diagonal: 29.4434	fud cardinality: 3337	model cardinality: 61196	fuds per threshold: 0.863135
+model018	induce summary	slice: 131488	diagonal: 37.6604	fud cardinality: 3338	model cardinality: 61222	fuds per threshold: 0.863259
+model018	induce summary	slice: 160073	diagonal: 35.3147	fud cardinality: 3339	model cardinality: 61229	fuds per threshold: 0.863451
+model018	induce summary	slice: 133869	diagonal: 26.6083	fud cardinality: 3340	model cardinality: 61247	fuds per threshold: 0.863607
+model018	induce summary	slice: 159990	diagonal: 37.4904	fud cardinality: 3341	model cardinality: 61280	fuds per threshold: 0.863732
+model018	induce summary	slice: 146891	diagonal: 34.8341	fud cardinality: 3342	model cardinality: 61297	fuds per threshold: 0.863762
+actor	event id: 774005	time 0.0092478s
+model018	induce summary	slice: 159911	diagonal: 25.9139	fud cardinality: 3343	model cardinality: 61322	fuds per threshold: 0.863896
+model018	induce summary	slice: 159847	diagonal: 26.5978	fud cardinality: 3344	model cardinality: 61341	fuds per threshold: 0.863993
+model018	induce summary	slice: 152945	diagonal: 35.2244	fud cardinality: 3345	model cardinality: 61368	fuds per threshold: 0.864051
+model018	induce summary	slice: 160307	diagonal: 21.8494	fud cardinality: 3346	model cardinality: 61385	fuds per threshold: 0.863823
+actor	event id: 775005	time 0.0064836s
+model018	induce summary	slice: 146091	diagonal: 30.7917	fud cardinality: 3347	model cardinality: 61402	fuds per threshold: 0.863363
+model018	induce summary	slice: 160193	diagonal: 19.733	fud cardinality: 3348	model cardinality: 61418	fuds per threshold: 0.86355
+model018	induce summary	slice: 160102	diagonal: 30.8319	fud cardinality: 3349	model cardinality: 61435	fuds per threshold: 0.863358
+actor	event id: 776005	time 0.0055251s
+model018	induce summary	slice: 156851	diagonal: 24.8484	fud cardinality: 3350	model cardinality: 61450	fuds per threshold: 0.863331
+model018	induce summary	slice: 159717	diagonal: 21.238	fud cardinality: 3351	model cardinality: 61469	fuds per threshold: 0.863482
+model018	induce summary	slice: 139705	diagonal: 27.5338	fud cardinality: 3352	model cardinality: 61485	fuds per threshold: 0.863086
+actor	event id: 777005	time 0.0055931s
+model018	induce summary	slice: 159995	diagonal: 37.2064	fud cardinality: 3353	model cardinality: 61527	fuds per threshold: 0.863116
+model018	induce summary	slice: 141962	diagonal: 22.7212	fud cardinality: 3354	model cardinality: 61545	fuds per threshold: 0.863196
+model018	induce summary	slice: 144095	diagonal: 32.4869	fud cardinality: 3355	model cardinality: 61572	fuds per threshold: 0.86332
+model018	induce summary	slice: 159758	diagonal: 34.7629	fud cardinality: 3356	model cardinality: 61610	fuds per threshold: 0.863404
+model018	induce summary	slice: 145820	diagonal: 36.837	fud cardinality: 3357	model cardinality: 61617	fuds per threshold: 0.86339
+model018	induce summary	slice: 147728	diagonal: 26.9242	fud cardinality: 3358	model cardinality: 61635	fuds per threshold: 0.863368
+actor	event id: 778005	time 0.0212157s
+model018	induce summary	slice: 133845	diagonal: 22.1657	fud cardinality: 3359	model cardinality: 61651	fuds per threshold: 0.863385
+model018	induce summary	slice: 160419	diagonal: 19.8749	fud cardinality: 3360	model cardinality: 61668	fuds per threshold: 0.8633
+model018	induce summary	slice: 160572	diagonal: 26.6372	fud cardinality: 3361	model cardinality: 61694	fuds per threshold: 0.863464
+model018	induce summary	slice: 148864	diagonal: 19.5974	fud cardinality: 3362	model cardinality: 61711	fuds per threshold: 0.86361
+model018	induce summary	slice: 159607	diagonal: 23.598	fud cardinality: 3363	model cardinality: 61729	fuds per threshold: 0.863778
+model018	induce summary	slice: 159969	diagonal: 27.6734	fud cardinality: 3364	model cardinality: 61744	fuds per threshold: 0.86396
+actor	event id: 779005	time 0.0045351s
+model018	induce summary	slice: 159961	diagonal: 31.5354	fud cardinality: 3365	model cardinality: 61784	fuds per threshold: 0.863866
+model018	induce summary	slice: 134426	diagonal: 24.6975	fud cardinality: 3366	model cardinality: 61799	fuds per threshold: 0.864007
+model018	induce summary	slice: 160281	diagonal: 33.7591	fud cardinality: 3367	model cardinality: 61807	fuds per threshold: 0.864153
+model018	induce summary	slice: 153214	diagonal: 27.4874	fud cardinality: 3368	model cardinality: 61823	fuds per threshold: 0.864299
+model018	induce summary	slice: 144440	diagonal: 26.9548	fud cardinality: 3369	model cardinality: 61843	fuds per threshold: 0.864431
+model018	induce summary	slice: 136672	diagonal: 24.5838	fud cardinality: 3370	model cardinality: 61856	fuds per threshold: 0.864577
+actor	event id: 780005	time 0.0048682s
+model018	induce summary	slice: 159636	diagonal: 37.9649	fud cardinality: 3371	model cardinality: 61896	fuds per threshold: 0.863978
+actor	event id: 781005	time 0.0094254s
+model018	induce summary	slice: 160189	diagonal: 37.9704	fud cardinality: 3372	model cardinality: 61939	fuds per threshold: 0.863597
+model018	induce summary	slice: 140707	diagonal: 32.1166	fud cardinality: 3373	model cardinality: 61963	fuds per threshold: 0.863587
+model018	induce summary	slice: 159854	diagonal: 22.795	fud cardinality: 3374	model cardinality: 61980	fuds per threshold: 0.863755
+model018	induce summary	slice: 142514	diagonal: 29.3397	fud cardinality: 3375	model cardinality: 62004	fuds per threshold: 0.863741
+model018	induce summary	slice: 159873	diagonal: 31.9085	fud cardinality: 3376	model cardinality: 62025	fuds per threshold: 0.863926
+model018	induce summary	slice: 144752	diagonal: 32.8941	fud cardinality: 3377	model cardinality: 62058	fuds per threshold: 0.864045
+model018	induce summary	slice: 159953	diagonal: 18.9745	fud cardinality: 3378	model cardinality: 62078	fuds per threshold: 0.864199
+model018	induce summary	slice: 160127	diagonal: 37.1293	fud cardinality: 3379	model cardinality: 62092	fuds per threshold: 0.864345
+actor	event id: 782005	time 0.0105306s
+model018	induce summary	slice: 160018	diagonal: 20.875	fud cardinality: 3380	model cardinality: 62110	fuds per threshold: 0.864477
+model018	induce summary	slice: 146149	diagonal: 22.1734	fud cardinality: 3381	model cardinality: 62122	fuds per threshold: 0.864613
+model018	induce summary	slice: 160538	diagonal: 25.8279	fud cardinality: 3382	model cardinality: 62139	fuds per threshold: 0.864785
+model018	induce summary	slice: 160025	diagonal: 37.9362	fud cardinality: 3383	model cardinality: 62163	fuds per threshold: 0.86493
+model018	induce summary	slice: 144533	diagonal: 24.6014	fud cardinality: 3384	model cardinality: 62179	fuds per threshold: 0.865075
+model018	induce summary	slice: 141459	diagonal: 29.1326	fud cardinality: 3385	model cardinality: 62192	fuds per threshold: 0.864933
+model018	induce summary	slice: 143804	diagonal: 31.0059	fud cardinality: 3386	model cardinality: 62205	fuds per threshold: 0.86506
+actor	event id: 783005	time 0.0150762s
+model018	induce summary	slice: 160308	diagonal: 25.1273	fud cardinality: 3387	model cardinality: 62220	fuds per threshold: 0.865231
+model018	induce summary	slice: 160210	diagonal: 27.2062	fud cardinality: 3388	model cardinality: 62243	fuds per threshold: 0.865279
+model018	induce summary	slice: 147707	diagonal: 30.1104	fud cardinality: 3389	model cardinality: 62263	fuds per threshold: 0.865327
+model018	induce summary	slice: 159874	diagonal: 22.0391	fud cardinality: 3390	model cardinality: 62278	fuds per threshold: 0.865467
+model018	induce summary	slice: 160368	diagonal: 37.3244	fud cardinality: 3391	model cardinality: 62285	fuds per threshold: 0.865479
+model018	induce summary	slice: 145547	diagonal: 21.8195	fud cardinality: 3392	model cardinality: 62301	fuds per threshold: 0.865593
+actor	event id: 784005	time 0.0146535s
+model018	induce summary	slice: 142212	diagonal: 26.7674	fud cardinality: 3393	model cardinality: 62322	fuds per threshold: 0.865632
+model018	induce summary	slice: 145847	diagonal: 31.9438	fud cardinality: 3394	model cardinality: 62348	fuds per threshold: 0.865759
+model018	induce summary	slice: 160376	diagonal: 22.5287	fud cardinality: 3395	model cardinality: 62365	fuds per threshold: 0.865912
+model018	induce summary	slice: 149964	diagonal: 24.9162	fud cardinality: 3396	model cardinality: 62380	fuds per threshold: 0.866039
+model018	induce summary	slice: 160191	diagonal: 38.233	fud cardinality: 3397	model cardinality: 62413	fuds per threshold: 0.866144
+model018	induce summary	slice: 139168	diagonal: 28.2441	fud cardinality: 3398	model cardinality: 62430	fuds per threshold: 0.866245
+model018	induce summary	slice: 159856	diagonal: 21.7958	fud cardinality: 3399	model cardinality: 62450	fuds per threshold: 0.866416
+model018	induce summary	slice: 142138	diagonal: 24.8334	fud cardinality: 3400	model cardinality: 62473	fuds per threshold: 0.86637
+actor	event id: 785005	time 0.0106279s
+model018	induce summary	slice: 159354	diagonal: 23.6431	fud cardinality: 3401	model cardinality: 62500	fuds per threshold: 0.866501
+model018	induce summary	slice: 134793	diagonal: 25.4594	fud cardinality: 3402	model cardinality: 62517	fuds per threshold: 0.866641
+model018	induce summary	slice: 134340	diagonal: 26.8511	fud cardinality: 3403	model cardinality: 62536	fuds per threshold: 0.866728
+model018	induce summary	slice: 160537	diagonal: 20.216	fud cardinality: 3404	model cardinality: 62551	fuds per threshold: 0.866687
+model018	induce summary	slice: 147370	diagonal: 33.0235	fud cardinality: 3405	model cardinality: 62572	fuds per threshold: 0.866747
+actor	event id: 786005	time 0.0084633s
+model018	induce summary	slice: 135901	diagonal: 36.039	fud cardinality: 3406	model cardinality: 62590	fuds per threshold: 0.866724
+model018	induce summary	slice: 159550	diagonal: 32.1397	fud cardinality: 3407	model cardinality: 62620	fuds per threshold: 0.866679
+model018	induce summary	slice: 138035	diagonal: 32.3715	fud cardinality: 3408	model cardinality: 62651	fuds per threshold: 0.866704
+model018	induce summary	slice: 160495	diagonal: 28.5768	fud cardinality: 3409	model cardinality: 62665	fuds per threshold: 0.866636
+model018	induce summary	slice: 139590	diagonal: 29.4141	fud cardinality: 3410	model cardinality: 62684	fuds per threshold: 0.86678
+actor	event id: 787005	time 0.0101819s
+model018	induce summary	slice: 138567	diagonal: 30.2734	fud cardinality: 3411	model cardinality: 62709	fuds per threshold: 0.866902
+model018	induce summary	slice: 149277	diagonal: 21.9066	fud cardinality: 3412	model cardinality: 62725	fuds per threshold: 0.867051
+model018	induce summary	slice: 144960	diagonal: 24.9668	fud cardinality: 3413	model cardinality: 62751	fuds per threshold: 0.866987
+model018	induce summary	slice: 135415	diagonal: 30.6095	fud cardinality: 3414	model cardinality: 62770	fuds per threshold: 0.866739
+actor	event id: 788005	time 0.0051902s
+model018	induce summary	slice: 143066	diagonal: 19.7459	fud cardinality: 3415	model cardinality: 62791	fuds per threshold: 0.86632
+model018	induce summary	slice: 159451	diagonal: 25.6086	fud cardinality: 3416	model cardinality: 62806	fuds per threshold: 0.866385
+model018	induce summary	slice: 145386	diagonal: 28.5358	fud cardinality: 3417	model cardinality: 62839	fuds per threshold: 0.866296
+actor	event id: 789005	time 0.0182295s
+model018	induce summary	slice: 146301	diagonal: 27.8568	fud cardinality: 3418	model cardinality: 62857	fuds per threshold: 0.866137
+model018	induce summary	slice: 136595	diagonal: 21.9017	fud cardinality: 3419	model cardinality: 62874	fuds per threshold: 0.866276
+model018	induce summary	slice: 160633	diagonal: 30.7655	fud cardinality: 3420	model cardinality: 62904	fuds per threshold: 0.866411
+actor	event id: 790005	time 0.0061387s
+model018	induce summary	slice: 142775	diagonal: 20.2454	fud cardinality: 3421	model cardinality: 62919	fuds per threshold: 0.865559
+model018	induce summary	slice: 160027	diagonal: 24.9144	fud cardinality: 3422	model cardinality: 62942	fuds per threshold: 0.865707
+model018	induce summary	slice: 137819	diagonal: 28.8713	fud cardinality: 3423	model cardinality: 62956	fuds per threshold: 0.865833
+actor	event id: 791005	time 0.0119568s
+model018	induce summary	slice: 135410	diagonal: 29.9626	fud cardinality: 3424	model cardinality: 62986	fuds per threshold: 0.865832
+model018	induce summary	slice: 160168	diagonal: 30.4044	fud cardinality: 3425	model cardinality: 63002	fuds per threshold: 0.865979
+model018	induce summary	slice: 160433	diagonal: 20.8556	fud cardinality: 3426	model cardinality: 63023	fuds per threshold: 0.865908
+model018	induce summary	slice: 152644	diagonal: 22.3909	fud cardinality: 3427	model cardinality: 63038	fuds per threshold: 0.865811
+actor	event id: 792005	time 0.0138017s
+model018	induce summary	slice: 158163	diagonal: 32.3013	fud cardinality: 3428	model cardinality: 63047	fuds per threshold: 0.865753
+model018	induce summary	slice: 161039	diagonal: 32.5799	fud cardinality: 3429	model cardinality: 63072	fuds per threshold: 0.86531
+model018	induce summary	slice: 154882	diagonal: 36.872	fud cardinality: 3430	model cardinality: 63079	fuds per threshold: 0.865454
+actor	event id: 793005	time 0.0066593s
+model018	induce summary	slice: 135754	diagonal: 29.5003	fud cardinality: 3431	model cardinality: 63100	fuds per threshold: 0.865378
+model018	induce summary	slice: 160730	diagonal: 37.839	fud cardinality: 3432	model cardinality: 63126	fuds per threshold: 0.865447
+model018	induce summary	slice: 133601	diagonal: 23.237	fud cardinality: 3433	model cardinality: 63147	fuds per threshold: 0.865311
+model018	induce summary	slice: 160348	diagonal: 20.4238	fud cardinality: 3434	model cardinality: 63165	fuds per threshold: 0.865467
+model018	induce summary	slice: 160238	diagonal: 17.5267	fud cardinality: 3435	model cardinality: 63182	fuds per threshold: 0.865614
+model018	induce summary	slice: 143095	diagonal: 24.5412	fud cardinality: 3436	model cardinality: 63199	fuds per threshold: 0.865722
+actor	event id: 794005	time 0.0050521s
+model018	induce summary	slice: 160144	diagonal: 20.1711	fud cardinality: 3437	model cardinality: 63215	fuds per threshold: 0.865651
+model018	induce summary	slice: 160236	diagonal: 23.1295	fud cardinality: 3438	model cardinality: 63239	fuds per threshold: 0.865742
+model018	induce summary	slice: 160563	diagonal: 28.4009	fud cardinality: 3439	model cardinality: 63259	fuds per threshold: 0.865706
+actor	event id: 795005	time 0.0072547s
+model018	induce summary	slice: 160747	diagonal: 37.4265	fud cardinality: 3440	model cardinality: 63266	fuds per threshold: 0.865226
+model018	induce summary	slice: 146281	diagonal: 29.4074	fud cardinality: 3441	model cardinality: 63285	fuds per threshold: 0.865338
+model018	induce summary	slice: 151224	diagonal: 24.5622	fud cardinality: 3442	model cardinality: 63303	fuds per threshold: 0.865063
+actor	event id: 796005	time 0.0049164s
+model018	induce summary	slice: 152936	diagonal: 33.8061	fud cardinality: 3443	model cardinality: 63311	fuds per threshold: 0.86448
+actor	event id: 797005	time 0.0047214s
+model018	induce summary	slice: 160093	diagonal: 23.1161	fud cardinality: 3444	model cardinality: 63328	fuds per threshold: 0.864072
+model018	induce summary	slice: 140431	diagonal: 21.7543	fud cardinality: 3445	model cardinality: 63350	fuds per threshold: 0.86385
+model018	induce summary	slice: 160463	diagonal: 23.8748	fud cardinality: 3446	model cardinality: 63367	fuds per threshold: 0.863871
+actor	event id: 798005	time 0.0048724s
+model018	induce summary	slice: 148263	diagonal: 24.5891	fud cardinality: 3447	model cardinality: 63386	fuds per threshold: 0.863157
+actor	event id: 799005	time 0.0085159s
+model018	induce summary	slice: 150400	diagonal: 23.5779	fud cardinality: 3448	model cardinality: 63405	fuds per threshold: 0.863036
+model018	induce summary	slice: 160654	diagonal: 24.198	fud cardinality: 3449	model cardinality: 63424	fuds per threshold: 0.863178
+model018	induce summary	slice: 147813	diagonal: 21.6301	fud cardinality: 3450	model cardinality: 63438	fuds per threshold: 0.862893
+actor	event id: 800005	time 0.0051219s
+model018	induce summary	slice: 160456	diagonal: 22.5053	fud cardinality: 3451	model cardinality: 63452	fuds per threshold: 0.862452
+model018	induce summary	slice: 160774	diagonal: 23.5112	fud cardinality: 3452	model cardinality: 63470	fuds per threshold: 0.862612
+model018	induce summary	slice: 160943	diagonal: 21.599	fud cardinality: 3453	model cardinality: 63485	fuds per threshold: 0.862685
+model018	induce summary	slice: 160891	diagonal: 30.6521	fud cardinality: 3454	model cardinality: 63512	fuds per threshold: 0.86278
+actor	event id: 801005	time 0.0084104s
+model018	induce summary	slice: 159861	diagonal: 25.8176	fud cardinality: 3455	model cardinality: 63529	fuds per threshold: 0.862646
+model018	induce summary	slice: 161163	diagonal: 31.536	fud cardinality: 3456	model cardinality: 63537	fuds per threshold: 0.86256
+model018	induce summary	slice: 160553	diagonal: 23.8698	fud cardinality: 3457	model cardinality: 63559	fuds per threshold: 0.862658
+model018	induce summary	slice: 160678	diagonal: 22.0044	fud cardinality: 3458	model cardinality: 63578	fuds per threshold: 0.86274
+model018	induce summary	slice: 151103	diagonal: 22.7044	fud cardinality: 3459	model cardinality: 63593	fuds per threshold: 0.862809
+actor	event id: 802005	time 0.0051093s
+model018	induce summary	slice: 143105	diagonal: 28.3052	fud cardinality: 3460	model cardinality: 63616	fuds per threshold: 0.862473
+actor	event id: 803005	time 0.0052232s
+model018	induce summary	slice: 161057	diagonal: 33.5932	fud cardinality: 3461	model cardinality: 63638	fuds per threshold: 0.861545
+model018	induce summary	slice: 160795	diagonal: 21.8633	fud cardinality: 3462	model cardinality: 63656	fuds per threshold: 0.861404
+actor	event id: 804005	time 0.0047341s
+model018	induce summary	slice: 160525	diagonal: 27.1127	fud cardinality: 3463	model cardinality: 63672	fuds per threshold: 0.861366
+model018	induce summary	slice: 145170	diagonal: 22.7194	fud cardinality: 3464	model cardinality: 63686	fuds per threshold: 0.861503
+model018	induce summary	slice: 160444	diagonal: 21.5971	fud cardinality: 3465	model cardinality: 63702	fuds per threshold: 0.861662
+model018	induce summary	slice: 143720	diagonal: 25.6523	fud cardinality: 3466	model cardinality: 63717	fuds per threshold: 0.861696
+model018	induce summary	slice: 161086	diagonal: 18.2079	fud cardinality: 3467	model cardinality: 63734	fuds per threshold: 0.861863
+model018	induce summary	slice: 159868	diagonal: 29.8165	fud cardinality: 3468	model cardinality: 63768	fuds per threshold: 0.861928
+model018	induce summary	slice: 160428	diagonal: 31.9687	fud cardinality: 3469	model cardinality: 63789	fuds per threshold: 0.862099
+model018	induce summary	slice: 161064	diagonal: 18.3358	fud cardinality: 3470	model cardinality: 63804	fuds per threshold: 0.862245
+actor	event id: 805005	time 0.011245s
+model018	induce summary	slice: 160233	diagonal: 31.2716	fud cardinality: 3471	model cardinality: 63825	fuds per threshold: 0.862412
+model018	induce summary	slice: 160312	diagonal: 21.5824	fud cardinality: 3472	model cardinality: 63841	fuds per threshold: 0.862583
+model018	induce summary	slice: 160250	diagonal: 26.1471	fud cardinality: 3473	model cardinality: 63856	fuds per threshold: 0.86275
+model018	induce summary	slice: 142234	diagonal: 28.5561	fud cardinality: 3474	model cardinality: 63872	fuds per threshold: 0.862887
+model018	induce summary	slice: 159921	diagonal: 23.6219	fud cardinality: 3475	model cardinality: 63890	fuds per threshold: 0.863028
+model018	induce summary	slice: 160511	diagonal: 26.1008	fud cardinality: 3476	model cardinality: 63905	fuds per threshold: 0.863212
+model018	induce summary	slice: 160937	diagonal: 30.7586	fud cardinality: 3477	model cardinality: 63927	fuds per threshold: 0.863375
+model018	induce summary	slice: 160142	diagonal: 20.6848	fud cardinality: 3478	model cardinality: 63949	fuds per threshold: 0.863512
+model018	induce summary	slice: 144783	diagonal: 17.7664	fud cardinality: 3479	model cardinality: 63964	fuds per threshold: 0.863511
+actor	event id: 806005	time 0.0091772s
+model018	induce summary	slice: 160541	diagonal: 26.9262	fud cardinality: 3480	model cardinality: 63979	fuds per threshold: 0.863288
+model018	induce summary	slice: 148522	diagonal: 31.7982	fud cardinality: 3481	model cardinality: 64006	fuds per threshold: 0.86339
+model018	induce summary	slice: 160140	diagonal: 33.819	fud cardinality: 3482	model cardinality: 64042	fuds per threshold: 0.863313
+actor	event id: 807005	time 0.0050472s
+model018	induce summary	slice: 160746	diagonal: 37.8699	fud cardinality: 3483	model cardinality: 64049	fuds per threshold: 0.863171
+model018	induce summary	slice: 145031	diagonal: 27.3403	fud cardinality: 3484	model cardinality: 64071	fuds per threshold: 0.862953
+model018	induce summary	slice: 159885	diagonal: 28.7603	fud cardinality: 3485	model cardinality: 64086	fuds per threshold: 0.862995
+actor	event id: 808005	time 0.0114814s
+model018	induce summary	slice: 145631	diagonal: 23.3404	fud cardinality: 3486	model cardinality: 64102	fuds per threshold: 0.862961
+model018	induce summary	slice: 160032	diagonal: 35.5534	fud cardinality: 3487	model cardinality: 64129	fuds per threshold: 0.863102
+model018	induce summary	slice: 160024	diagonal: 32.8849	fud cardinality: 3488	model cardinality: 64158	fuds per threshold: 0.862995
+actor	event id: 809005	time 0.0033237s
+model018	induce summary	slice: 161160	diagonal: 30.4121	fud cardinality: 3489	model cardinality: 64179	fuds per threshold: 0.86241
+model018	induce summary	slice: 160285	diagonal: 37.9701	fud cardinality: 3490	model cardinality: 64208	fuds per threshold: 0.862542
+model018	induce summary	slice: 144583	diagonal: 25.0715	fud cardinality: 3491	model cardinality: 64223	fuds per threshold: 0.862678
+model018	induce summary	slice: 149343	diagonal: 21.3589	fud cardinality: 3492	model cardinality: 64238	fuds per threshold: 0.862823
+model018	induce summary	slice: 161090	diagonal: 23.5174	fud cardinality: 3493	model cardinality: 64256	fuds per threshold: 0.862989
+model018	induce summary	slice: 160499	diagonal: 23.0159	fud cardinality: 3494	model cardinality: 64273	fuds per threshold: 0.863164
+model018	induce summary	slice: 160767	diagonal: 21.2152	fud cardinality: 3495	model cardinality: 64295	fuds per threshold: 0.863359
+model018	induce summary	slice: 160445	diagonal: 28.6154	fud cardinality: 3496	model cardinality: 64313	fuds per threshold: 0.863457
+model018	induce summary	slice: 161027	diagonal: 34.8679	fud cardinality: 3497	model cardinality: 64343	fuds per threshold: 0.863589
+actor	event id: 810005	time 0.0059708s
+model018	induce summary	slice: 146974	diagonal: 31.5592	fud cardinality: 3498	model cardinality: 64368	fuds per threshold: 0.863265
+model018	induce summary	slice: 160550	diagonal: 23.6351	fud cardinality: 3499	model cardinality: 64390	fuds per threshold: 0.863158
+model018	induce summary	slice: 146436	diagonal: 25.3765	fud cardinality: 3500	model cardinality: 64414	fuds per threshold: 0.863294
+actor	event id: 811005	time 0.0047267s
+model018	induce summary	slice: 160754	diagonal: 18.3041	fud cardinality: 3501	model cardinality: 64428	fuds per threshold: 0.863149
+model018	induce summary	slice: 159664	diagonal: 25.8985	fud cardinality: 3502	model cardinality: 64446	fuds per threshold: 0.863314
+model018	induce summary	slice: 160948	diagonal: 26.2404	fud cardinality: 3503	model cardinality: 64462	fuds per threshold: 0.863054
+model018	induce summary	slice: 152265	diagonal: 32.1713	fud cardinality: 3504	model cardinality: 64473	fuds per threshold: 0.863195
+actor	event id: 812005	time 0.0109391s
+model018	induce summary	slice: 161734	diagonal: 38.1164	fud cardinality: 3505	model cardinality: 64514	fuds per threshold: 0.8633
+model018	induce summary	slice: 160426	diagonal: 19.8605	fud cardinality: 3506	model cardinality: 64531	fuds per threshold: 0.863483
+model018	induce summary	slice: 141465	diagonal: 33.3917	fud cardinality: 3507	model cardinality: 64543	fuds per threshold: 0.863576
+model018	induce summary	slice: 160665	diagonal: 21.1879	fud cardinality: 3508	model cardinality: 64562	fuds per threshold: 0.863716
+model018	induce summary	slice: 160086	diagonal: 34.2749	fud cardinality: 3509	model cardinality: 64593	fuds per threshold: 0.863801
+actor	event id: 813005	time 0.0117409s
+model018	induce summary	slice: 160452	diagonal: 18.7899	fud cardinality: 3510	model cardinality: 64610	fuds per threshold: 0.86349
+model018	induce summary	slice: 160126	diagonal: 38.2274	fud cardinality: 3511	model cardinality: 64651	fuds per threshold: 0.86363
+model018	induce summary	slice: 160263	diagonal: 22.0779	fud cardinality: 3512	model cardinality: 64668	fuds per threshold: 0.863799
+model018	induce summary	slice: 160008	diagonal: 32.8526	fud cardinality: 3513	model cardinality: 64675	fuds per threshold: 0.863879
+model018	induce summary	slice: 159525	diagonal: 31.9533	fud cardinality: 3514	model cardinality: 64684	fuds per threshold: 0.863645
+model018	induce summary	slice: 160072	diagonal: 37.6823	fud cardinality: 3515	model cardinality: 64712	fuds per threshold: 0.863785
+actor	event id: 814005	time 0.0072102s
+model018	induce summary	slice: 146777	diagonal: 22.9426	fud cardinality: 3516	model cardinality: 64727	fuds per threshold: 0.863814
+model018	induce summary	slice: 160808	diagonal: 16.2877	fud cardinality: 3517	model cardinality: 64744	fuds per threshold: 0.863983
+model018	induce summary	slice: 138195	diagonal: 23.8473	fud cardinality: 3518	model cardinality: 64760	fuds per threshold: 0.864047
+model018	induce summary	slice: 160526	diagonal: 23.5038	fud cardinality: 3519	model cardinality: 64778	fuds per threshold: 0.864186
+model018	induce summary	slice: 161595	diagonal: 34.6384	fud cardinality: 3520	model cardinality: 64785	fuds per threshold: 0.864334
+model018	induce summary	slice: 160257	diagonal: 24.092	fud cardinality: 3521	model cardinality: 64801	fuds per threshold: 0.864516
+model018	induce summary	slice: 146298	diagonal: 25.802	fud cardinality: 3522	model cardinality: 64819	fuds per threshold: 0.864621
+model018	induce summary	slice: 160354	diagonal: 19.9389	fud cardinality: 3523	model cardinality: 64836	fuds per threshold: 0.864671
+actor	event id: 815005	time 0.0064121s
+model018	induce summary	slice: 146802	diagonal: 33.2405	fud cardinality: 3524	model cardinality: 64873	fuds per threshold: 0.864476
+model018	induce summary	slice: 148022	diagonal: 30.247	fud cardinality: 3525	model cardinality: 64885	fuds per threshold: 0.864602
+model018	induce summary	slice: 143358	diagonal: 28.5947	fud cardinality: 3526	model cardinality: 64906	fuds per threshold: 0.86461
+model018	induce summary	slice: 133551	diagonal: 28.3517	fud cardinality: 3527	model cardinality: 64922	fuds per threshold: 0.864668
+actor	event id: 816005	time 0.008348s
+model018	induce summary	slice: 161162	diagonal: 30.627	fud cardinality: 3528	model cardinality: 64952	fuds per threshold: 0.864808
+model018	induce summary	slice: 160280	diagonal: 37.9082	fud cardinality: 3529	model cardinality: 64981	fuds per threshold: 0.864947
+model018	induce summary	slice: 161007	diagonal: 28.1968	fud cardinality: 3530	model cardinality: 64993	fuds per threshold: 0.865111
+model018	induce summary	slice: 161003	diagonal: 23.29	fud cardinality: 3531	model cardinality: 65009	fuds per threshold: 0.865301
+model018	induce summary	slice: 145796	diagonal: 30.3964	fud cardinality: 3532	model cardinality: 65035	fuds per threshold: 0.865228
+model018	induce summary	slice: 160248	diagonal: 23.0671	fud cardinality: 3533	model cardinality: 65059	fuds per threshold: 0.865121
+model018	induce summary	slice: 160381	diagonal: 22.3976	fud cardinality: 3534	model cardinality: 65072	fuds per threshold: 0.865269
+actor	event id: 817005	time 0.0065976s
+model018	induce summary	slice: 152739	diagonal: 27.1741	fud cardinality: 3535	model cardinality: 65093	fuds per threshold: 0.864828
+model018	induce summary	slice: 140995	diagonal: 24.2474	fud cardinality: 3536	model cardinality: 65115	fuds per threshold: 0.864962
+actor	event id: 818005	time 0.0072222s
+model018	induce summary	slice: 140680	diagonal: 34.6738	fud cardinality: 3537	model cardinality: 65143	fuds per threshold: 0.864754
+model018	induce summary	slice: 161054	diagonal: 18.7254	fud cardinality: 3538	model cardinality: 65161	fuds per threshold: 0.864774
+model018	induce summary	slice: 142348	diagonal: 29.7088	fud cardinality: 3539	model cardinality: 65185	fuds per threshold: 0.864824
+model018	induce summary	slice: 160350	diagonal: 27.6701	fud cardinality: 3540	model cardinality: 65209	fuds per threshold: 0.864921
+model018	induce summary	slice: 153070	diagonal: 20.8974	fud cardinality: 3541	model cardinality: 65227	fuds per threshold: 0.865051
+actor	event id: 819005	time 0.0106248s
+model018	induce summary	slice: 160811	diagonal: 26.8348	fud cardinality: 3542	model cardinality: 65248	fuds per threshold: 0.864945
+model018	induce summary	slice: 140982	diagonal: 26.1162	fud cardinality: 3543	model cardinality: 65263	fuds per threshold: 0.864838
+actor	event id: 820005	time 0.0059015s
+model018	induce summary	slice: 160466	diagonal: 30.7959	fud cardinality: 3544	model cardinality: 65291	fuds per threshold: 0.864087
+model018	induce summary	slice: 161213	diagonal: 28.1571	fud cardinality: 3545	model cardinality: 65304	fuds per threshold: 0.86412
+model018	induce summary	slice: 160447	diagonal: 23.6046	fud cardinality: 3546	model cardinality: 65325	fuds per threshold: 0.864124
+model018	induce summary	slice: 147033	diagonal: 22.9886	fud cardinality: 3547	model cardinality: 65339	fuds per threshold: 0.864262
+actor	event id: 821005	time 0.0095846s
+model018	induce summary	slice: 160230	diagonal: 37.7793	fud cardinality: 3548	model cardinality: 65346	fuds per threshold: 0.864379
+model018	induce summary	slice: 161212	diagonal: 28.0101	fud cardinality: 3549	model cardinality: 65365	fuds per threshold: 0.863979
+model018	induce summary	slice: 159816	diagonal: 28.8422	fud cardinality: 3550	model cardinality: 65388	fuds per threshold: 0.863953
+actor	event id: 822005	time 0.0049262s
+model018	induce summary	slice: 160253	diagonal: 28.6698	fud cardinality: 3551	model cardinality: 65412	fuds per threshold: 0.863978
+model018	induce summary	slice: 160954	diagonal: 23.7986	fud cardinality: 3552	model cardinality: 65429	fuds per threshold: 0.864036
+model018	induce summary	slice: 160029	diagonal: 27.9892	fud cardinality: 3553	model cardinality: 65449	fuds per threshold: 0.864178
+model018	induce summary	slice: 161004	diagonal: 25.828	fud cardinality: 3554	model cardinality: 65468	fuds per threshold: 0.864337
+model018	induce summary	slice: 160822	diagonal: 29.2531	fud cardinality: 3555	model cardinality: 65495	fuds per threshold: 0.864429
+actor	event id: 823005	time 0.0048706s
+actor	event id: 824005	time 0.0046207s
+model018	induce summary	slice: 160970	diagonal: 29.83	fud cardinality: 3556	model cardinality: 65514	fuds per threshold: 0.862855
+model018	induce summary	slice: 145850	diagonal: 29.8533	fud cardinality: 3557	model cardinality: 65539	fuds per threshold: 0.863014
+model018	induce summary	slice: 162172	diagonal: 25.4847	fud cardinality: 3558	model cardinality: 65555	fuds per threshold: 0.862826
+actor	event id: 825005	time 0.0072491s
+model018	induce summary	slice: 159352	diagonal: 25.769	fud cardinality: 3559	model cardinality: 65580	fuds per threshold: 0.862721
+model018	induce summary	slice: 161900	diagonal: 24.5207	fud cardinality: 3560	model cardinality: 65595	fuds per threshold: 0.862754
+model018	induce summary	slice: 160807	diagonal: 33.0248	fud cardinality: 3561	model cardinality: 65624	fuds per threshold: 0.862737
+model018	induce summary	slice: 153037	diagonal: 30.8597	fud cardinality: 3562	model cardinality: 65651	fuds per threshold: 0.862729
+actor	event id: 826005	time 0.0088089s
+model018	induce summary	slice: 161125	diagonal: 23.4514	fud cardinality: 3563	model cardinality: 65668	fuds per threshold: 0.8628
+model018	induce summary	slice: 160473	diagonal: 28.1415	fud cardinality: 3564	model cardinality: 65690	fuds per threshold: 0.862967
+model018	induce summary	slice: 131687	diagonal: 31.8476	fud cardinality: 3565	model cardinality: 65717	fuds per threshold: 0.863062
+model018	induce summary	slice: 161006	diagonal: 29.2356	fud cardinality: 3566	model cardinality: 65730	fuds per threshold: 0.863096
+model018	induce summary	slice: 133111	diagonal: 23.3366	fud cardinality: 3567	model cardinality: 65745	fuds per threshold: 0.863233
+model018	induce summary	slice: 159654	diagonal: 19.6231	fud cardinality: 3568	model cardinality: 65760	fuds per threshold: 0.863404
+model018	induce summary	slice: 141101	diagonal: 26.9697	fud cardinality: 3569	model cardinality: 65777	fuds per threshold: 0.863487
+actor	event id: 827005	time 0.0118176s
+model018	induce summary	slice: 143030	diagonal: 19.7324	fud cardinality: 3570	model cardinality: 65796	fuds per threshold: 0.863019
+model018	induce summary	slice: 161233	diagonal: 24.8839	fud cardinality: 3571	model cardinality: 65816	fuds per threshold: 0.863186
+model018	induce summary	slice: 142889	diagonal: 21.1594	fud cardinality: 3572	model cardinality: 65831	fuds per threshold: 0.863315
+model018	induce summary	slice: 148391	diagonal: 22.814	fud cardinality: 3573	model cardinality: 65846	fuds per threshold: 0.86339
+actor	event id: 828005	time 0.0119984s
+model018	induce summary	slice: 161512	diagonal: 29.6109	fud cardinality: 3574	model cardinality: 65860	fuds per threshold: 0.86336
+model018	induce summary	slice: 149521	diagonal: 18.7756	fud cardinality: 3575	model cardinality: 65875	fuds per threshold: 0.863281
+model018	induce summary	slice: 161129	diagonal: 19.3295	fud cardinality: 3576	model cardinality: 65889	fuds per threshold: 0.863426
+model018	induce summary	slice: 162171	diagonal: 27.4656	fud cardinality: 3577	model cardinality: 65914	fuds per threshold: 0.863551
+model018	induce summary	slice: 144647	diagonal: 27.8216	fud cardinality: 3578	model cardinality: 65932	fuds per threshold: 0.86368
+model018	induce summary	slice: 137855	diagonal: 31.2151	fud cardinality: 3579	model cardinality: 65957	fuds per threshold: 0.863692
+actor	event id: 829005	time 0.0114432s
+model018	induce summary	slice: 139942	diagonal: 33.0057	fud cardinality: 3580	model cardinality: 65980	fuds per threshold: 0.863758
+model018	induce summary	slice: 161701	diagonal: 23.4486	fud cardinality: 3581	model cardinality: 65994	fuds per threshold: 0.863832
+model018	induce summary	slice: 133926	diagonal: 28.8318	fud cardinality: 3582	model cardinality: 66020	fuds per threshold: 0.863561
+model018	induce summary	slice: 143606	diagonal: 27.147	fud cardinality: 3583	model cardinality: 66047	fuds per threshold: 0.863682
+model018	induce summary	slice: 147315	diagonal: 22.6929	fud cardinality: 3584	model cardinality: 66061	fuds per threshold: 0.86381
+actor	event id: 830005	time 0.0088844s
+model018	induce summary	slice: 159586	diagonal: 37.7401	fud cardinality: 3585	model cardinality: 66080	fuds per threshold: 0.863935
+model018	induce summary	slice: 160565	diagonal: 33.6537	fud cardinality: 3586	model cardinality: 66101	fuds per threshold: 0.864088
+model018	induce summary	slice: 161247	diagonal: 27.4209	fud cardinality: 3587	model cardinality: 66121	fuds per threshold: 0.864217
+model018	induce summary	slice: 162092	diagonal: 27.3112	fud cardinality: 3588	model cardinality: 66139	fuds per threshold: 0.863966
+model018	induce summary	slice: 146884	diagonal: 38.0264	fud cardinality: 3589	model cardinality: 66174	fuds per threshold: 0.864086
+actor	event id: 831005	time 0.0083685s
+model018	induce summary	slice: 137026	diagonal: 27.1202	fud cardinality: 3590	model cardinality: 66189	fuds per threshold: 0.864086
+model018	induce summary	slice: 143868	diagonal: 26.0788	fud cardinality: 3591	model cardinality: 66206	fuds per threshold: 0.864035
+model018	induce summary	slice: 160408	diagonal: 28.5504	fud cardinality: 3592	model cardinality: 66226	fuds per threshold: 0.864018
+actor	event id: 832005	time 0.0082767s
+model018	induce summary	slice: 161079	diagonal: 28.8757	fud cardinality: 3593	model cardinality: 66252	fuds per threshold: 0.863793
+model018	induce summary	slice: 140460	diagonal: 26.8853	fud cardinality: 3594	model cardinality: 66266	fuds per threshold: 0.863635
+model018	induce summary	slice: 148287	diagonal: 32.1655	fud cardinality: 3595	model cardinality: 66289	fuds per threshold: 0.863743
+model018	induce summary	slice: 161719	diagonal: 22.7126	fud cardinality: 3596	model cardinality: 66307	fuds per threshold: 0.863813
+model018	induce summary	slice: 149629	diagonal: 34.5354	fud cardinality: 3597	model cardinality: 66334	fuds per threshold: 0.863928
+actor	event id: 833005	time 0.0086122s
+model018	induce summary	slice: 160864	diagonal: 37.5933	fud cardinality: 3598	model cardinality: 66354	fuds per threshold: 0.863928
+model018	induce summary	slice: 160322	diagonal: 24.3129	fud cardinality: 3599	model cardinality: 66370	fuds per threshold: 0.864089
+model018	induce summary	slice: 161056	diagonal: 38.2049	fud cardinality: 3600	model cardinality: 66408	fuds per threshold: 0.864097
+model018	induce summary	slice: 160905	diagonal: 18.9652	fud cardinality: 3601	model cardinality: 66422	fuds per threshold: 0.864212
+model018	induce summary	slice: 144172	diagonal: 30.6428	fud cardinality: 3602	model cardinality: 66444	fuds per threshold: 0.864332
+model018	induce summary	slice: 161752	diagonal: 27.5955	fud cardinality: 3603	model cardinality: 66474	fuds per threshold: 0.864145
+actor	event id: 834005	time 0.0254702s
+model018	induce summary	slice: 147962	diagonal: 30.1191	fud cardinality: 3604	model cardinality: 66486	fuds per threshold: 0.864032
+model018	induce summary	slice: 143195	diagonal: 26.9819	fud cardinality: 3605	model cardinality: 66507	fuds per threshold: 0.863908
+model018	induce summary	slice: 161594	diagonal: 30.3679	fud cardinality: 3606	model cardinality: 66516	fuds per threshold: 0.864069
+actor	event id: 835005	time 0.0046686s
+model018	induce summary	slice: 148038	diagonal: 29.2116	fud cardinality: 3607	model cardinality: 66532	fuds per threshold: 0.863936
+model018	induce summary	slice: 161965	diagonal: 28.3156	fud cardinality: 3608	model cardinality: 66564	fuds per threshold: 0.864051
+model018	induce summary	slice: 161456	diagonal: 23.4255	fud cardinality: 3609	model cardinality: 66581	fuds per threshold: 0.864208
+model018	induce summary	slice: 146630	diagonal: 15.5122	fud cardinality: 3610	model cardinality: 66599	fuds per threshold: 0.863984
+model018	induce summary	slice: 147964	diagonal: 22.2191	fud cardinality: 3611	model cardinality: 66614	fuds per threshold: 0.864062
+actor	event id: 836005	time 0.0116627s
+model018	induce summary	slice: 154386	diagonal: 22.2665	fud cardinality: 3612	model cardinality: 66629	fuds per threshold: 0.864152
+model018	induce summary	slice: 133665	diagonal: 28.8447	fud cardinality: 3613	model cardinality: 66648	fuds per threshold: 0.86416
+model018	induce summary	slice: 161513	diagonal: 30.1965	fud cardinality: 3614	model cardinality: 66662	fuds per threshold: 0.864118
+model018	induce summary	slice: 145015	diagonal: 23.5067	fud cardinality: 3615	model cardinality: 66680	fuds per threshold: 0.86413
+actor	event id: 837005	time 0.0055321s
+model018	induce summary	slice: 160411	diagonal: 28.6277	fud cardinality: 3616	model cardinality: 66701	fuds per threshold: 0.863543
+model018	induce summary	slice: 162242	diagonal: 26.8468	fud cardinality: 3617	model cardinality: 66719	fuds per threshold: 0.863609
+model018	induce summary	slice: 144386	diagonal: 21.0182	fud cardinality: 3618	model cardinality: 66733	fuds per threshold: 0.863748
+actor	event id: 838005	time 0.0104782s
+model018	induce summary	slice: 140503	diagonal: 30.5273	fud cardinality: 3619	model cardinality: 66754	fuds per threshold: 0.863608
+model018	induce summary	slice: 147617	diagonal: 29.5503	fud cardinality: 3620	model cardinality: 66775	fuds per threshold: 0.863731
+model018	induce summary	slice: 162646	diagonal: 23.1066	fud cardinality: 3621	model cardinality: 66791	fuds per threshold: 0.863871
+model018	induce summary	slice: 161592	diagonal: 19.4039	fud cardinality: 3622	model cardinality: 66810	fuds per threshold: 0.863985
+model018	induce summary	slice: 162301	diagonal: 38.2418	fud cardinality: 3623	model cardinality: 66849	fuds per threshold: 0.863973
+model018	induce summary	slice: 161726	diagonal: 26.8604	fud cardinality: 3624	model cardinality: 66866	fuds per threshold: 0.864042
+actor	event id: 839005	time 0.0116862s
+model018	induce summary	slice: 147987	diagonal: 24.6023	fud cardinality: 3625	model cardinality: 66881	fuds per threshold: 0.864169
+model018	induce summary	slice: 161948	diagonal: 24.9535	fud cardinality: 3626	model cardinality: 66903	fuds per threshold: 0.864317
+model018	induce summary	slice: 137620	diagonal: 28.1672	fud cardinality: 3627	model cardinality: 66922	fuds per threshold: 0.864448
+model018	induce summary	slice: 160667	diagonal: 32.3461	fud cardinality: 3628	model cardinality: 66954	fuds per threshold: 0.864629
+model018	induce summary	slice: 140786	diagonal: 27.2749	fud cardinality: 3629	model cardinality: 66967	fuds per threshold: 0.86476
+model018	induce summary	slice: 161797	diagonal: 22.8143	fud cardinality: 3630	model cardinality: 66984	fuds per threshold: 0.864743
+model018	induce summary	slice: 131509	diagonal: 36.0409	fud cardinality: 3631	model cardinality: 66992	fuds per threshold: 0.864862
+actor	event id: 840005	time 0.0083245s
+model018	induce summary	slice: 161918	diagonal: 24.3455	fud cardinality: 3632	model cardinality: 67006	fuds per threshold: 0.864873
+model018	induce summary	slice: 161091	diagonal: 31.42	fud cardinality: 3633	model cardinality: 67027	fuds per threshold: 0.864876
+model018	induce summary	slice: 161284	diagonal: 22.1297	fud cardinality: 3634	model cardinality: 67043	fuds per threshold: 0.864892
+model018	induce summary	slice: 162210	diagonal: 36.6355	fud cardinality: 3635	model cardinality: 67077	fuds per threshold: 0.864949
+model018	induce summary	slice: 131912	diagonal: 23.0903	fud cardinality: 3636	model cardinality: 67095	fuds per threshold: 0.864998
+model018	induce summary	slice: 160729	diagonal: 22.1888	fud cardinality: 3637	model cardinality: 67111	fuds per threshold: 0.865174
+actor	event id: 841005	time 0.0049183s
+model018	induce summary	slice: 148675	diagonal: 21.1367	fud cardinality: 3638	model cardinality: 67131	fuds per threshold: 0.865181
+model018	induce summary	slice: 162822	diagonal: 24.7564	fud cardinality: 3639	model cardinality: 67147	fuds per threshold: 0.865316
+model018	induce summary	slice: 148890	diagonal: 25.6861	fud cardinality: 3640	model cardinality: 67167	fuds per threshold: 0.865447
+model018	induce summary	slice: 161868	diagonal: 24.7706	fud cardinality: 3641	model cardinality: 67184	fuds per threshold: 0.86561
+model018	induce summary	slice: 141092	diagonal: 24.6877	fud cardinality: 3642	model cardinality: 67202	fuds per threshold: 0.865634
+model018	induce summary	slice: 147583	diagonal: 21.5557	fud cardinality: 3643	model cardinality: 67217	fuds per threshold: 0.865765
+model018	induce summary	slice: 160862	diagonal: 34.4221	fud cardinality: 3644	model cardinality: 67239	fuds per threshold: 0.86592
+actor	event id: 842005	time 0.0059049s
+model018	induce summary	slice: 161969	diagonal: 35.4669	fud cardinality: 3645	model cardinality: 67267	fuds per threshold: 0.86582
+model018	induce summary	slice: 161926	diagonal: 26.4496	fud cardinality: 3646	model cardinality: 67286	fuds per threshold: 0.86584
+model018	induce summary	slice: 142298	diagonal: 20.961	fud cardinality: 3647	model cardinality: 67301	fuds per threshold: 0.865757
+actor	event id: 843005	time 0.0051076s
+model018	induce summary	slice: 144732	diagonal: 26.2227	fud cardinality: 3648	model cardinality: 67316	fuds per threshold: 0.865509
+model018	induce summary	slice: 156221	diagonal: 37.9948	fud cardinality: 3649	model cardinality: 67342	fuds per threshold: 0.865521
+model018	induce summary	slice: 145019	diagonal: 36.911	fud cardinality: 3650	model cardinality: 67368	fuds per threshold: 0.865585
+model018	induce summary	slice: 160672	diagonal: 18.9506	fud cardinality: 3651	model cardinality: 67386	fuds per threshold: 0.865675
+model018	induce summary	slice: 159604	diagonal: 33.0198	fud cardinality: 3652	model cardinality: 67420	fuds per threshold: 0.865817
+model018	induce summary	slice: 138922	diagonal: 25.6232	fud cardinality: 3653	model cardinality: 67433	fuds per threshold: 0.865911
+model018	induce summary	slice: 138357	diagonal: 19.9802	fud cardinality: 3654	model cardinality: 67449	fuds per threshold: 0.866029
+actor	event id: 844005	time 0.0070261s
+model018	induce summary	slice: 145273	diagonal: 25.6323	fud cardinality: 3655	model cardinality: 67463	fuds per threshold: 0.866147
+model018	induce summary	slice: 160902	diagonal: 21.5207	fud cardinality: 3656	model cardinality: 67477	fuds per threshold: 0.86608
+model018	induce summary	slice: 160176	diagonal: 16.9668	fud cardinality: 3657	model cardinality: 67495	fuds per threshold: 0.866029
+model018	induce summary	slice: 160497	diagonal: 30.0645	fud cardinality: 3658	model cardinality: 67510	fuds per threshold: 0.866201
+model018	induce summary	slice: 162497	diagonal: 30.4542	fud cardinality: 3659	model cardinality: 67532	fuds per threshold: 0.8662
+actor	event id: 845005	time 0.0052136s
+model018	induce summary	slice: 132344	diagonal: 20.5734	fud cardinality: 3660	model cardinality: 67549	fuds per threshold: 0.865731
+model018	induce summary	slice: 149599	diagonal: 31.7435	fud cardinality: 3661	model cardinality: 67576	fuds per threshold: 0.865751
+actor	event id: 846005	time 0.0101248s
+model018	induce summary	slice: 162370	diagonal: 22.0328	fud cardinality: 3662	model cardinality: 67591	fuds per threshold: 0.865615
+model018	induce summary	slice: 161693	diagonal: 17.5131	fud cardinality: 3663	model cardinality: 67608	fuds per threshold: 0.865683
+actor	event id: 847005	time 0.0064074s
+model018	induce summary	slice: 145660	diagonal: 27.0039	fud cardinality: 3664	model cardinality: 67624	fuds per threshold: 0.865024
+model018	induce summary	slice: 141079	diagonal: 25.1575	fud cardinality: 3665	model cardinality: 67640	fuds per threshold: 0.865162
+model018	induce summary	slice: 161732	diagonal: 27.2786	fud cardinality: 3666	model cardinality: 67656	fuds per threshold: 0.8653
+model018	induce summary	slice: 160785	diagonal: 24.5156	fud cardinality: 3667	model cardinality: 67676	fuds per threshold: 0.865459
+model018	induce summary	slice: 162373	diagonal: 38.103	fud cardinality: 3668	model cardinality: 67723	fuds per threshold: 0.865564
+actor	event id: 848005	time 0.0080438s
+model018	induce summary	slice: 136306	diagonal: 28.0627	fud cardinality: 3669	model cardinality: 67737	fuds per threshold: 0.864718
+model018	induce summary	slice: 143769	diagonal: 24.63	fud cardinality: 3670	model cardinality: 67758	fuds per threshold: 0.864868
+model018	induce summary	slice: 148399	diagonal: 20.3025	fud cardinality: 3671	model cardinality: 67775	fuds per threshold: 0.865002
+actor	event id: 849005	time 0.0095125s
+model018	induce summary	slice: 161968	diagonal: 34.7844	fud cardinality: 3672	model cardinality: 67794	fuds per threshold: 0.865091
+model018	induce summary	slice: 149427	diagonal: 24.5568	fud cardinality: 3673	model cardinality: 67810	fuds per threshold: 0.865164
+model018	induce summary	slice: 162250	diagonal: 25.698	fud cardinality: 3674	model cardinality: 67822	fuds per threshold: 0.865346
+model018	induce summary	slice: 162579	diagonal: 25.0363	fud cardinality: 3675	model cardinality: 67838	fuds per threshold: 0.864954
+actor	event id: 850005	time 0.0049999s
+model018	induce summary	slice: 149517	diagonal: 26.7409	fud cardinality: 3676	model cardinality: 67853	fuds per threshold: 0.864953
+model018	induce summary	slice: 160835	diagonal: 26.1396	fud cardinality: 3677	model cardinality: 67873	fuds per threshold: 0.864713
+model018	induce summary	slice: 161476	diagonal: 27.1134	fud cardinality: 3678	model cardinality: 67891	fuds per threshold: 0.864639
+actor	event id: 851005	time 0.00717s
+model018	induce summary	slice: 160148	diagonal: 30.979	fud cardinality: 3679	model cardinality: 67916	fuds per threshold: 0.864622
+model018	induce summary	slice: 142928	diagonal: 29.641	fud cardinality: 3680	model cardinality: 67934	fuds per threshold: 0.864714
+model018	induce summary	slice: 137136	diagonal: 32.2917	fud cardinality: 3681	model cardinality: 67961	fuds per threshold: 0.864381
+actor	event id: 852005	time 0.0085279s
+model018	induce summary	slice: 140845	diagonal: 29.5903	fud cardinality: 3682	model cardinality: 67976	fuds per threshold: 0.8644
+model018	induce summary	slice: 161140	diagonal: 23.4129	fud cardinality: 3683	model cardinality: 67996	fuds per threshold: 0.864384
+actor	event id: 853005	time 0.0071584s
+model018	induce summary	slice: 162226	diagonal: 38.1256	fud cardinality: 3684	model cardinality: 68036	fuds per threshold: 0.863836
+model018	induce summary	slice: 161380	diagonal: 25.94	fud cardinality: 3685	model cardinality: 68058	fuds per threshold: 0.863973
+model018	induce summary	slice: 161492	diagonal: 22.6024	fud cardinality: 3686	model cardinality: 68076	fuds per threshold: 0.863993
+model018	induce summary	slice: 161714	diagonal: 24.4341	fud cardinality: 3687	model cardinality: 68091	fuds per threshold: 0.863907
+model018	induce summary	slice: 161464	diagonal: 21.8349	fud cardinality: 3688	model cardinality: 68105	fuds per threshold: 0.864064
+model018	induce summary	slice: 161569	diagonal: 20.2567	fud cardinality: 3689	model cardinality: 68123	fuds per threshold: 0.864198
+model018	induce summary	slice: 160509	diagonal: 19.9654	fud cardinality: 3690	model cardinality: 68138	fuds per threshold: 0.864282
+actor	event id: 854005	time 0.0085708s
+model018	induce summary	slice: 160945	diagonal: 23.5003	fud cardinality: 3691	model cardinality: 68156	fuds per threshold: 0.863582
+actor	event id: 855005	time 0.0049936s
+model018	induce summary	slice: 146248	diagonal: 30.0187	fud cardinality: 3692	model cardinality: 68178	fuds per threshold: 0.863492
+model018	induce summary	slice: 160520	diagonal: 33.8913	fud cardinality: 3693	model cardinality: 68195	fuds per threshold: 0.863674
+model018	induce summary	slice: 161641	diagonal: 23.8328	fud cardinality: 3694	model cardinality: 68212	fuds per threshold: 0.863548
+model018	induce summary	slice: 160900	diagonal: 27.41	fud cardinality: 3695	model cardinality: 68228	fuds per threshold: 0.863657
+model018	induce summary	slice: 162575	diagonal: 21.2153	fud cardinality: 3696	model cardinality: 68245	fuds per threshold: 0.863749
+actor	event id: 856005	time 0.0128759s
+model018	induce summary	slice: 142460	diagonal: 22.9268	fud cardinality: 3697	model cardinality: 68260	fuds per threshold: 0.863878
+model018	induce summary	slice: 161787	diagonal: 22.7752	fud cardinality: 3698	model cardinality: 68277	fuds per threshold: 0.863994
+model018	induce summary	slice: 143843	diagonal: 31.591	fud cardinality: 3699	model cardinality: 68296	fuds per threshold: 0.864067
+model018	induce summary	slice: 161708	diagonal: 25.1253	fud cardinality: 3700	model cardinality: 68315	fuds per threshold: 0.863727
+model018	induce summary	slice: 163518	diagonal: 36.2435	fud cardinality: 3701	model cardinality: 68324	fuds per threshold: 0.86384
+actor	event id: 857005	time 0.0062161s
+model018	induce summary	slice: 141096	diagonal: 32.7914	fud cardinality: 3702	model cardinality: 68351	fuds per threshold: 0.863791
+model018	induce summary	slice: 161199	diagonal: 21.9025	fud cardinality: 3703	model cardinality: 68366	fuds per threshold: 0.863802
+model018	induce summary	slice: 162415	diagonal: 23.0224	fud cardinality: 3704	model cardinality: 68381	fuds per threshold: 0.863911
+model018	induce summary	slice: 142896	diagonal: 33.5344	fud cardinality: 3705	model cardinality: 68414	fuds per threshold: 0.864015
+actor	event id: 858005	time 0.0101921s
+model018	induce summary	slice: 144191	diagonal: 25.9673	fud cardinality: 3706	model cardinality: 68430	fuds per threshold: 0.86372
+model018	induce summary	slice: 160518	diagonal: 23.563	fud cardinality: 3707	model cardinality: 68445	fuds per threshold: 0.863893
+model018	induce summary	slice: 141552	diagonal: 25.1894	fud cardinality: 3708	model cardinality: 68460	fuds per threshold: 0.863716
+model018	induce summary	slice: 158592	diagonal: 26.7459	fud cardinality: 3709	model cardinality: 68474	fuds per threshold: 0.863844
+model018	induce summary	slice: 163049	diagonal: 38.0662	fud cardinality: 3710	model cardinality: 68514	fuds per threshold: 0.863964
+actor	event id: 859005	time 0.0095207s
+model018	induce summary	slice: 134147	diagonal: 26.8666	fud cardinality: 3711	model cardinality: 68533	fuds per threshold: 0.864096
+model018	induce summary	slice: 161724	diagonal: 19.536	fud cardinality: 3712	model cardinality: 68550	fuds per threshold: 0.8642
+model018	induce summary	slice: 144973	diagonal: 36.3456	fud cardinality: 3713	model cardinality: 68575	fuds per threshold: 0.863898
+actor	event id: 860005	time 0.008987s
+model018	induce summary	slice: 161533	diagonal: 21.3546	fud cardinality: 3714	model cardinality: 68590	fuds per threshold: 0.863773
+model018	induce summary	slice: 161413	diagonal: 36.6485	fud cardinality: 3715	model cardinality: 68605	fuds per threshold: 0.863805
+model018	induce summary	slice: 144366	diagonal: 21.8563	fud cardinality: 3716	model cardinality: 68617	fuds per threshold: 0.863832
+model018	induce summary	slice: 160968	diagonal: 32.8585	fud cardinality: 3717	model cardinality: 68635	fuds per threshold: 0.863985
+model018	induce summary	slice: 142823	diagonal: 22.3166	fud cardinality: 3718	model cardinality: 68652	fuds per threshold: 0.864076
+model018	induce summary	slice: 162084	diagonal: 30.4623	fud cardinality: 3719	model cardinality: 68682	fuds per threshold: 0.864036
+actor	event id: 861005	time 0.0047601s
+model018	induce summary	slice: 161890	diagonal: 27.8211	fud cardinality: 3720	model cardinality: 68699	fuds per threshold: 0.863979
+model018	induce summary	slice: 145197	diagonal: 31.0041	fud cardinality: 3721	model cardinality: 68726	fuds per threshold: 0.863718
+actor	event id: 862005	time 0.0082832s
+model018	induce summary	slice: 143394	diagonal: 25.126	fud cardinality: 3722	model cardinality: 68747	fuds per threshold: 0.863613
+model018	induce summary	slice: 160668	diagonal: 37.8646	fud cardinality: 3723	model cardinality: 68754	fuds per threshold: 0.863336
+model018	induce summary	slice: 161494	diagonal: 22.2804	fud cardinality: 3724	model cardinality: 68772	fuds per threshold: 0.86344
+model018	induce summary	slice: 161319	diagonal: 29.1255	fud cardinality: 3725	model cardinality: 68801	fuds per threshold: 0.863588
+model018	induce summary	slice: 160284	diagonal: 28.2888	fud cardinality: 3726	model cardinality: 68821	fuds per threshold: 0.86372
+model018	induce summary	slice: 162554	diagonal: 24.4828	fud cardinality: 3727	model cardinality: 68836	fuds per threshold: 0.863847
+actor	event id: 863005	time 0.0080762s
+model018	induce summary	slice: 144574	diagonal: 27.2862	fud cardinality: 3728	model cardinality: 68849	fuds per threshold: 0.863975
+model018	induce summary	slice: 162225	diagonal: 37.0491	fud cardinality: 3729	model cardinality: 68877	fuds per threshold: 0.864143
+model018	induce summary	slice: 144853	diagonal: 23.4587	fud cardinality: 3730	model cardinality: 68895	fuds per threshold: 0.86427
+model018	induce summary	slice: 161497	diagonal: 25.9066	fud cardinality: 3731	model cardinality: 68913	fuds per threshold: 0.864442
+model018	induce summary	slice: 163177	diagonal: 34.43	fud cardinality: 3732	model cardinality: 68923	fuds per threshold: 0.864577
+model018	induce summary	slice: 162069	diagonal: 22.5934	fud cardinality: 3733	model cardinality: 68940	fuds per threshold: 0.864737
+model018	induce summary	slice: 161119	diagonal: 28.8387	fud cardinality: 3734	model cardinality: 68954	fuds per threshold: 0.864888
+model018	induce summary	slice: 146334	diagonal: 30.2283	fud cardinality: 3735	model cardinality: 68972	fuds per threshold: 0.865016
+actor	event id: 864005	time 0.0049264s
+model018	induce summary	slice: 162378	diagonal: 32.2666	fud cardinality: 3736	model cardinality: 68998	fuds per threshold: 0.864819
+model018	induce summary	slice: 151308	diagonal: 32.3356	fud cardinality: 3737	model cardinality: 69022	fuds per threshold: 0.864734
+model018	induce summary	slice: 144625	diagonal: 28.4083	fud cardinality: 3738	model cardinality: 69040	fuds per threshold: 0.864857
+model018	induce summary	slice: 161966	diagonal: 32.5106	fud cardinality: 3739	model cardinality: 69055	fuds per threshold: 0.864997
+model018	induce summary	slice: 148916	diagonal: 27.9033	fud cardinality: 3740	model cardinality: 69076	fuds per threshold: 0.86512
+model018	induce summary	slice: 150365	diagonal: 28.5065	fud cardinality: 3741	model cardinality: 69100	fuds per threshold: 0.865239
+model018	induce summary	slice: 153692	diagonal: 23.5202	fud cardinality: 3742	model cardinality: 69115	fuds per threshold: 0.86537
+actor	event id: 865005	time 0.0089947s
+model018	induce summary	slice: 161781	diagonal: 22.7319	fud cardinality: 3743	model cardinality: 69133	fuds per threshold: 0.865526
+model018	induce summary	slice: 147203	diagonal: 31.2169	fud cardinality: 3744	model cardinality: 69153	fuds per threshold: 0.865653
+model018	induce summary	slice: 139131	diagonal: 22.5881	fud cardinality: 3745	model cardinality: 69170	fuds per threshold: 0.865788
+model018	induce summary	slice: 162249	diagonal: 26.6914	fud cardinality: 3746	model cardinality: 69185	fuds per threshold: 0.865963
+model018	induce summary	slice: 159634	diagonal: 26.073	fud cardinality: 3747	model cardinality: 69202	fuds per threshold: 0.865642
+model018	induce summary	slice: 162375	diagonal: 34.2235	fud cardinality: 3748	model cardinality: 69228	fuds per threshold: 0.865765
+actor	event id: 866005	time 0.0114646s
+model018	induce summary	slice: 143428	diagonal: 32.1569	fud cardinality: 3749	model cardinality: 69249	fuds per threshold: 0.865876
+model018	induce summary	slice: 146523	diagonal: 22.9201	fud cardinality: 3750	model cardinality: 69265	fuds per threshold: 0.865871
+model018	induce summary	slice: 160863	diagonal: 38.2487	fud cardinality: 3751	model cardinality: 69299	fuds per threshold: 0.865998
+model018	induce summary	slice: 141705	diagonal: 24.3516	fud cardinality: 3752	model cardinality: 69319	fuds per threshold: 0.866125
+model018	induce summary	slice: 150823	diagonal: 33.4342	fud cardinality: 3753	model cardinality: 69353	fuds per threshold: 0.866156
+actor	event id: 867005	time 0.0047593s
+model018	induce summary	slice: 148765	diagonal: 20.7127	fud cardinality: 3754	model cardinality: 69367	fuds per threshold: 0.866011
+model018	induce summary	slice: 160762	diagonal: 31.6454	fud cardinality: 3755	model cardinality: 69394	fuds per threshold: 0.866169
+model018	induce summary	slice: 161016	diagonal: 30.6497	fud cardinality: 3756	model cardinality: 69414	fuds per threshold: 0.866264
+model018	induce summary	slice: 159635	diagonal: 38.1495	fud cardinality: 3757	model cardinality: 69449	fuds per threshold: 0.866399
+model018	induce summary	slice: 161436	diagonal: 24.6279	fud cardinality: 3758	model cardinality: 69467	fuds per threshold: 0.86641
+model018	induce summary	slice: 160760	diagonal: 24.104	fud cardinality: 3759	model cardinality: 69485	fuds per threshold: 0.86648
+model018	induce summary	slice: 162698	diagonal: 35.738	fud cardinality: 3760	model cardinality: 69546	fuds per threshold: 0.866607
+model018	induce summary	slice: 143936	diagonal: 31.6384	fud cardinality: 3761	model cardinality: 69568	fuds per threshold: 0.866718
+actor	event id: 868005	time 0.0059535s
+model018	induce summary	slice: 162683	diagonal: 21.0784	fud cardinality: 3762	model cardinality: 69584	fuds per threshold: 0.866661
+model018	induce summary	slice: 162141	diagonal: 34.7039	fud cardinality: 3763	model cardinality: 69606	fuds per threshold: 0.866743
+model018	induce summary	slice: 163396	diagonal: 38.0132	fud cardinality: 3764	model cardinality: 69643	fuds per threshold: 0.866886
+actor	event id: 869005	time 0.008309s
+model018	induce summary	slice: 161426	diagonal: 26.3594	fud cardinality: 3765	model cardinality: 69662	fuds per threshold: 0.866318
+model018	induce summary	slice: 162669	diagonal: 37.1742	fud cardinality: 3766	model cardinality: 69686	fuds per threshold: 0.866432
+model018	induce summary	slice: 142751	diagonal: 19.1278	fud cardinality: 3767	model cardinality: 69701	fuds per threshold: 0.866176
+actor	event id: 870005	time 0.0052381s
+model018	induce summary	slice: 152547	diagonal: 25.4338	fud cardinality: 3768	model cardinality: 69720	fuds per threshold: 0.865928
+model018	induce summary	slice: 162424	diagonal: 33.5185	fud cardinality: 3769	model cardinality: 69732	fuds per threshold: 0.865959
+model018	induce summary	slice: 149086	diagonal: 22.2326	fud cardinality: 3770	model cardinality: 69749	fuds per threshold: 0.86593
+model018	induce summary	slice: 161646	diagonal: 24.0691	fud cardinality: 3771	model cardinality: 69784	fuds per threshold: 0.866048
+actor	event id: 871005	time 0.0098751s
+model018	induce summary	slice: 161409	diagonal: 25.8391	fud cardinality: 3772	model cardinality: 69801	fuds per threshold: 0.866175
+model018	induce summary	slice: 162887	diagonal: 24.4546	fud cardinality: 3773	model cardinality: 69820	fuds per threshold: 0.866166
+model018	induce summary	slice: 163585	diagonal: 23.7545	fud cardinality: 3774	model cardinality: 69837	fuds per threshold: 0.865771
+actor	event id: 872005	time 0.0050972s
+model018	induce summary	slice: 162851	diagonal: 19.2355	fud cardinality: 3775	model cardinality: 69855	fuds per threshold: 0.865778
+actor	event id: 873005	time 0.008499s
+model018	induce summary	slice: 162071	diagonal: 28.6396	fud cardinality: 3776	model cardinality: 69871	fuds per threshold: 0.865166
+model018	induce summary	slice: 134624	diagonal: 23.7136	fud cardinality: 3777	model cardinality: 69887	fuds per threshold: 0.865272
+model018	induce summary	slice: 159642	diagonal: 26.0888	fud cardinality: 3778	model cardinality: 69899	fuds per threshold: 0.865275
+model018	induce summary	slice: 162137	diagonal: 32.5582	fud cardinality: 3779	model cardinality: 69913	fuds per threshold: 0.865278
+model018	induce summary	slice: 161924	diagonal: 24.0235	fud cardinality: 3780	model cardinality: 69931	fuds per threshold: 0.865432
+model018	induce summary	slice: 163600	diagonal: 21.6663	fud cardinality: 3781	model cardinality: 69948	fuds per threshold: 0.86557
+actor	event id: 874005	time 0.0051123s
+model018	induce summary	slice: 145864	diagonal: 28.9724	fud cardinality: 3782	model cardinality: 69968	fuds per threshold: 0.865502
+model018	induce summary	slice: 162989	diagonal: 27.1933	fud cardinality: 3783	model cardinality: 69982	fuds per threshold: 0.865022
+actor	event id: 875005	time 0.0048706s
+model018	induce summary	slice: 149225	diagonal: 20.17	fud cardinality: 3784	model cardinality: 69996	fuds per threshold: 0.864574
+model018	induce summary	slice: 161776	diagonal: 38.1979	fud cardinality: 3785	model cardinality: 70038	fuds per threshold: 0.86453
+actor	event id: 876005	time 0.0049541s
+model018	induce summary	slice: 163341	diagonal: 26.7969	fud cardinality: 3786	model cardinality: 70056	fuds per threshold: 0.864005
+model018	induce summary	slice: 161874	diagonal: 23.8785	fud cardinality: 3787	model cardinality: 70071	fuds per threshold: 0.864158
+actor	event id: 877005	time 0.0060159s
+model018	induce summary	slice: 132177	diagonal: 23.5823	fud cardinality: 3788	model cardinality: 70088	fuds per threshold: 0.863543
+model018	induce summary	slice: 162290	diagonal: 26.7016	fud cardinality: 3789	model cardinality: 70107	fuds per threshold: 0.863582
+actor	event id: 878005	time 0.0049139s
+model018	induce summary	slice: 163125	diagonal: 25.0627	fud cardinality: 3790	model cardinality: 70127	fuds per threshold: 0.863412
+model018	induce summary	slice: 140758	diagonal: 23.227	fud cardinality: 3791	model cardinality: 70144	fuds per threshold: 0.863522
+model018	induce summary	slice: 163000	diagonal: 27.4006	fud cardinality: 3792	model cardinality: 70158	fuds per threshold: 0.863671
+model018	induce summary	slice: 163346	diagonal: 19.7984	fud cardinality: 3793	model cardinality: 70173	fuds per threshold: 0.863561
+model018	induce summary	slice: 162889	diagonal: 28.7434	fud cardinality: 3794	model cardinality: 70198	fuds per threshold: 0.863442
+actor	event id: 879005	time 0.0047127s
+model018	induce summary	slice: 141650	diagonal: 28.0794	fud cardinality: 3795	model cardinality: 70218	fuds per threshold: 0.863473
+model018	induce summary	slice: 135338	diagonal: 22.279	fud cardinality: 3796	model cardinality: 70231	fuds per threshold: 0.863347
+model018	induce summary	slice: 161305	diagonal: 21.5669	fud cardinality: 3797	model cardinality: 70246	fuds per threshold: 0.86328
+actor	event id: 880005	time 0.0052425s
+model018	induce summary	slice: 162980	diagonal: 26.625	fud cardinality: 3798	model cardinality: 70262	fuds per threshold: 0.863041
+model018	induce summary	slice: 162376	diagonal: 26.8237	fud cardinality: 3799	model cardinality: 70277	fuds per threshold: 0.863205
+model018	induce summary	slice: 143005	diagonal: 29.7458	fud cardinality: 3800	model cardinality: 70293	fuds per threshold: 0.863326
+model018	induce summary	slice: 162941	diagonal: 27.4809	fud cardinality: 3801	model cardinality: 70309	fuds per threshold: 0.863189
+model018	induce summary	slice: 163284	diagonal: 35.2761	fud cardinality: 3802	model cardinality: 70345	fuds per threshold: 0.863247
+actor	event id: 881005	time 0.0126132s
+model018	induce summary	slice: 161673	diagonal: 25.9402	fud cardinality: 3803	model cardinality: 70364	fuds per threshold: 0.863376
+model018	induce summary	slice: 162516	diagonal: 35.7653	fud cardinality: 3804	model cardinality: 70400	fuds per threshold: 0.863282
+model018	induce summary	slice: 163185	diagonal: 25.6016	fud cardinality: 3805	model cardinality: 70419	fuds per threshold: 0.863184
+model018	induce summary	slice: 147045	diagonal: 31.9749	fud cardinality: 3806	model cardinality: 70451	fuds per threshold: 0.863289
+model018	induce summary	slice: 147520	diagonal: 24.0688	fud cardinality: 3807	model cardinality: 70466	fuds per threshold: 0.863418
+actor	event id: 882005	time 0.0126139s
+model018	induce summary	slice: 140255	diagonal: 29.2136	fud cardinality: 3808	model cardinality: 70484	fuds per threshold: 0.863543
+model018	induce summary	slice: 161283	diagonal: 27.0073	fud cardinality: 3809	model cardinality: 70500	fuds per threshold: 0.863691
+model018	induce summary	slice: 163599	diagonal: 29.9133	fud cardinality: 3810	model cardinality: 70516	fuds per threshold: 0.863648
+model018	induce summary	slice: 161299	diagonal: 30.794	fud cardinality: 3811	model cardinality: 70547	fuds per threshold: 0.863604
+model018	induce summary	slice: 162228	diagonal: 18.2524	fud cardinality: 3812	model cardinality: 70563	fuds per threshold: 0.863772
+model018	induce summary	slice: 146445	diagonal: 32.4926	fud cardinality: 3813	model cardinality: 70595	fuds per threshold: 0.863878
+model018	induce summary	slice: 163200	diagonal: 25.658	fud cardinality: 3814	model cardinality: 70616	fuds per threshold: 0.864006
+actor	event id: 883005	time 0.01736s
+model018	induce summary	slice: 161698	diagonal: 26.7579	fud cardinality: 3815	model cardinality: 70633	fuds per threshold: 0.864147
+model018	induce summary	slice: 145630	diagonal: 24.7462	fud cardinality: 3816	model cardinality: 70651	fuds per threshold: 0.864271
+model018	induce summary	slice: 143800	diagonal: 34.2545	fud cardinality: 3817	model cardinality: 70659	fuds per threshold: 0.864365
+model018	induce summary	slice: 162300	diagonal: 29.5844	fud cardinality: 3818	model cardinality: 70672	fuds per threshold: 0.864301
+actor	event id: 884005	time 0.0063656s
+model018	induce summary	slice: 162313	diagonal: 25.2698	fud cardinality: 3819	model cardinality: 70689	fuds per threshold: 0.863855
+model018	induce summary	slice: 160254	diagonal: 22.8008	fud cardinality: 3820	model cardinality: 70704	fuds per threshold: 0.863613
+model018	induce summary	slice: 145684	diagonal: 27.4112	fud cardinality: 3821	model cardinality: 70721	fuds per threshold: 0.86371
+model018	induce summary	slice: 161188	diagonal: 17.263	fud cardinality: 3822	model cardinality: 70736	fuds per threshold: 0.863846
+actor	event id: 885005	time 0.0092727s
+model018	induce summary	slice: 163391	diagonal: 29.0621	fud cardinality: 3823	model cardinality: 70756	fuds per threshold: 0.864002
+model018	induce summary	slice: 139528	diagonal: 24.849	fud cardinality: 3824	model cardinality: 70770	fuds per threshold: 0.864013
+model018	induce summary	slice: 140634	diagonal: 28.3509	fud cardinality: 3825	model cardinality: 70797	fuds per threshold: 0.864126
+model018	induce summary	slice: 161225	diagonal: 22.313	fud cardinality: 3826	model cardinality: 70817	fuds per threshold: 0.863992
+actor	event id: 886005	time 0.0050705s
+model018	induce summary	slice: 141975	diagonal: 27.2068	fud cardinality: 3827	model cardinality: 70832	fuds per threshold: 0.863738
+model018	induce summary	slice: 161753	diagonal: 29.2227	fud cardinality: 3828	model cardinality: 70849	fuds per threshold: 0.863781
+model018	induce summary	slice: 153110	diagonal: 26.2855	fud cardinality: 3829	model cardinality: 70863	fuds per threshold: 0.863901
+model018	induce summary	slice: 149499	diagonal: 29.5613	fud cardinality: 3830	model cardinality: 70883	fuds per threshold: 0.863877
+model018	induce summary	slice: 161915	diagonal: 29.3844	fud cardinality: 3831	model cardinality: 70901	fuds per threshold: 0.864044
+actor	event id: 887005	time 0.0096759s
+model018	induce summary	slice: 142471	diagonal: 29.1448	fud cardinality: 3832	model cardinality: 70918	fuds per threshold: 0.864114
+model018	induce summary	slice: 144505	diagonal: 28.8079	fud cardinality: 3833	model cardinality: 70939	fuds per threshold: 0.864226
+model018	induce summary	slice: 144589	diagonal: 20.5153	fud cardinality: 3834	model cardinality: 70953	fuds per threshold: 0.864452
+model018	induce summary	slice: 161501	diagonal: 37.5414	fud cardinality: 3835	model cardinality: 70960	fuds per threshold: 0.864677
+model018	induce summary	slice: 140406	diagonal: 27.6196	fud cardinality: 3836	model cardinality: 70974	fuds per threshold: 0.864903
+model018	induce summary	slice: 163692	diagonal: 22.8496	fud cardinality: 3837	model cardinality: 70989	fuds per threshold: 0.865128
+model018	induce summary	slice: 161736	diagonal: 27.7093	fud cardinality: 3838	model cardinality: 71005	fuds per threshold: 0.865248
+model018	induce summary	slice: 149665	diagonal: 25.9842	fud cardinality: 3839	model cardinality: 71023	fuds per threshold: 0.864947
+model018	induce summary	slice: 163490	diagonal: 26.6651	fud cardinality: 3840	model cardinality: 71045	fuds per threshold: 0.865095
+actor	event id: 888006	time 0.0060551s
+model018	induce summary	slice: 162530	diagonal: 32.0609	fud cardinality: 3841	model cardinality: 71079	fuds per threshold: 0.864864
+model018	induce summary	slice: 153251	diagonal: 34.8132	fud cardinality: 3842	model cardinality: 71101	fuds per threshold: 0.86477
+model018	induce summary	slice: 137709	diagonal: 24.9028	fud cardinality: 3843	model cardinality: 71120	fuds per threshold: 0.864882
+actor	event id: 889006	time 0.0049925s
+model018	induce summary	slice: 161872	diagonal: 29.6602	fud cardinality: 3844	model cardinality: 71138	fuds per threshold: 0.8648
+model018	induce summary	slice: 158164	diagonal: 21.9097	fud cardinality: 3845	model cardinality: 71151	fuds per threshold: 0.864659
+model018	induce summary	slice: 160414	diagonal: 28.54	fud cardinality: 3846	model cardinality: 71169	fuds per threshold: 0.864783
+model018	induce summary	slice: 160639	diagonal: 22.8443	fud cardinality: 3847	model cardinality: 71187	fuds per threshold: 0.864871
+model018	induce summary	slice: 142875	diagonal: 29.6225	fud cardinality: 3848	model cardinality: 71206	fuds per threshold: 0.864991
+actor	event id: 890006	time 0.0102756s
+model018	induce summary	slice: 159261	diagonal: 37.9344	fud cardinality: 3849	model cardinality: 71227	fuds per threshold: 0.865045
+model018	induce summary	slice: 162017	diagonal: 26.3435	fud cardinality: 3850	model cardinality: 71251	fuds per threshold: 0.865204
+model018	induce summary	slice: 147257	diagonal: 19.887	fud cardinality: 3851	model cardinality: 71266	fuds per threshold: 0.865253
+model018	induce summary	slice: 143657	diagonal: 31.0492	fud cardinality: 3852	model cardinality: 71282	fuds per threshold: 0.865128
+model018	induce summary	slice: 161865	diagonal: 22.2791	fud cardinality: 3853	model cardinality: 71302	fuds per threshold: 0.865116
+actor	event id: 891006	time 0.0049233s
+model018	induce summary	slice: 150422	diagonal: 27.466	fud cardinality: 3854	model cardinality: 71318	fuds per threshold: 0.865049
+model018	induce summary	slice: 154167	diagonal: 26.7445	fud cardinality: 3855	model cardinality: 71335	fuds per threshold: 0.864734
+model018	induce summary	slice: 162193	diagonal: 27.7271	fud cardinality: 3856	model cardinality: 71360	fuds per threshold: 0.864857
+actor	event id: 892006	time 0.0117321s
+model018	induce summary	slice: 161935	diagonal: 19.1171	fud cardinality: 3857	model cardinality: 71376	fuds per threshold: 0.864531
+model018	induce summary	slice: 145881	diagonal: 21.7777	fud cardinality: 3858	model cardinality: 71391	fuds per threshold: 0.864662
+model018	induce summary	slice: 152534	diagonal: 28.1027	fud cardinality: 3859	model cardinality: 71411	fuds per threshold: 0.864774
+model018	induce summary	slice: 161956	diagonal: 23.846	fud cardinality: 3860	model cardinality: 71427	fuds per threshold: 0.864916
+model018	induce summary	slice: 161544	diagonal: 19.3206	fud cardinality: 3861	model cardinality: 71445	fuds per threshold: 0.865039
+model018	induce summary	slice: 161295	diagonal: 36.2561	fud cardinality: 3862	model cardinality: 71453	fuds per threshold: 0.865163
+model018	induce summary	slice: 141991	diagonal: 28.7069	fud cardinality: 3863	model cardinality: 71467	fuds per threshold: 0.865282
+actor	event id: 893006	time 0.0125156s
+model018	induce summary	slice: 148792	diagonal: 23.121	fud cardinality: 3864	model cardinality: 71491	fuds per threshold: 0.865401
+model018	induce summary	slice: 158529	diagonal: 37.5335	fud cardinality: 3865	model cardinality: 71507	fuds per threshold: 0.865234
+model018	induce summary	slice: 155801	diagonal: 31.8097	fud cardinality: 3866	model cardinality: 71514	fuds per threshold: 0.865322
+model018	induce summary	slice: 163755	diagonal: 26.6668	fud cardinality: 3867	model cardinality: 71531	fuds per threshold: 0.865434
+actor	event id: 894006	time 0.0055976s
+model018	induce summary	slice: 160800	diagonal: 26.2503	fud cardinality: 3868	model cardinality: 71553	fuds per threshold: 0.865228
+model018	induce summary	slice: 163635	diagonal: 38.1192	fud cardinality: 3869	model cardinality: 71593	fuds per threshold: 0.865347
+model018	induce summary	slice: 161775	diagonal: 30.2025	fud cardinality: 3870	model cardinality: 71600	fuds per threshold: 0.865458
+model018	induce summary	slice: 153366	diagonal: 31.0365	fud cardinality: 3871	model cardinality: 71627	fuds per threshold: 0.865523
+model018	induce summary	slice: 162884	diagonal: 31.1883	fud cardinality: 3872	model cardinality: 71639	fuds per threshold: 0.865367
+actor	event id: 895006	time 0.0166291s
+model018	induce summary	slice: 162707	diagonal: 24.2448	fud cardinality: 3873	model cardinality: 71654	fuds per threshold: 0.86532
+model018	induce summary	slice: 133362	diagonal: 24.9288	fud cardinality: 3874	model cardinality: 71674	fuds per threshold: 0.865377
+model018	induce summary	slice: 145212	diagonal: 23.4796	fud cardinality: 3875	model cardinality: 71689	fuds per threshold: 0.865407
+model018	induce summary	slice: 162147	diagonal: 25.162	fud cardinality: 3876	model cardinality: 71704	fuds per threshold: 0.865565
+model018	induce summary	slice: 163154	diagonal: 25.0273	fud cardinality: 3877	model cardinality: 71721	fuds per threshold: 0.865603
+model018	induce summary	slice: 164162	diagonal: 22.3308	fud cardinality: 3878	model cardinality: 71738	fuds per threshold: 0.865737
+actor	event id: 896006	time 0.019695s
+model018	induce summary	slice: 163799	diagonal: 31.6921	fud cardinality: 3879	model cardinality: 71762	fuds per threshold: 0.865558
+model018	induce summary	slice: 163278	diagonal: 22.0665	fud cardinality: 3880	model cardinality: 71780	fuds per threshold: 0.8657
+model018	induce summary	slice: 161585	diagonal: 32.8854	fud cardinality: 3881	model cardinality: 71814	fuds per threshold: 0.865703
+model018	induce summary	slice: 160912	diagonal: 31.2961	fud cardinality: 3882	model cardinality: 71859	fuds per threshold: 0.865675
+actor	event id: 897006	time 0.0063701s
+model018	induce summary	slice: 144125	diagonal: 24.451	fud cardinality: 3883	model cardinality: 71873	fuds per threshold: 0.865709
+model018	induce summary	slice: 163201	diagonal: 30.4128	fud cardinality: 3884	model cardinality: 71891	fuds per threshold: 0.865778
+model018	induce summary	slice: 162044	diagonal: 22.8489	fud cardinality: 3885	model cardinality: 71907	fuds per threshold: 0.865757
+model018	induce summary	slice: 162002	diagonal: 36.7595	fud cardinality: 3886	model cardinality: 71945	fuds per threshold: 0.865687
+actor	event id: 898006	time 0.0114772s
+model018	induce summary	slice: 139126	diagonal: 24.3473	fud cardinality: 3887	model cardinality: 71958	fuds per threshold: 0.865802
+model018	induce summary	slice: 147226	diagonal: 27.1117	fud cardinality: 3888	model cardinality: 71972	fuds per threshold: 0.865905
+model018	induce summary	slice: 148714	diagonal: 31.204	fud cardinality: 3889	model cardinality: 71983	fuds per threshold: 0.865977
+model018	induce summary	slice: 162756	diagonal: 19.9101	fud cardinality: 3890	model cardinality: 71999	fuds per threshold: 0.866019
+model018	induce summary	slice: 146095	diagonal: 20.8254	fud cardinality: 3891	model cardinality: 72017	fuds per threshold: 0.865837
+model018	induce summary	slice: 143241	diagonal: 22.2527	fud cardinality: 3892	model cardinality: 72034	fuds per threshold: 0.865959
+actor	event id: 899006	time 0.0141083s
+model018	induce summary	slice: 144174	diagonal: 27.0105	fud cardinality: 3893	model cardinality: 72048	fuds per threshold: 0.866085
+model018	induce summary	slice: 143652	diagonal: 22.8216	fud cardinality: 3894	model cardinality: 72063	fuds per threshold: 0.866099
+model018	induce summary	slice: 144879	diagonal: 34.5908	fud cardinality: 3895	model cardinality: 72083	fuds per threshold: 0.865952
+model018	induce summary	slice: 164577	diagonal: 19.1963	fud cardinality: 3896	model cardinality: 72100	fuds per threshold: 0.866097
+model018	induce summary	slice: 145720	diagonal: 30.8385	fud cardinality: 3897	model cardinality: 72127	fuds per threshold: 0.86615
+actor	event id: 900006	time 0.0147836s
+model018	induce summary	slice: 139372	diagonal: 34.4655	fud cardinality: 3898	model cardinality: 72177	fuds per threshold: 0.866218
+model018	induce summary	slice: 162825	diagonal: 28.7828	fud cardinality: 3899	model cardinality: 72197	fuds per threshold: 0.866352
+model018	induce summary	slice: 151284	diagonal: 28.0354	fud cardinality: 3900	model cardinality: 72218	fuds per threshold: 0.866474
+model018	induce summary	slice: 162006	diagonal: 36.0282	fud cardinality: 3901	model cardinality: 72247	fuds per threshold: 0.866492
+model018	induce summary	slice: 146105	diagonal: 37.211	fud cardinality: 3902	model cardinality: 72254	fuds per threshold: 0.866491
+actor	event id: 901006	time 0.0136464s
+model018	induce summary	slice: 155831	diagonal: 24.3063	fud cardinality: 3903	model cardinality: 72273	fuds per threshold: 0.866463
+model018	induce summary	slice: 161478	diagonal: 34.3562	fud cardinality: 3904	model cardinality: 72308	fuds per threshold: 0.866404
+model018	induce summary	slice: 152163	diagonal: 33.9784	fud cardinality: 3905	model cardinality: 72326	fuds per threshold: 0.86648
+model018	induce summary	slice: 137393	diagonal: 29.2547	fud cardinality: 3906	model cardinality: 72348	fuds per threshold: 0.866579
+model018	induce summary	slice: 133152	diagonal: 36.4764	fud cardinality: 3907	model cardinality: 72362	fuds per threshold: 0.866685
+model018	induce summary	slice: 162642	diagonal: 33.3758	fud cardinality: 3908	model cardinality: 72384	fuds per threshold: 0.866776
+actor	event id: 902006	time 0.0054666s
+model018	induce summary	slice: 161526	diagonal: 30.1617	fud cardinality: 3909	model cardinality: 72409	fuds per threshold: 0.866698
+model018	induce summary	slice: 160402	diagonal: 28.1244	fud cardinality: 3910	model cardinality: 72431	fuds per threshold: 0.86667
+model018	induce summary	slice: 151972	diagonal: 21.1654	fud cardinality: 3911	model cardinality: 72445	fuds per threshold: 0.86675
+model018	induce summary	slice: 140662	diagonal: 20.7344	fud cardinality: 3912	model cardinality: 72458	fuds per threshold: 0.866856
+model018	induce summary	slice: 163442	diagonal: 23.2632	fud cardinality: 3913	model cardinality: 72474	fuds per threshold: 0.866955
+model018	induce summary	slice: 161996	diagonal: 20.989	fud cardinality: 3914	model cardinality: 72492	fuds per threshold: 0.867
+actor	event id: 903006	time 0.0174581s
+model018	induce summary	slice: 158037	diagonal: 23.2769	fud cardinality: 3915	model cardinality: 72507	fuds per threshold: 0.866841
+actor	event id: 904006	time 0.004831s
+model018	induce summary	slice: 163701	diagonal: 21.1927	fud cardinality: 3916	model cardinality: 72527	fuds per threshold: 0.865958
+model018	induce summary	slice: 160927	diagonal: 22.6084	fud cardinality: 3917	model cardinality: 72542	fuds per threshold: 0.8658
+actor	event id: 905006	time 0.0051391s
+model018	induce summary	slice: 161623	diagonal: 31.1572	fud cardinality: 3918	model cardinality: 72561	fuds per threshold: 0.865485
+model018	induce summary	slice: 162176	diagonal: 29.2951	fud cardinality: 3919	model cardinality: 72580	fuds per threshold: 0.86558
+model018	induce summary	slice: 142637	diagonal: 23.6526	fud cardinality: 3920	model cardinality: 72594	fuds per threshold: 0.865678
+actor	event id: 906006	time 0.005685s
+model018	induce summary	slice: 164512	diagonal: 23.8922	fud cardinality: 3921	model cardinality: 72612	fuds per threshold: 0.865597
+model018	induce summary	slice: 142972	diagonal: 20.6934	fud cardinality: 3922	model cardinality: 72627	fuds per threshold: 0.865723
+model018	induce summary	slice: 163003	diagonal: 24.7535	fud cardinality: 3923	model cardinality: 72642	fuds per threshold: 0.865809
+model018	induce summary	slice: 163894	diagonal: 21.3507	fud cardinality: 3924	model cardinality: 72658	fuds per threshold: 0.865667
+actor	event id: 907006	time 0.0053164s
+model018	induce summary	slice: 131215	diagonal: 23.2088	fud cardinality: 3925	model cardinality: 72675	fuds per threshold: 0.865544
+model018	induce summary	slice: 141604	diagonal: 29.7855	fud cardinality: 3926	model cardinality: 72685	fuds per threshold: 0.865433
+actor	event id: 908006	time 0.0055158s
+model018	induce summary	slice: 162990	diagonal: 19.2413	fud cardinality: 3927	model cardinality: 72700	fuds per threshold: 0.864567
+model018	induce summary	slice: 163594	diagonal: 23.9149	fud cardinality: 3928	model cardinality: 72718	fuds per threshold: 0.864745
+model018	induce summary	slice: 163972	diagonal: 17.5557	fud cardinality: 3929	model cardinality: 72732	fuds per threshold: 0.864874
+actor	event id: 909006	time 0.0067076s
+model018	induce summary	slice: 163404	diagonal: 22.8259	fud cardinality: 3930	model cardinality: 72748	fuds per threshold: 0.864732
+model018	induce summary	slice: 139916	diagonal: 29.682	fud cardinality: 3931	model cardinality: 72777	fuds per threshold: 0.864819
+model018	induce summary	slice: 139559	diagonal: 27.5718	fud cardinality: 3932	model cardinality: 72792	fuds per threshold: 0.864944
+actor	event id: 910006	time 0.0055554s
+model018	induce summary	slice: 162058	diagonal: 22.4978	fud cardinality: 3933	model cardinality: 72806	fuds per threshold: 0.864384
+model018	induce summary	slice: 158961	diagonal: 20.5716	fud cardinality: 3934	model cardinality: 72824	fuds per threshold: 0.864486
+model018	induce summary	slice: 161745	diagonal: 26.6955	fud cardinality: 3935	model cardinality: 72846	fuds per threshold: 0.864634
+model018	induce summary	slice: 141237	diagonal: 23.9081	fud cardinality: 3936	model cardinality: 72862	fuds per threshold: 0.864348
+actor	event id: 911006	time 0.0064691s
+model018	induce summary	slice: 160549	diagonal: 15.6151	fud cardinality: 3937	model cardinality: 72879	fuds per threshold: 0.864109
+model018	induce summary	slice: 163301	diagonal: 29.241	fud cardinality: 3938	model cardinality: 72897	fuds per threshold: 0.863987
+actor	event id: 912006	time 0.0120638s
+model018	induce summary	slice: 160769	diagonal: 37.4868	fud cardinality: 3939	model cardinality: 72926	fuds per threshold: 0.86335
+model018	induce summary	slice: 161853	diagonal: 28.4296	fud cardinality: 3940	model cardinality: 72942	fuds per threshold: 0.863528
+model018	induce summary	slice: 163637	diagonal: 38.223	fud cardinality: 3941	model cardinality: 72978	fuds per threshold: 0.863603
+model018	induce summary	slice: 161048	diagonal: 22.454	fud cardinality: 3942	model cardinality: 72994	fuds per threshold: 0.863727
+actor	event id: 913006	time 0.0066284s
+model018	induce summary	slice: 146035	diagonal: 25.0914	fud cardinality: 3943	model cardinality: 73006	fuds per threshold: 0.863625
+model018	induce summary	slice: 161567	diagonal: 18.8589	fud cardinality: 3944	model cardinality: 73024	fuds per threshold: 0.863261
+actor	event id: 914006	time 0.0095261s
+model018	induce summary	slice: 140658	diagonal: 34.8244	fud cardinality: 3945	model cardinality: 73056	fuds per threshold: 0.863307
+actor	event id: 915006	time 0.0047592s
+model018	induce summary	slice: 161810	diagonal: 23.6793	fud cardinality: 3946	model cardinality: 73074	fuds per threshold: 0.862344
+model018	induce summary	slice: 162912	diagonal: 29.9084	fud cardinality: 3947	model cardinality: 73092	fuds per threshold: 0.8624
+model018	induce summary	slice: 146100	diagonal: 30.6078	fud cardinality: 3948	model cardinality: 73108	fuds per threshold: 0.86251
+model018	induce summary	slice: 134876	diagonal: 30.4941	fud cardinality: 3949	model cardinality: 73141	fuds per threshold: 0.86243
+actor	event id: 916006	time 0.0111309s
+model018	induce summary	slice: 146170	diagonal: 27.6988	fud cardinality: 3950	model cardinality: 73162	fuds per threshold: 0.862543
+model018	induce summary	slice: 162332	diagonal: 24.3272	fud cardinality: 3951	model cardinality: 73178	fuds per threshold: 0.862573
+model018	induce summary	slice: 159711	diagonal: 33.0579	fud cardinality: 3952	model cardinality: 73186	fuds per threshold: 0.862675
+model018	induce summary	slice: 163219	diagonal: 27.8706	fud cardinality: 3953	model cardinality: 73219	fuds per threshold: 0.862652
+model018	induce summary	slice: 164793	diagonal: 28.5304	fud cardinality: 3954	model cardinality: 73237	fuds per threshold: 0.86266
+model018	induce summary	slice: 144378	diagonal: 26.7894	fud cardinality: 3955	model cardinality: 73251	fuds per threshold: 0.86278
+actor	event id: 917006	time 0.0112674s
+model018	induce summary	slice: 147398	diagonal: 34.9122	fud cardinality: 3956	model cardinality: 73282	fuds per threshold: 0.862697
+model018	induce summary	slice: 160749	diagonal: 37.7645	fud cardinality: 3957	model cardinality: 73307	fuds per threshold: 0.862591
+model018	induce summary	slice: 131408	diagonal: 20.7487	fud cardinality: 3958	model cardinality: 73321	fuds per threshold: 0.862636
+model018	induce summary	slice: 131121	diagonal: 32.7576	fud cardinality: 3959	model cardinality: 73346	fuds per threshold: 0.862749
+actor	event id: 918006	time 0.0049405s
+model018	induce summary	slice: 139129	diagonal: 24.8348	fud cardinality: 3960	model cardinality: 73362	fuds per threshold: 0.862516
+model018	induce summary	slice: 163971	diagonal: 27.215	fud cardinality: 3961	model cardinality: 73383	fuds per threshold: 0.862538
+model018	induce summary	slice: 162183	diagonal: 24.2572	fud cardinality: 3962	model cardinality: 73400	fuds per threshold: 0.862418
+actor	event id: 919006	time 0.0054878s
+model018	induce summary	slice: 161583	diagonal: 26.5587	fud cardinality: 3963	model cardinality: 73411	fuds per threshold: 0.862493
+actor	event id: 920006	time 0.0058733s
+model018	induce summary	slice: 163523	diagonal: 23.8918	fud cardinality: 3964	model cardinality: 73428	fuds per threshold: 0.861578
+model018	induce summary	slice: 164622	diagonal: 22.0745	fud cardinality: 3965	model cardinality: 73447	fuds per threshold: 0.861455
+model018	induce summary	slice: 161905	diagonal: 35.1847	fud cardinality: 3966	model cardinality: 73473	fuds per threshold: 0.86153
+model018	induce summary	slice: 150485	diagonal: 25.2269	fud cardinality: 3967	model cardinality: 73488	fuds per threshold: 0.861657
+actor	event id: 921006	time 0.0152129s
+model018	induce summary	slice: 161466	diagonal: 16.7361	fud cardinality: 3968	model cardinality: 73505	fuds per threshold: 0.861668
+model018	induce summary	slice: 164138	diagonal: 31.3373	fud cardinality: 3969	model cardinality: 73532	fuds per threshold: 0.86171
+actor	event id: 922006	time 0.0050158s
+model018	induce summary	slice: 164172	diagonal: 23.2644	fud cardinality: 3970	model cardinality: 73545	fuds per threshold: 0.861254
+model018	induce summary	slice: 139539	diagonal: 26.2048	fud cardinality: 3971	model cardinality: 73569	fuds per threshold: 0.861145
+model018	induce summary	slice: 144864	diagonal: 31.376	fud cardinality: 3972	model cardinality: 73586	fuds per threshold: 0.861131
+model018	induce summary	slice: 152694	diagonal: 29.2657	fud cardinality: 3973	model cardinality: 73609	fuds per threshold: 0.861202
+actor	event id: 923006	time 0.0051073s
+model018	induce summary	slice: 142270	diagonal: 22.68	fud cardinality: 3974	model cardinality: 73623	fuds per threshold: 0.860803
+model018	induce summary	slice: 161792	diagonal: 27.292	fud cardinality: 3975	model cardinality: 73645	fuds per threshold: 0.860878
+actor	event id: 924006	time 0.0094817s
+model018	induce summary	slice: 141719	diagonal: 27.7828	fud cardinality: 3976	model cardinality: 73662	fuds per threshold: 0.860707
+model018	induce summary	slice: 161884	diagonal: 22.7153	fud cardinality: 3977	model cardinality: 73676	fuds per threshold: 0.8607
+model018	induce summary	slice: 163735	diagonal: 31.4708	fud cardinality: 3978	model cardinality: 73694	fuds per threshold: 0.860786
+model018	induce summary	slice: 149050	diagonal: 26.3404	fud cardinality: 3979	model cardinality: 73708	fuds per threshold: 0.860864
+model018	induce summary	slice: 151130	diagonal: 22.9071	fud cardinality: 3980	model cardinality: 73728	fuds per threshold: 0.860965
+model018	induce summary	slice: 164421	diagonal: 24.0726	fud cardinality: 3981	model cardinality: 73747	fuds per threshold: 0.861118
+model018	induce summary	slice: 164835	diagonal: 26.9245	fud cardinality: 3982	model cardinality: 73763	fuds per threshold: 0.86126
+model018	induce summary	slice: 162788	diagonal: 24.4609	fud cardinality: 3983	model cardinality: 73782	fuds per threshold: 0.86142
+actor	event id: 925006	time 0.0050324s
+model018	induce summary	slice: 163516	diagonal: 24.8423	fud cardinality: 3984	model cardinality: 73801	fuds per threshold: 0.861108
+model018	induce summary	slice: 163736	diagonal: 26.56	fud cardinality: 3985	model cardinality: 73825	fuds per threshold: 0.861279
+model018	induce summary	slice: 164420	diagonal: 26.8012	fud cardinality: 3986	model cardinality: 73842	fuds per threshold: 0.861372
+model018	induce summary	slice: 164496	diagonal: 29.0801	fud cardinality: 3987	model cardinality: 73865	fuds per threshold: 0.86141
+model018	induce summary	slice: 164412	diagonal: 19.6732	fud cardinality: 3988	model cardinality: 73881	fuds per threshold: 0.861555
+actor	event id: 926006	time 0.0123619s
+model018	induce summary	slice: 159878	diagonal: 30.2992	fud cardinality: 3989	model cardinality: 73906	fuds per threshold: 0.861369
+model018	induce summary	slice: 146915	diagonal: 30.6387	fud cardinality: 3990	model cardinality: 73927	fuds per threshold: 0.861425
+model018	induce summary	slice: 145343	diagonal: 26.8133	fud cardinality: 3991	model cardinality: 73946	fuds per threshold: 0.861544
+model018	induce summary	slice: 163726	diagonal: 27.2683	fud cardinality: 3992	model cardinality: 73973	fuds per threshold: 0.861656
+actor	event id: 927006	time 0.0051557s
+model018	induce summary	slice: 163002	diagonal: 26.3071	fud cardinality: 3993	model cardinality: 73988	fuds per threshold: 0.861388
+model018	induce summary	slice: 148559	diagonal: 26.9261	fud cardinality: 3994	model cardinality: 74002	fuds per threshold: 0.861206
+model018	induce summary	slice: 157429	diagonal: 37.7728	fud cardinality: 3995	model cardinality: 74009	fuds per threshold: 0.861329
+model018	induce summary	slice: 162881	diagonal: 34.7216	fud cardinality: 3996	model cardinality: 74016	fuds per threshold: 0.861456
+model018	induce summary	slice: 161774	diagonal: 24.5452	fud cardinality: 3997	model cardinality: 74032	fuds per threshold: 0.861604
+actor	event id: 928006	time 0.0096108s
+model018	induce summary	slice: 162567	diagonal: 20.727	fud cardinality: 3998	model cardinality: 74051	fuds per threshold: 0.861735
+model018	induce summary	slice: 153832	diagonal: 24.0267	fud cardinality: 3999	model cardinality: 74064	fuds per threshold: 0.861749
+model018	induce summary	slice: 163208	diagonal: 23.5959	fud cardinality: 4000	model cardinality: 74079	fuds per threshold: 0.861545
+actor	event id: 929006	time 0.0077787s
+model018	induce summary	slice: 163688	diagonal: 23.6352	fud cardinality: 4001	model cardinality: 74094	fuds per threshold: 0.861427
+model018	induce summary	slice: 139775	diagonal: 27.285	fud cardinality: 4002	model cardinality: 74111	fuds per threshold: 0.861497
+model018	induce summary	slice: 151492	diagonal: 29.9414	fud cardinality: 4003	model cardinality: 74132	fuds per threshold: 0.861371
+model018	induce summary	slice: 160792	diagonal: 34.0193	fud cardinality: 4004	model cardinality: 74155	fuds per threshold: 0.861435
+model018	induce summary	slice: 164178	diagonal: 24.901	fud cardinality: 4005	model cardinality: 74178	fuds per threshold: 0.861442
+actor	event id: 930006	time 0.0130281s
+model018	induce summary	slice: 150327	diagonal: 31.2195	fud cardinality: 4006	model cardinality: 74195	fuds per threshold: 0.861554
+model018	induce summary	slice: 162526	diagonal: 25.9585	fud cardinality: 4007	model cardinality: 74207	fuds per threshold: 0.86168
+model018	induce summary	slice: 162614	diagonal: 27.3734	fud cardinality: 4008	model cardinality: 74244	fuds per threshold: 0.861813
+model018	induce summary	slice: 162082	diagonal: 20.9707	fud cardinality: 4009	model cardinality: 74260	fuds per threshold: 0.86195
+model018	induce summary	slice: 163395	diagonal: 26.4016	fud cardinality: 4010	model cardinality: 74278	fuds per threshold: 0.862091
+model018	induce summary	slice: 152753	diagonal: 26.9262	fud cardinality: 4011	model cardinality: 74296	fuds per threshold: 0.861999
+model018	induce summary	slice: 143122	diagonal: 27.0816	fud cardinality: 4012	model cardinality: 74310	fuds per threshold: 0.862121
+actor	event id: 931006	time 0.0049171s
+model018	induce summary	slice: 148135	diagonal: 23.1593	fud cardinality: 4013	model cardinality: 74323	fuds per threshold: 0.862073
+model018	induce summary	slice: 163836	diagonal: 24.959	fud cardinality: 4014	model cardinality: 74342	fuds per threshold: 0.862095
+model018	induce summary	slice: 162326	diagonal: 28.3117	fud cardinality: 4015	model cardinality: 74358	fuds per threshold: 0.862176
+model018	induce summary	slice: 162103	diagonal: 24.6175	fud cardinality: 4016	model cardinality: 74383	fuds per threshold: 0.862313
+model018	induce summary	slice: 144428	diagonal: 28.8409	fud cardinality: 4017	model cardinality: 74402	fuds per threshold: 0.862421
+actor	event id: 932006	time 0.0068992s
+model018	induce summary	slice: 165355	diagonal: 37.962	fud cardinality: 4018	model cardinality: 74409	fuds per threshold: 0.862062
+model018	induce summary	slice: 162675	diagonal: 18.9192	fud cardinality: 4019	model cardinality: 74427	fuds per threshold: 0.862087
+model018	induce summary	slice: 144488	diagonal: 21.4489	fud cardinality: 4020	model cardinality: 74441	fuds per threshold: 0.862198
+model018	induce summary	slice: 160442	diagonal: 31.341	fud cardinality: 4021	model cardinality: 74469	fuds per threshold: 0.862295
+model018	induce summary	slice: 163302	diagonal: 30.1179	fud cardinality: 4022	model cardinality: 74487	fuds per threshold: 0.86242
+model018	induce summary	slice: 162910	diagonal: 25.3039	fud cardinality: 4023	model cardinality: 74500	fuds per threshold: 0.862568
+actor	event id: 933006	time 0.0111404s
+model018	induce summary	slice: 163705	diagonal: 24.0483	fud cardinality: 4024	model cardinality: 74521	fuds per threshold: 0.862686
+model018	induce summary	slice: 155611	diagonal: 24.6412	fud cardinality: 4025	model cardinality: 74535	fuds per threshold: 0.862804
+model018	induce summary	slice: 142339	diagonal: 25.4752	fud cardinality: 4026	model cardinality: 74552	fuds per threshold: 0.862926
+model018	induce summary	slice: 161676	diagonal: 28.3339	fud cardinality: 4027	model cardinality: 74569	fuds per threshold: 0.863044
+model018	induce summary	slice: 163899	diagonal: 33.5066	fud cardinality: 4028	model cardinality: 74581	fuds per threshold: 0.863166
+model018	induce summary	slice: 153248	diagonal: 32.8114	fud cardinality: 4029	model cardinality: 74592	fuds per threshold: 0.86327
+model018	induce summary	slice: 146896	diagonal: 34.0376	fud cardinality: 4030	model cardinality: 74613	fuds per threshold: 0.863388
+actor	event id: 934006	time 0.0050439s
+model018	induce summary	slice: 149163	diagonal: 23.4795	fud cardinality: 4031	model cardinality: 74633	fuds per threshold: 0.862929
+model018	induce summary	slice: 163241	diagonal: 31.1711	fud cardinality: 4032	model cardinality: 74660	fuds per threshold: 0.862992
+model018	induce summary	slice: 163825	diagonal: 23.027	fud cardinality: 4033	model cardinality: 74676	fuds per threshold: 0.863036
+model018	induce summary	slice: 145767	diagonal: 25.2032	fud cardinality: 4034	model cardinality: 74693	fuds per threshold: 0.863032
+actor	event id: 935006	time 0.0060377s
+model018	induce summary	slice: 163586	diagonal: 29.7258	fud cardinality: 4035	model cardinality: 74703	fuds per threshold: 0.862995
+model018	induce summary	slice: 162658	diagonal: 29.0586	fud cardinality: 4036	model cardinality: 74733	fuds per threshold: 0.863016
+model018	induce summary	slice: 163270	diagonal: 35.8191	fud cardinality: 4037	model cardinality: 74757	fuds per threshold: 0.862854
+actor	event id: 936006	time 0.0053132s
+model018	induce summary	slice: 164249	diagonal: 18.2737	fud cardinality: 4038	model cardinality: 74772	fuds per threshold: 0.862821
+model018	induce summary	slice: 163896	diagonal: 32.5402	fud cardinality: 4039	model cardinality: 74782	fuds per threshold: 0.862367
+model018	induce summary	slice: 144837	diagonal: 32.849	fud cardinality: 4040	model cardinality: 74795	fuds per threshold: 0.862433
+actor	event id: 937006	time 0.0112666s
+model018	induce summary	slice: 162208	diagonal: 33.342	fud cardinality: 4041	model cardinality: 74810	fuds per threshold: 0.862544
+model018	induce summary	slice: 157573	diagonal: 20.5164	fud cardinality: 4042	model cardinality: 74828	fuds per threshold: 0.862411
+model018	induce summary	slice: 162796	diagonal: 26.7983	fud cardinality: 4043	model cardinality: 74850	fuds per threshold: 0.862566
+model018	induce summary	slice: 137023	diagonal: 23.2496	fud cardinality: 4044	model cardinality: 74866	fuds per threshold: 0.862683
+model018	induce summary	slice: 155503	diagonal: 23.7884	fud cardinality: 4045	model cardinality: 74882	fuds per threshold: 0.862804
+model018	induce summary	slice: 163664	diagonal: 25.3289	fud cardinality: 4046	model cardinality: 74902	fuds per threshold: 0.86286
+actor	event id: 938006	time 0.0050217s
+model018	induce summary	slice: 164297	diagonal: 22.601	fud cardinality: 4047	model cardinality: 74918	fuds per threshold: 0.862679
+model018	induce summary	slice: 163783	diagonal: 18.174	fud cardinality: 4048	model cardinality: 74936	fuds per threshold: 0.862808
+model018	induce summary	slice: 162714	diagonal: 26.364	fud cardinality: 4049	model cardinality: 74952	fuds per threshold: 0.862583
+actor	event id: 939006	time 0.0092332s
+model018	induce summary	slice: 162418	diagonal: 17.4066	fud cardinality: 4050	model cardinality: 74971	fuds per threshold: 0.862708
+model018	induce summary	slice: 163046	diagonal: 29.7017	fud cardinality: 4051	model cardinality: 74991	fuds per threshold: 0.862565
+model018	induce summary	slice: 161886	diagonal: 31.076	fud cardinality: 4052	model cardinality: 75021	fuds per threshold: 0.862285
+actor	event id: 940006	time 0.0052475s
+model018	induce summary	slice: 160241	diagonal: 22.9715	fud cardinality: 4053	model cardinality: 75041	fuds per threshold: 0.862062
+model018	induce summary	slice: 160820	diagonal: 22.1439	fud cardinality: 4054	model cardinality: 75065	fuds per threshold: 0.862179
+model018	induce summary	slice: 162239	diagonal: 21.1103	fud cardinality: 4055	model cardinality: 75080	fuds per threshold: 0.862333
+model018	induce summary	slice: 161489	diagonal: 35.5238	fud cardinality: 4056	model cardinality: 75087	fuds per threshold: 0.862425
+model018	induce summary	slice: 159581	diagonal: 20.2084	fud cardinality: 4057	model cardinality: 75102	fuds per threshold: 0.862549
+model018	induce summary	slice: 161541	diagonal: 26.3122	fud cardinality: 4058	model cardinality: 75122	fuds per threshold: 0.862597
+actor	event id: 941006	time 0.0095723s
+model018	induce summary	slice: 162660	diagonal: 28.8735	fud cardinality: 4059	model cardinality: 75148	fuds per threshold: 0.86271
+model018	induce summary	slice: 162206	diagonal: 18.6922	fud cardinality: 4060	model cardinality: 75165	fuds per threshold: 0.862787
+model018	induce summary	slice: 162972	diagonal: 17.3047	fud cardinality: 4061	model cardinality: 75182	fuds per threshold: 0.862912
+model018	induce summary	slice: 162948	diagonal: 19.9155	fud cardinality: 4062	model cardinality: 75200	fuds per threshold: 0.862959
+model018	induce summary	slice: 162817	diagonal: 19.6454	fud cardinality: 4063	model cardinality: 75215	fuds per threshold: 0.862889
+model018	induce summary	slice: 131475	diagonal: 24.7103	fud cardinality: 4064	model cardinality: 75236	fuds per threshold: 0.862999
+actor	event id: 942006	time 0.0070033s
+model018	induce summary	slice: 162539	diagonal: 22.9837	fud cardinality: 4065	model cardinality: 75251	fuds per threshold: 0.863061
+model018	induce summary	slice: 146412	diagonal: 27.8251	fud cardinality: 4066	model cardinality: 75270	fuds per threshold: 0.862976
+model018	induce summary	slice: 144034	diagonal: 26.6716	fud cardinality: 4067	model cardinality: 75287	fuds per threshold: 0.863046
+model018	induce summary	slice: 161713	diagonal: 18.9991	fud cardinality: 4068	model cardinality: 75304	fuds per threshold: 0.863174
+actor	event id: 943006	time 0.0053343s
+model018	induce summary	slice: 161851	diagonal: 29.4409	fud cardinality: 4069	model cardinality: 75321	fuds per threshold: 0.863045
+model018	induce summary	slice: 148524	diagonal: 30.127	fud cardinality: 4070	model cardinality: 75339	fuds per threshold: 0.863144
+model018	induce summary	slice: 148921	diagonal: 23.7845	fud cardinality: 4071	model cardinality: 75352	fuds per threshold: 0.863261
+model018	induce summary	slice: 140045	diagonal: 28.0153	fud cardinality: 4072	model cardinality: 75367	fuds per threshold: 0.863381
+model018	induce summary	slice: 152734	diagonal: 26.2307	fud cardinality: 4073	model cardinality: 75382	fuds per threshold: 0.863498
+model018	induce summary	slice: 162651	diagonal: 23.3507	fud cardinality: 4074	model cardinality: 75404	fuds per threshold: 0.863608
+model018	induce summary	slice: 150155	diagonal: 27.0729	fud cardinality: 4075	model cardinality: 75417	fuds per threshold: 0.863483
+actor	event id: 944006	time 0.0103222s
+model018	induce summary	slice: 164193	diagonal: 26.9946	fud cardinality: 4076	model cardinality: 75436	fuds per threshold: 0.863347
+actor	event id: 945006	time 0.0054437s
+model018	induce summary	slice: 162478	diagonal: 27.5449	fud cardinality: 4077	model cardinality: 75451	fuds per threshold: 0.862864
+model018	induce summary	slice: 165666	diagonal: 22.0255	fud cardinality: 4078	model cardinality: 75470	fuds per threshold: 0.862802
+actor	event id: 946006	time 0.0049709s
+model018	induce summary	slice: 162384	diagonal: 25.9126	fud cardinality: 4079	model cardinality: 75485	fuds per threshold: 0.86231
+model018	induce summary	slice: 162020	diagonal: 31.3154	fud cardinality: 4080	model cardinality: 75505	fuds per threshold: 0.86235
+model018	induce summary	slice: 161910	diagonal: 24.0623	fud cardinality: 4081	model cardinality: 75525	fuds per threshold: 0.862506
+model018	induce summary	slice: 164085	diagonal: 35.4649	fud cardinality: 4082	model cardinality: 75542	fuds per threshold: 0.862521
+actor	event id: 947006	time 0.0053159s
+model018	induce summary	slice: 162247	diagonal: 25.6159	fud cardinality: 4083	model cardinality: 75564	fuds per threshold: 0.862324
+model018	induce summary	slice: 164362	diagonal: 26.4034	fud cardinality: 4084	model cardinality: 75580	fuds per threshold: 0.862124
+model018	induce summary	slice: 142192	diagonal: 29.7466	fud cardinality: 4085	model cardinality: 75592	fuds per threshold: 0.862204
+model018	induce summary	slice: 162589	diagonal: 19.7971	fud cardinality: 4086	model cardinality: 75608	fuds per threshold: 0.862222
+actor	event id: 948006	time 0.004756s
+model018	induce summary	slice: 162019	diagonal: 21.171	fud cardinality: 4087	model cardinality: 75627	fuds per threshold: 0.862164
+model018	induce summary	slice: 163403	diagonal: 18.3092	fud cardinality: 4088	model cardinality: 75644	fuds per threshold: 0.862142
+model018	induce summary	slice: 163080	diagonal: 31.0703	fud cardinality: 4089	model cardinality: 75675	fuds per threshold: 0.862258
+actor	event id: 949006	time 0.0053157s
+model018	induce summary	slice: 161613	diagonal: 38.2328	fud cardinality: 4090	model cardinality: 75713	fuds per threshold: 0.861851
+model018	induce summary	slice: 163188	diagonal: 26.1017	fud cardinality: 4091	model cardinality: 75746	fuds per threshold: 0.861855
+actor	event id: 950006	time 0.0057263s
+model018	induce summary	slice: 163364	diagonal: 29.3946	fud cardinality: 4092	model cardinality: 75764	fuds per threshold: 0.861485
+model018	induce summary	slice: 162008	diagonal: 29.0315	fud cardinality: 4093	model cardinality: 75780	fuds per threshold: 0.861256
+actor	event id: 951006	time 0.0152845s
+model018	induce summary	slice: 163733	diagonal: 23.0539	fud cardinality: 4094	model cardinality: 75799	fuds per threshold: 0.861025
+model018	induce summary	slice: 165474	diagonal: 23.2764	fud cardinality: 4095	model cardinality: 75814	fuds per threshold: 0.860866
+model018	induce summary	slice: 164681	diagonal: 21.4824	fud cardinality: 4096	model cardinality: 75830	fuds per threshold: 0.860718
+actor	event id: 952006	time 0.0064129s
+model018	induce summary	slice: 165351	diagonal: 31.9014	fud cardinality: 4097	model cardinality: 75855	fuds per threshold: 0.860096
+model018	induce summary	slice: 163556	diagonal: 38.1924	fud cardinality: 4098	model cardinality: 75895	fuds per threshold: 0.860234
+actor	event id: 953006	time 0.0052067s
+model018	induce summary	slice: 163127	diagonal: 35.4283	fud cardinality: 4099	model cardinality: 75923	fuds per threshold: 0.860213
+model018	induce summary	slice: 136974	diagonal: 32.6684	fud cardinality: 4100	model cardinality: 75943	fuds per threshold: 0.8603
+model018	induce summary	slice: 164866	diagonal: 27.1542	fud cardinality: 4101	model cardinality: 75957	fuds per threshold: 0.86043
+model018	induce summary	slice: 162241	diagonal: 37.9063	fud cardinality: 4102	model cardinality: 75993	fuds per threshold: 0.860525
+model018	induce summary	slice: 163147	diagonal: 24.1018	fud cardinality: 4103	model cardinality: 76007	fuds per threshold: 0.860644
+model018	induce summary	slice: 161286	diagonal: 25.233	fud cardinality: 4104	model cardinality: 76021	fuds per threshold: 0.860659
+actor	event id: 954006	time 0.0049656s
+model018	induce summary	slice: 166854	diagonal: 38.1254	fud cardinality: 4105	model cardinality: 76054	fuds per threshold: 0.860562
+model018	induce summary	slice: 164432	diagonal: 31.8667	fud cardinality: 4106	model cardinality: 76068	fuds per threshold: 0.86067
+model018	induce summary	slice: 164557	diagonal: 38.1938	fud cardinality: 4107	model cardinality: 76122	fuds per threshold: 0.860526
+model018	induce summary	slice: 145515	diagonal: 30.507	fud cardinality: 4108	model cardinality: 76154	fuds per threshold: 0.860628
+model018	induce summary	slice: 163995	diagonal: 20.9211	fud cardinality: 4109	model cardinality: 76171	fuds per threshold: 0.860743
+actor	event id: 955006	time 0.0139986s
+model018	induce summary	slice: 162209	diagonal: 37.2064	fud cardinality: 4110	model cardinality: 76207	fuds per threshold: 0.860376
+model018	induce summary	slice: 163840	diagonal: 22.4308	fud cardinality: 4111	model cardinality: 76226	fuds per threshold: 0.860337
+model018	induce summary	slice: 144311	diagonal: 26.3773	fud cardinality: 4112	model cardinality: 76248	fuds per threshold: 0.860546
+model018	induce summary	slice: 163059	diagonal: 26.7754	fud cardinality: 4113	model cardinality: 76268	fuds per threshold: 0.860756
+model018	induce summary	slice: 163868	diagonal: 17.5224	fud cardinality: 4114	model cardinality: 76286	fuds per threshold: 0.860965
+model018	induce summary	slice: 165613	diagonal: 25.2708	fud cardinality: 4115	model cardinality: 76306	fuds per threshold: 0.861174
+model018	induce summary	slice: 164905	diagonal: 24.5194	fud cardinality: 4116	model cardinality: 76323	fuds per threshold: 0.861279
+actor	event id: 956007	time 0.0051177s
+model018	induce summary	slice: 145491	diagonal: 29.9843	fud cardinality: 4117	model cardinality: 76337	fuds per threshold: 0.861167
+model018	induce summary	slice: 162266	diagonal: 22.4791	fud cardinality: 4118	model cardinality: 76350	fuds per threshold: 0.861175
+model018	induce summary	slice: 132779	diagonal: 25.6757	fud cardinality: 4119	model cardinality: 76367	fuds per threshold: 0.860991
+actor	event id: 957007	time 0.0050211s
+model018	induce summary	slice: 151705	diagonal: 27.9999	fud cardinality: 4120	model cardinality: 76387	fuds per threshold: 0.86101
+model018	induce summary	slice: 144740	diagonal: 26.5849	fud cardinality: 4121	model cardinality: 76407	fuds per threshold: 0.860934
+model018	induce summary	slice: 147512	diagonal: 33.4034	fud cardinality: 4122	model cardinality: 76427	fuds per threshold: 0.860726
+actor	event id: 958007	time 0.0086686s
+model018	induce summary	slice: 144530	diagonal: 20.0174	fud cardinality: 4123	model cardinality: 76443	fuds per threshold: 0.860647
+model018	induce summary	slice: 151205	diagonal: 20.9079	fud cardinality: 4124	model cardinality: 76458	fuds per threshold: 0.860759
+model018	induce summary	slice: 140401	diagonal: 30.4542	fud cardinality: 4125	model cardinality: 76473	fuds per threshold: 0.860871
+model018	induce summary	slice: 163651	diagonal: 28.9977	fud cardinality: 4126	model cardinality: 76490	fuds per threshold: 0.861029
+model018	induce summary	slice: 164355	diagonal: 19.8343	fud cardinality: 4127	model cardinality: 76504	fuds per threshold: 0.861051
+model018	induce summary	slice: 135029	diagonal: 18.655	fud cardinality: 4128	model cardinality: 76519	fuds per threshold: 0.861134
+actor	event id: 959007	time 0.0095732s
+model018	induce summary	slice: 163299	diagonal: 26.1921	fud cardinality: 4129	model cardinality: 76554	fuds per threshold: 0.86117
+model018	induce summary	slice: 165786	diagonal: 20.8624	fud cardinality: 4130	model cardinality: 76572	fuds per threshold: 0.861303
+model018	induce summary	slice: 162090	diagonal: 34.8951	fud cardinality: 4131	model cardinality: 76594	fuds per threshold: 0.861178
+model018	induce summary	slice: 164695	diagonal: 26.1165	fud cardinality: 4132	model cardinality: 76614	fuds per threshold: 0.861307
+actor	event id: 960007	time 0.0058103s
+model018	induce summary	slice: 151943	diagonal: 30.0045	fud cardinality: 4133	model cardinality: 76635	fuds per threshold: 0.860966
+model018	induce summary	slice: 164086	diagonal: 36.4977	fud cardinality: 4134	model cardinality: 76667	fuds per threshold: 0.860859
+model018	induce summary	slice: 164519	diagonal: 26.0284	fud cardinality: 4135	model cardinality: 76690	fuds per threshold: 0.860981
+actor	event id: 961007	time 0.0051384s
+model018	induce summary	slice: 160123	diagonal: 33.6181	fud cardinality: 4136	model cardinality: 76705	fuds per threshold: 0.860788
+model018	induce summary	slice: 164840	diagonal: 20.9414	fud cardinality: 4137	model cardinality: 76720	fuds per threshold: 0.860914
+model018	induce summary	slice: 164700	diagonal: 27.3005	fud cardinality: 4138	model cardinality: 76738	fuds per threshold: 0.861036
+model018	induce summary	slice: 164879	diagonal: 19.5216	fud cardinality: 4139	model cardinality: 76753	fuds per threshold: 0.861169
+model018	induce summary	slice: 145817	diagonal: 21.763	fud cardinality: 4140	model cardinality: 76769	fuds per threshold: 0.861065
+actor	event id: 962007	time 0.0071283s
+model018	induce summary	slice: 164619	diagonal: 22.883	fud cardinality: 4141	model cardinality: 76787	fuds per threshold: 0.860961
+model018	induce summary	slice: 164295	diagonal: 27.9094	fud cardinality: 4142	model cardinality: 76814	fuds per threshold: 0.860547
+actor	event id: 963007	time 0.0072391s
+model018	induce summary	slice: 166359	diagonal: 23.0652	fud cardinality: 4143	model cardinality: 76831	fuds per threshold: 0.86024
+model018	induce summary	slice: 164215	diagonal: 22.0404	fud cardinality: 4144	model cardinality: 76846	fuds per threshold: 0.86024
+model018	induce summary	slice: 164137	diagonal: 31.5412	fud cardinality: 4145	model cardinality: 76866	fuds per threshold: 0.860383
+model018	induce summary	slice: 162608	diagonal: 23.8458	fud cardinality: 4146	model cardinality: 76882	fuds per threshold: 0.860398
+actor	event id: 964007	time 0.0084244s
+model018	induce summary	slice: 142997	diagonal: 19.417	fud cardinality: 4147	model cardinality: 76898	fuds per threshold: 0.860302
+model018	induce summary	slice: 139179	diagonal: 25.4338	fud cardinality: 4148	model cardinality: 76912	fuds per threshold: 0.860424
+actor	event id: 965007	time 0.0087514s
+model018	induce summary	slice: 143481	diagonal: 25.2194	fud cardinality: 4149	model cardinality: 76927	fuds per threshold: 0.859989
+model018	induce summary	slice: 151645	diagonal: 23.3125	fud cardinality: 4150	model cardinality: 76942	fuds per threshold: 0.860068
+model018	induce summary	slice: 165181	diagonal: 38.1552	fud cardinality: 4151	model cardinality: 76977	fuds per threshold: 0.860015
+model018	induce summary	slice: 162217	diagonal: 32.2248	fud cardinality: 4152	model cardinality: 76997	fuds per threshold: 0.860037
+model018	induce summary	slice: 155615	diagonal: 33.9039	fud cardinality: 4153	model cardinality: 77032	fuds per threshold: 0.86003
+model018	induce summary	slice: 163821	diagonal: 30.593	fud cardinality: 4154	model cardinality: 77055	fuds per threshold: 0.860184
+actor	event id: 966007	time 0.0133029s
+model018	induce summary	slice: 135858	diagonal: 29.0104	fud cardinality: 4155	model cardinality: 77075	fuds per threshold: 0.860298
+model018	induce summary	slice: 159641	diagonal: 33.9266	fud cardinality: 4156	model cardinality: 77088	fuds per threshold: 0.860338
+model018	induce summary	slice: 161730	diagonal: 23.2729	fud cardinality: 4157	model cardinality: 77103	fuds per threshold: 0.860456
+model018	induce summary	slice: 159857	diagonal: 29.7124	fud cardinality: 4158	model cardinality: 77132	fuds per threshold: 0.860481
+model018	induce summary	slice: 159227	diagonal: 37.9061	fud cardinality: 4159	model cardinality: 77160	fuds per threshold: 0.860553
+actor	event id: 967007	time 0.0053104s
+model018	induce summary	slice: 160340	diagonal: 33.333	fud cardinality: 4160	model cardinality: 77189	fuds per threshold: 0.859785
+model018	induce summary	slice: 150108	diagonal: 37.6988	fud cardinality: 4161	model cardinality: 77200	fuds per threshold: 0.859881
+actor	event id: 968007	time 0.0120551s
+model018	induce summary	slice: 163272	diagonal: 38.0224	fud cardinality: 4162	model cardinality: 77227	fuds per threshold: 0.859981
+model018	induce summary	slice: 164740	diagonal: 24.7914	fud cardinality: 4163	model cardinality: 77245	fuds per threshold: 0.860103
+model018	induce summary	slice: 163006	diagonal: 24.0262	fud cardinality: 4164	model cardinality: 77263	fuds per threshold: 0.860206
+model018	induce summary	slice: 149336	diagonal: 22.4074	fud cardinality: 4165	model cardinality: 77277	fuds per threshold: 0.860217
+model018	induce summary	slice: 164957	diagonal: 27.8119	fud cardinality: 4166	model cardinality: 77296	fuds per threshold: 0.86031
+model018	induce summary	slice: 154194	diagonal: 33.6967	fud cardinality: 4167	model cardinality: 77324	fuds per threshold: 0.860268
+model018	induce summary	slice: 163743	diagonal: 20.5812	fud cardinality: 4168	model cardinality: 77340	fuds per threshold: 0.860386
+actor	event id: 969007	time 0.0105318s
+model018	induce summary	slice: 160374	diagonal: 37.7645	fud cardinality: 4169	model cardinality: 77366	fuds per threshold: 0.860446
+model018	induce summary	slice: 166772	diagonal: 26.9094	fud cardinality: 4170	model cardinality: 77382	fuds per threshold: 0.860564
+model018	induce summary	slice: 164368	diagonal: 33.7443	fud cardinality: 4171	model cardinality: 77411	fuds per threshold: 0.860703
+model018	induce summary	slice: 144201	diagonal: 27.4458	fud cardinality: 4172	model cardinality: 77433	fuds per threshold: 0.860813
+model018	induce summary	slice: 162155	diagonal: 25.489	fud cardinality: 4173	model cardinality: 77451	fuds per threshold: 0.86081
+model018	induce summary	slice: 159722	diagonal: 36.0878	fud cardinality: 4174	model cardinality: 77472	fuds per threshold: 0.860899
+model018	induce summary	slice: 161622	diagonal: 25.2771	fud cardinality: 4175	model cardinality: 77497	fuds per threshold: 0.861041
+model018	induce summary	slice: 164772	diagonal: 32.4268	fud cardinality: 4176	model cardinality: 77526	fuds per threshold: 0.861162
+actor	event id: 970007	time 0.0119513s
+model018	induce summary	slice: 165367	diagonal: 31.3649	fud cardinality: 4177	model cardinality: 77545	fuds per threshold: 0.861301
+model018	induce summary	slice: 162113	diagonal: 28.7036	fud cardinality: 4178	model cardinality: 77560	fuds per threshold: 0.86122
+model018	induce summary	slice: 166824	diagonal: 24.047	fud cardinality: 4179	model cardinality: 77577	fuds per threshold: 0.861124
+model018	induce summary	slice: 160594	diagonal: 31.6892	fud cardinality: 4180	model cardinality: 77593	fuds per threshold: 0.861092
+actor	event id: 971007	time 0.0068218s
+model018	induce summary	slice: 162672	diagonal: 24.3361	fud cardinality: 4181	model cardinality: 77607	fuds per threshold: 0.86105
+model018	induce summary	slice: 161979	diagonal: 26.9757	fud cardinality: 4182	model cardinality: 77621	fuds per threshold: 0.861075
+model018	induce summary	slice: 142246	diagonal: 29.3705	fud cardinality: 4183	model cardinality: 77644	fuds per threshold: 0.861182
+model018	induce summary	slice: 160330	diagonal: 36.6448	fud cardinality: 4184	model cardinality: 77685	fuds per threshold: 0.861058
+actor	event id: 972007	time 0.0053146s
+model018	induce summary	slice: 164554	diagonal: 24.0237	fud cardinality: 4185	model cardinality: 77701	fuds per threshold: 0.86103
+model018	induce summary	slice: 166837	diagonal: 38.2328	fud cardinality: 4186	model cardinality: 77746	fuds per threshold: 0.861122
+model018	induce summary	slice: 162898	diagonal: 23.0215	fud cardinality: 4187	model cardinality: 77766	fuds per threshold: 0.86126
+model018	induce summary	slice: 164735	diagonal: 28.4361	fud cardinality: 4188	model cardinality: 77788	fuds per threshold: 0.861374
+model018	induce summary	slice: 145438	diagonal: 25.4197	fud cardinality: 4189	model cardinality: 77805	fuds per threshold: 0.861491
+model018	induce summary	slice: 163319	diagonal: 25.8093	fud cardinality: 4190	model cardinality: 77820	fuds per threshold: 0.861647
+model018	induce summary	slice: 140777	diagonal: 35.4811	fud cardinality: 4191	model cardinality: 77862	fuds per threshold: 0.861746
+model018	induce summary	slice: 146041	diagonal: 24.8821	fud cardinality: 4192	model cardinality: 77880	fuds per threshold: 0.861853
+actor	event id: 973007	time 0.0104058s
+model018	induce summary	slice: 163969	diagonal: 27.8902	fud cardinality: 4193	model cardinality: 77904	fuds per threshold: 0.861956
+model018	induce summary	slice: 154379	diagonal: 28.7995	fud cardinality: 4194	model cardinality: 77926	fuds per threshold: 0.861832
+model018	induce summary	slice: 161615	diagonal: 32.934	fud cardinality: 4195	model cardinality: 77953	fuds per threshold: 0.861828
+actor	event id: 974007	time 0.0060212s
+model018	induce summary	slice: 142834	diagonal: 26.6328	fud cardinality: 4196	model cardinality: 77967	fuds per threshold: 0.861679
+model018	induce summary	slice: 147517	diagonal: 24.2421	fud cardinality: 4197	model cardinality: 77980	fuds per threshold: 0.861623
+actor	event id: 975007	time 0.0063263s
+model018	induce summary	slice: 164586	diagonal: 25.3313	fud cardinality: 4198	model cardinality: 77998	fuds per threshold: 0.861075
+model018	induce summary	slice: 153344	diagonal: 22.1717	fud cardinality: 4199	model cardinality: 78013	fuds per threshold: 0.860895
+actor	event id: 976007	time 0.0072664s
+model018	induce summary	slice: 165973	diagonal: 18.8493	fud cardinality: 4200	model cardinality: 78029	fuds per threshold: 0.86062
+model018	induce summary	slice: 165140	diagonal: 31.6879	fud cardinality: 4201	model cardinality: 78055	fuds per threshold: 0.860744
+actor	event id: 977007	time 0.0085043s
+model018	induce summary	slice: 151868	diagonal: 23.9548	fud cardinality: 4202	model cardinality: 78067	fuds per threshold: 0.860269
+actor	event id: 978007	time 0.0053576s
+model018	induce summary	slice: 161815	diagonal: 23.2169	fud cardinality: 4203	model cardinality: 78081	fuds per threshold: 0.859516
+model018	induce summary	slice: 163060	diagonal: 19.2178	fud cardinality: 4204	model cardinality: 78101	fuds per threshold: 0.859594
+model018	induce summary	slice: 164618	diagonal: 20.1382	fud cardinality: 4205	model cardinality: 78115	fuds per threshold: 0.859496
+model018	induce summary	slice: 165331	diagonal: 38.2299	fud cardinality: 4206	model cardinality: 78166	fuds per threshold: 0.859574
+model018	induce summary	slice: 165879	diagonal: 24.1446	fud cardinality: 4207	model cardinality: 78182	fuds per threshold: 0.859694
+model018	induce summary	slice: 165157	diagonal: 23.7818	fud cardinality: 4208	model cardinality: 78203	fuds per threshold: 0.859811
+actor	event id: 979007	time 0.0054369s
+model018	induce summary	slice: 163431	diagonal: 30.4018	fud cardinality: 4209	model cardinality: 78210	fuds per threshold: 0.859674
+model018	induce summary	slice: 164651	diagonal: 24.5532	fud cardinality: 4210	model cardinality: 78225	fuds per threshold: 0.859622
+actor	event id: 980007	time 0.0092076s
+model018	induce summary	slice: 163777	diagonal: 19.4562	fud cardinality: 4211	model cardinality: 78242	fuds per threshold: 0.859433
+model018	induce summary	slice: 161389	diagonal: 37.2983	fud cardinality: 4212	model cardinality: 78249	fuds per threshold: 0.859329
+model018	induce summary	slice: 160848	diagonal: 33.7891	fud cardinality: 4213	model cardinality: 78285	fuds per threshold: 0.859442
+model018	induce summary	slice: 164459	diagonal: 29.1593	fud cardinality: 4214	model cardinality: 78298	fuds per threshold: 0.859509
+model018	induce summary	slice: 161036	diagonal: 32.8024	fud cardinality: 4215	model cardinality: 78319	fuds per threshold: 0.859436
+actor	event id: 981007	time 0.008496s
+model018	induce summary	slice: 144917	diagonal: 27.5382	fud cardinality: 4216	model cardinality: 78335	fuds per threshold: 0.859422
+model018	induce summary	slice: 146279	diagonal: 24.8149	fud cardinality: 4217	model cardinality: 78349	fuds per threshold: 0.859378
+model018	induce summary	slice: 164013	diagonal: 21.8762	fud cardinality: 4218	model cardinality: 78367	fuds per threshold: 0.859343
+actor	event id: 982007	time 0.0085207s
+model018	induce summary	slice: 148647	diagonal: 28.3345	fud cardinality: 4219	model cardinality: 78384	fuds per threshold: 0.859351
+model018	induce summary	slice: 164629	diagonal: 35.3511	fud cardinality: 4220	model cardinality: 78413	fuds per threshold: 0.859456
+model018	induce summary	slice: 162386	diagonal: 23.7255	fud cardinality: 4221	model cardinality: 78432	fuds per threshold: 0.859615
+model018	induce summary	slice: 161311	diagonal: 31.2	fud cardinality: 4222	model cardinality: 78463	fuds per threshold: 0.859661
+model018	induce summary	slice: 165182	diagonal: 36.6011	fud cardinality: 4223	model cardinality: 78486	fuds per threshold: 0.859434
+model018	induce summary	slice: 166766	diagonal: 26.4366	fud cardinality: 4224	model cardinality: 78505	fuds per threshold: 0.859557
+model018	induce summary	slice: 162396	diagonal: 29.525	fud cardinality: 4225	model cardinality: 78528	fuds per threshold: 0.859715
+actor	event id: 983007	time 0.0237186s
+model018	induce summary	slice: 160020	diagonal: 33.8855	fud cardinality: 4226	model cardinality: 78552	fuds per threshold: 0.859764
+model018	induce summary	slice: 147435	diagonal: 32.3814	fud cardinality: 4227	model cardinality: 78572	fuds per threshold: 0.859733
+model018	induce summary	slice: 142907	diagonal: 21.6293	fud cardinality: 4228	model cardinality: 78588	fuds per threshold: 0.859786
+model018	induce summary	slice: 151310	diagonal: 23.7901	fud cardinality: 4229	model cardinality: 78604	fuds per threshold: 0.859888
+model018	induce summary	slice: 150467	diagonal: 23.8891	fud cardinality: 4230	model cardinality: 78618	fuds per threshold: 0.860008
+model018	induce summary	slice: 161112	diagonal: 35.802	fud cardinality: 4231	model cardinality: 78625	fuds per threshold: 0.860127
+actor	event id: 984007	time 0.0097787s
+model018	induce summary	slice: 165417	diagonal: 20.211	fud cardinality: 4232	model cardinality: 78645	fuds per threshold: 0.86024
+model018	induce summary	slice: 166086	diagonal: 24.4606	fud cardinality: 4233	model cardinality: 78660	fuds per threshold: 0.860083
+model018	induce summary	slice: 158922	diagonal: 25.9097	fud cardinality: 4234	model cardinality: 78681	fuds per threshold: 0.859915
+model018	induce summary	slice: 165352	diagonal: 38.2003	fud cardinality: 4235	model cardinality: 78727	fuds per threshold: 0.860049
+actor	event id: 985007	time 0.0129508s
+model018	induce summary	slice: 160091	diagonal: 32.521	fud cardinality: 4236	model cardinality: 78759	fuds per threshold: 0.860157
+model018	induce summary	slice: 166995	diagonal: 26.2739	fud cardinality: 4237	model cardinality: 78778	fuds per threshold: 0.86027
+model018	induce summary	slice: 141542	diagonal: 23.6869	fud cardinality: 4238	model cardinality: 78804	fuds per threshold: 0.860371
+actor	warning: act time 0.0820731s
+actor	event id: 986007	time 0.0057616s
+model018	induce summary	slice: 139683	diagonal: 27.8397	fud cardinality: 4239	model cardinality: 78821	fuds per threshold: 0.859904
+model018	induce summary	slice: 165492	diagonal: 36.6374	fud cardinality: 4240	model cardinality: 78840	fuds per threshold: 0.860023
+model018	induce summary	slice: 165986	diagonal: 28.5022	fud cardinality: 4241	model cardinality: 78858	fuds per threshold: 0.859835
+model018	induce summary	slice: 162581	diagonal: 23.7294	fud cardinality: 4242	model cardinality: 78877	fuds per threshold: 0.859763
+actor	event id: 987007	time 0.0096505s
+model018	induce summary	slice: 163874	diagonal: 21.0475	fud cardinality: 4243	model cardinality: 78895	fuds per threshold: 0.859763
+model018	induce summary	slice: 162913	diagonal: 31.9791	fud cardinality: 4244	model cardinality: 78913	fuds per threshold: 0.859708
+model018	induce summary	slice: 162503	diagonal: 28.79	fud cardinality: 4245	model cardinality: 78941	fuds per threshold: 0.859771
+model018	induce summary	slice: 163945	diagonal: 27.9693	fud cardinality: 4246	model cardinality: 78954	fuds per threshold: 0.859845
+model018	induce summary	slice: 162000	diagonal: 28.6263	fud cardinality: 4247	model cardinality: 78978	fuds per threshold: 0.859964
+model018	induce summary	slice: 162551	diagonal: 37.7642	fud cardinality: 4248	model cardinality: 78995	fuds per threshold: 0.860107
+model018	induce summary	slice: 161848	diagonal: 29.1291	fud cardinality: 4249	model cardinality: 79018	fuds per threshold: 0.860222
+actor	event id: 988007	time 0.0096649s
+model018	induce summary	slice: 167754	diagonal: 37.5334	fud cardinality: 4250	model cardinality: 79025	fuds per threshold: 0.86038
+model018	induce summary	slice: 164790	diagonal: 17.395	fud cardinality: 4251	model cardinality: 79043	fuds per threshold: 0.860498
+model018	induce summary	slice: 133223	diagonal: 36.9305	fud cardinality: 4252	model cardinality: 79060	fuds per threshold: 0.860558
+model018	induce summary	slice: 165338	diagonal: 14.7998	fud cardinality: 4253	model cardinality: 79076	fuds per threshold: 0.860576
+model018	induce summary	slice: 144395	diagonal: 22.8072	fud cardinality: 4254	model cardinality: 79091	fuds per threshold: 0.860472
+model018	induce summary	slice: 166395	diagonal: 31.785	fud cardinality: 4255	model cardinality: 79124	fuds per threshold: 0.860601
+actor	event id: 989007	time 0.0126279s
+model018	induce summary	slice: 151270	diagonal: 23.6957	fud cardinality: 4256	model cardinality: 79140	fuds per threshold: 0.860713
+model018	induce summary	slice: 163850	diagonal: 23.5873	fud cardinality: 4257	model cardinality: 79162	fuds per threshold: 0.860845
+model018	induce summary	slice: 164367	diagonal: 31.5491	fud cardinality: 4258	model cardinality: 79188	fuds per threshold: 0.860995
+model018	induce summary	slice: 164501	diagonal: 27.3673	fud cardinality: 4259	model cardinality: 79200	fuds per threshold: 0.86111
+model018	induce summary	slice: 160592	diagonal: 30.5018	fud cardinality: 4260	model cardinality: 79214	fuds per threshold: 0.86125
+actor	event id: 990007	time 0.0081452s
+model018	induce summary	slice: 143910	diagonal: 24.0413	fud cardinality: 4261	model cardinality: 79229	fuds per threshold: 0.860526
+model018	induce summary	slice: 164004	diagonal: 33.4642	fud cardinality: 4262	model cardinality: 79255	fuds per threshold: 0.860575
+actor	event id: 991007	time 0.014111s
+model018	induce summary	slice: 150442	diagonal: 24.6128	fud cardinality: 4263	model cardinality: 79275	fuds per threshold: 0.860423
+model018	induce summary	slice: 134292	diagonal: 22.0934	fud cardinality: 4264	model cardinality: 79290	fuds per threshold: 0.860534
+model018	induce summary	slice: 163258	diagonal: 25.11	fud cardinality: 4265	model cardinality: 79306	fuds per threshold: 0.860549
+model018	induce summary	slice: 161830	diagonal: 26.0547	fud cardinality: 4266	model cardinality: 79322	fuds per threshold: 0.860594
+model018	induce summary	slice: 165147	diagonal: 23.5887	fud cardinality: 4267	model cardinality: 79344	fuds per threshold: 0.860525
+actor	event id: 992007	time 0.005498s
+actor	event id: 993007	time 0.0062126s
+model018	induce summary	slice: 139782	diagonal: 26.5085	fud cardinality: 4268	model cardinality: 79359	fuds per threshold: 0.859614
+model018	induce summary	slice: 167474	diagonal: 31.1954	fud cardinality: 4269	model cardinality: 79390	fuds per threshold: 0.859327
+model018	induce summary	slice: 164164	diagonal: 31.857	fud cardinality: 4270	model cardinality: 79400	fuds per threshold: 0.8594
+actor	event id: 994007	time 0.0070844s
+model018	induce summary	slice: 163757	diagonal: 25.4322	fud cardinality: 4271	model cardinality: 79412	fuds per threshold: 0.859422
+model018	induce summary	slice: 165985	diagonal: 27.0521	fud cardinality: 4272	model cardinality: 79433	fuds per threshold: 0.858828
+actor	event id: 995007	time 0.0064402s
+model018	induce summary	slice: 164416	diagonal: 26.6183	fud cardinality: 4273	model cardinality: 79464	fuds per threshold: 0.858732
+model018	induce summary	slice: 142955	diagonal: 30.4362	fud cardinality: 4274	model cardinality: 79491	fuds per threshold: 0.858833
+model018	induce summary	slice: 132480	diagonal: 25.4087	fud cardinality: 4275	model cardinality: 79512	fuds per threshold: 0.858879
+model018	induce summary	slice: 163325	diagonal: 23.8475	fud cardinality: 4276	model cardinality: 79533	fuds per threshold: 0.858983
+model018	induce summary	slice: 164282	diagonal: 33.844	fud cardinality: 4277	model cardinality: 79566	fuds per threshold: 0.859118
+actor	event id: 996007	time 0.0121357s
+model018	induce summary	slice: 162586	diagonal: 31.5842	fud cardinality: 4278	model cardinality: 79584	fuds per threshold: 0.859091
+model018	induce summary	slice: 164396	diagonal: 28.8297	fud cardinality: 4279	model cardinality: 79606	fuds per threshold: 0.859113
+model018	induce summary	slice: 163961	diagonal: 37.7634	fud cardinality: 4280	model cardinality: 79644	fuds per threshold: 0.85911
+model018	induce summary	slice: 140400	diagonal: 32.4542	fud cardinality: 4281	model cardinality: 79671	fuds per threshold: 0.859211
+model018	induce summary	slice: 164431	diagonal: 32.9114	fud cardinality: 4282	model cardinality: 79684	fuds per threshold: 0.859225
+model018	induce summary	slice: 162094	diagonal: 20.6158	fud cardinality: 4283	model cardinality: 79698	fuds per threshold: 0.85936
+actor	event id: 997007	time 0.004938s
+model018	induce summary	slice: 147721	diagonal: 31.4963	fud cardinality: 4284	model cardinality: 79706	fuds per threshold: 0.859392
+model018	induce summary	slice: 164784	diagonal: 17.4444	fud cardinality: 4285	model cardinality: 79722	fuds per threshold: 0.859548
+model018	induce summary	slice: 163997	diagonal: 37.1686	fud cardinality: 4286	model cardinality: 79751	fuds per threshold: 0.859362
+model018	induce summary	slice: 162623	diagonal: 21.9035	fud cardinality: 4287	model cardinality: 79766	fuds per threshold: 0.85947
+model018	induce summary	slice: 165738	diagonal: 22.7973	fud cardinality: 4288	model cardinality: 79785	fuds per threshold: 0.85958
+actor	event id: 998007	time 0.0167545s
+model018	induce summary	slice: 168129	diagonal: 24.7647	fud cardinality: 4289	model cardinality: 79804	fuds per threshold: 0.859588
+model018	induce summary	slice: 167020	diagonal: 35.8366	fud cardinality: 4290	model cardinality: 79833	fuds per threshold: 0.859682
+model018	induce summary	slice: 164832	diagonal: 22.4524	fud cardinality: 4291	model cardinality: 79853	fuds per threshold: 0.85962
+actor	event id: 999007	time 0.0057387s
+model018	induce summary	slice: 159461	diagonal: 19.9528	fud cardinality: 4292	model cardinality: 79869	fuds per threshold: 0.859142
+model018	induce summary	slice: 166940	diagonal: 17.6618	fud cardinality: 4293	model cardinality: 79890	fuds per threshold: 0.859256
+model018	induce summary	slice: 162687	diagonal: 23.3533	fud cardinality: 4294	model cardinality: 79906	fuds per threshold: 0.8589
+model018	induce summary	slice: 163832	diagonal: 19.5491	fud cardinality: 4295	model cardinality: 79923	fuds per threshold: 0.859096
+actor	event id: 1000007	time 2.48e-05s
 0
-model018	dump	file name: model018.ac	time 2.0699s
-actor	dump	file name:model018.rep
-actor	status: finished

@@ -1,6 +1,6 @@
 {
 	"model" : "model018",
-	"interval" : 80,
+	"interval" : 40,
 	"model_initial" : "model016",
 	"mode" : "mode003",
 	"event_size" : 4,

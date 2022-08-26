@@ -1,0 +1,12 @@
+actor	status: started
+application.exec(): model021	induce summary	slice: 0	diagonal: 25.2066	fud cardinality: 1	model cardinality: 10	fuds per threshold: 0.833333
+model021	induce summary	slice: 131073	diagonal: 25.9392	fud cardinality: 2	model cardinality: 24	fuds per threshold: 0.97561
+model021	induce summary	slice: 131084	diagonal: 26.3157	fud cardinality: 3	model cardinality: 43	fuds per threshold: 1.01695
+model021	induce summary	slice: 131093	diagonal: 31.8266	fud cardinality: 4	model cardinality: 64	fuds per threshold: 0.97561
+model021	induce summary	slice: 131083	diagonal: 26.8969	fud cardinality: 5	model cardinality: 78	fuds per threshold: 1.03093
+actor	event id: 1000	time 0.231963s
+model021	induce summary	slice: 131102	diagonal: 23.3337	fud cardinality: 6	model cardinality: 92	fuds per threshold: 1.1215
+0
+model021	dump	file name: model021.ac	time 0.0101426s
+actor	dump	file name:model021.rep
+actor	status: finished

@@ -1,8 +1,8 @@
 {
-	"model" : "model018",
+	"model" : "model019",
 	"interval" : 40,
-	"model_initial" : "model016",
-	"mode" : "mode003",
+	"model_initial" : "model015",
+	"mode" : "mode002",
 	"scale" : 0.177,
 	"event_size" : 4,
 	"scan_size" : 20,

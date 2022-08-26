@@ -1,0 +1,14 @@
+model015	load	file name: model015.ac	time 3.07818s
+model019	fuds cardinality: 4106	model cardinality: 75293	active size: 719676	fuds per threshold: 1.14107
+actor	status: started
+application.exec(): actor	event id: 720007	time 0.0032153s
+model019	induce summary	slice: 136851	diagonal: 9.29397	fud cardinality: 4107	model cardinality: 75330	fuds per threshold: 1.14057
+model019	induce summary	slice: 148515	diagonal: 27.943	fud cardinality: 4108	model cardinality: 75347	fuds per threshold: 1.14085
+model019	induce summary	slice: 151129	diagonal: 23.1625	fud cardinality: 4109	model cardinality: 75368	fuds per threshold: 1.14113
+model019	induce summary	slice: 153195	diagonal: 30.6065	fud cardinality: 4110	model cardinality: 75385	fuds per threshold: 1.14141
+model019	induce summary	slice: 153516	diagonal: 22.962	fud cardinality: 4111	model cardinality: 75399	fuds per threshold: 1.14168
+model019	induce summary	slice: 146115	diagonal: 27.3233	fud cardinality: 4112	model cardinality: 75412	fuds per threshold: 1.14127
+0
+model019	dump	file name: model019.ac	time 2.36552s
+actor	dump	file name:model019.rep
+actor	status: finished

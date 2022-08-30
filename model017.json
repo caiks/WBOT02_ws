@@ -1,6 +1,6 @@
 {
 	"model" : "model017",
-	"interval" : 350,
+	"interval" : 250,
 	"x" : 870,
 	"width" : 560,
 	"model_initial" : "model016",
@@ -18,5 +18,5 @@
 	"logging_event_factor" : 1000,
 	"summary_active" : true,
 	"logging_action" : false,
-	"warning_action" : true
+	"warning_action" : false
 }

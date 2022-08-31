@@ -1,6 +1,6 @@
 {
 	"model" : "model020",
-	"interval" : 350,
+	"interval" : 250,
 	"x" : 870,
 	"width" : 560,
 	"model_initial" : "model015",

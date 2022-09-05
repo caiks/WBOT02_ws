@@ -1,0 +1,23 @@
+{
+	"model" : "model024",
+	"interval" : 250,
+	"x" : 870,
+	"width" : 560,
+	"model_initial" : "model023",
+	"mode" : "mode004",
+	"event_size" : 10,
+	"threads" : 6,
+	"valency_factor" : 3,
+	"scale" : 0.177,
+	"range_centreX" : 0.236,
+	"range_centreY" :0.177,
+	"event_maximum" : 1700000,
+	"lag_threshold" : 3,
+	"motion_detection_threshold" : 25,
+	"interactive" : false,
+	"logging_event" : true,
+	"logging_event_factor" : 1000,
+	"summary_active" : true,
+	"logging_action" : false,
+	"warning_action" : false
+}

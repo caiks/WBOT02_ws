@@ -1,0 +1,22 @@
+{
+	"model" : "model025",
+	"interval" : 125,
+	"x" : 870,
+	"width" : 560,
+	"mode" : "mode004",
+	"valency_fixed" : true,
+	"event_size" : 10,
+	"threads" : 6,
+	"scale" : 0.177,
+	"range_centreX" : 0.236,
+	"range_centreY" :0.177,
+	"event_maximum" : 1000000,
+	"lag_threshold" : 3,
+	"motion_detection_threshold" : 25,
+	"interactive" : false,
+	"logging_event" : true,
+	"logging_event_factor" : 1000,
+	"summary_active" : true,
+	"logging_action" : false,
+	"warning_action" : false
+}

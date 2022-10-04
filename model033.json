@@ -1,0 +1,21 @@
+{
+	"model" : "model033",
+	"video_sources" : ["videos/The Woman In The Window 1944 [wOQeqcPocsQ].webm"],
+	"interval" : 250,
+	"playback_rate" : 3.0,
+	"mode" : "mode005",
+	"valency_fixed" : true,
+	"event_size" : 5,
+	"threads" : 7,
+	"induceThreadCount" : 7,
+	"scale" : 0.177,
+	"range_centreX" : 0.236,
+	"range_centreY" :0.177,
+	"event_maximum" : 527045,
+	"gui" : false,
+	"logging_event" : true,
+	"logging_event_factor" : 1000,
+	"summary_active" : true,
+	"logging_action" : true,
+	"logging_action_factor" : 20
+}

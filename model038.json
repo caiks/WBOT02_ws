@@ -18,6 +18,7 @@
 	"mode" : "mode002",
 	"valency_fixed" : true,
 	"event_size" : 4,
+	"scan_size" : 20,
 	"threads" : 7,
 	"induceThreadCount" : 7,
 	"scale" : 0.177,

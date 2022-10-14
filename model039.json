@@ -3,10 +3,8 @@
 	"video_sources" : [
 		"videos/No Man's Woman (1955) [oLiwhrvkMEU].webm",
 		"videos/Pickup On South Street 1953 .E ab bn cr cs e f k sp tk [AmgEytYLH7A].webm",
-		"videos/Patterns (1956) ROD SERLING [UMnU4faUMUY].webm",
 		"videos/Scarlet Street  (1945) Edward G. Robinson [RRLwI2xk__c].webm",
 		"videos/Shield For Murder (1954) [5NGRKhD2A_Y].webm",
-		"videos/Sitting Pretty 1948 Maureen O'Hara, Robert Young & Clifton Webb [lORVIu64C38].webm",
 		"videos/Temptation (1946) [A8yruBUND0Y].webm",
 		"videos/The Alfred Hitchcock Hour - 'One of the Family' (1965) Lilia Skala, Kathryn Hays, Jeremy Slate [sMCedRBOYbQ].webm",
 		"videos/THE ALFRED HITCHCOCK HOUR - 'WHAT REALLY HAPPENED' Anne Francis Guest Stars 1-11-1963. [YT PREMIER]. [kdIQAXvSr4Q].webm",
@@ -31,6 +29,6 @@
 	"logging_event" : true,
 	"logging_event_factor" : 1000,
 	"summary_active" : true,
-	"logging_action" : false,
-	"logging_action_factor" : 20
+	"logging_action" : true,
+	"logging_action_factor" : 100
 }

@@ -51,6 +51,7 @@
 		"videos/Twelve O'Clock High 1949  Gregory Peck, Hugh Marlowe & Dean Jagger [OMh4h2_ts68].webm"],
 	"interval" : 250,
 	"playback_rate" : 3.0,
+	"retry_media" : true,
 	"mode" : "mode005",
 	"unique_records" : 333,
 	"valency" : 5,

@@ -54,7 +54,7 @@
 	"playback_rate" : 3.0,
 	"retry_media" : true,
 	"checkpointing" : true,
-	"video_index" : 38,
+	"video_index" : 16,
 	"mode" : "mode005",
 	"unique_records" : 333,
 	"entropy_minimum" : 1.2,

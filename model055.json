@@ -1,5 +1,6 @@
 {
 	"model" : "model055",
+	"model_initial" : "model055",
 	"video_sources" : [
 		"videos/No Man's Woman (1955) [oLiwhrvkMEU].webm",
 		"videos/Pickup On South Street 1953 .E ab bn cr cs e f k sp tk [AmgEytYLH7A].webm",
@@ -53,6 +54,7 @@
 	"playback_rate" : 3.0,
 	"retry_media" : true,
 	"checkpointing" : true,
+	"video_index" : 20,
 	"mode" : "mode006",
 	"unique_records" : 333,
 	"entropy_minimum" : 1.2,

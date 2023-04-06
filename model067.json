@@ -57,18 +57,18 @@
 	"unique_records" : 333,
 	"entropy_minimum" : 1.2,
 	"valency_balanced" : true,
-	"event_size" : 4,
+	"event_size" : 12,
 	"threads" : 7,
 	"cumulative_active" : false,
 	"activeSize" : 1000000,
 	"induceThreadCount" : 7,
 	"induceParameters.diagonalMin" : 12.0,
 	"scales" : [0.5, 0.354, 0.25, 0.177, 0.125, 0.088],
-	"event_maximum" : 1000000,
+	"event_maximum" : 3000000,
 	"gui" : false,
 	"logging_event" : true,
 	"logging_event_factor" : 1000,
 	"summary_active" : true,
 	"logging_action" : true,
-	"logging_action_factor" : 100
+	"logging_action_factor" : 10000000
 }

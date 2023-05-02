@@ -1,0 +1,104 @@
+modeller	init: opened records filerecords004.rec
+model072	induce summary	slice: 0	diagonal: 26.619	fud cardinality: 1	model cardinality: 17	fuds per threshold: 1
+model072	induce summary	slice: 131076	diagonal: 33.0483	fud cardinality: 2	model cardinality: 50	fuds per threshold: 1.49254
+model072	induce summary	slice: 131081	diagonal: 36.55	fud cardinality: 3	model cardinality: 72	fuds per threshold: 1.57895
+model072	induce summary	slice: 131084	diagonal: 20.0723	fud cardinality: 4	model cardinality: 88	fuds per threshold: 1.66667
+model072	induce summary	slice: 131096	diagonal: 26.3899	fud cardinality: 5	model cardinality: 104	fuds per threshold: 1.64474
+model072	induce summary	slice: 131103	diagonal: 26.2392	fud cardinality: 6	model cardinality: 122	fuds per threshold: 1.7341
+model072	induce summary	slice: 131119	diagonal: 23.2384	fud cardinality: 7	model cardinality: 136	fuds per threshold: 1.73267
+model072	induce summary	slice: 131132	diagonal: 29.6765	fud cardinality: 8	model cardinality: 153	fuds per threshold: 1.63934
+modeller	event id: 1000	time 0.102882s
+model072	induce summary	slice: 131086	diagonal: 32.014	fud cardinality: 9	model cardinality: 169	fuds per threshold: 1.64835
+model072	induce summary	slice: 131134	diagonal: 25.7775	fud cardinality: 10	model cardinality: 187	fuds per threshold: 1.68919
+model072	induce summary	slice: 131141	diagonal: 33.2869	fud cardinality: 11	model cardinality: 213	fuds per threshold: 1.67173
+model072	induce summary	slice: 131114	diagonal: 25.8779	fud cardinality: 12	model cardinality: 228	fuds per threshold: 1.77515
+model072	induce summary	slice: 131162	diagonal: 21.5623	fud cardinality: 13	model cardinality: 242	fuds per threshold: 1.79558
+model072	induce summary	slice: 131171	diagonal: 23.5823	fud cardinality: 14	model cardinality: 257	fuds per threshold: 1.74129
+model072	induce summary	slice: 131186	diagonal: 25.5583	fud cardinality: 15	model cardinality: 273	fuds per threshold: 1.82482
+model072	induce summary	slice: 131201	diagonal: 32.3218	fud cardinality: 16	model cardinality: 303	fuds per threshold: 1.81818
+model072	induce summary	slice: 131156	diagonal: 26.0324	fud cardinality: 17	model cardinality: 318	fuds per threshold: 1.73824
+model072	induce summary	slice: 131216	diagonal: 25.7663	fud cardinality: 18	model cardinality: 334	fuds per threshold: 1.80723
+modeller	event id: 2000	time 0.100939s
+model072	induce summary	slice: 131169	diagonal: 29.6397	fud cardinality: 19	model cardinality: 351	fuds per threshold: 1.72414
+model072	induce summary	slice: 131219	diagonal: 24.5726	fud cardinality: 20	model cardinality: 366	fuds per threshold: 1.80505
+model072	induce summary	slice: 131237	diagonal: 25.6079	fud cardinality: 21	model cardinality: 386	fuds per threshold: 1.83888
+model072	induce summary	slice: 131212	diagonal: 23.7343	fud cardinality: 22	model cardinality: 398	fuds per threshold: 1.82119
+model072	induce summary	slice: 131260	diagonal: 27.635	fud cardinality: 23	model cardinality: 413	fuds per threshold: 1.76923
+model072	induce summary	slice: 131240	diagonal: 29.0321	fud cardinality: 24	model cardinality: 432	fuds per threshold: 1.82094
+model072	induce summary	slice: 131251	diagonal: 23.2074	fud cardinality: 25	model cardinality: 451	fuds per threshold: 1.80115
+model072	induce summary	slice: 131290	diagonal: 28.2974	fud cardinality: 26	model cardinality: 465	fuds per threshold: 1.83357
+modeller	event id: 3000	time 0.0999302s
+modeller	model: opened records filerecords004.rec
+model072	induce summary	slice: 131149	diagonal: 32.5939	fud cardinality: 27	model cardinality: 490	fuds per threshold: 1.8
+model072	induce summary	slice: 131268	diagonal: 31.0958	fud cardinality: 28	model cardinality: 506	fuds per threshold: 1.86667
+model072	induce summary	slice: 131196	diagonal: 21.2616	fud cardinality: 29	model cardinality: 519	fuds per threshold: 1.93333
+model072	induce summary	slice: 131307	diagonal: 27.3151	fud cardinality: 30	model cardinality: 535	fuds per threshold: 2
+modeller	init: opened records filerecords004.rec
+model072	induce summary	slice: 0	diagonal: 26.619	fud cardinality: 1	model cardinality: 17	fuds per threshold: 1
+model072	induce summary	slice: 131076	diagonal: 33.0483	fud cardinality: 2	model cardinality: 50	fuds per threshold: 1.49254
+model072	induce summary	slice: 131081	diagonal: 36.55	fud cardinality: 3	model cardinality: 72	fuds per threshold: 1.57895
+model072	induce summary	slice: 131084	diagonal: 20.0723	fud cardinality: 4	model cardinality: 88	fuds per threshold: 1.66667
+model072	induce summary	slice: 131096	diagonal: 26.3899	fud cardinality: 5	model cardinality: 104	fuds per threshold: 1.64474
+model072	induce summary	slice: 131103	diagonal: 26.2392	fud cardinality: 6	model cardinality: 122	fuds per threshold: 1.7341
+model072	induce summary	slice: 131119	diagonal: 23.2384	fud cardinality: 7	model cardinality: 136	fuds per threshold: 1.73267
+model072	induce summary	slice: 131132	diagonal: 29.6765	fud cardinality: 8	model cardinality: 153	fuds per threshold: 1.63934
+modeller	event id: 1000	time 0.111516s
+model072	induce summary	slice: 131086	diagonal: 32.014	fud cardinality: 9	model cardinality: 169	fuds per threshold: 1.64835
+model072	induce summary	slice: 131134	diagonal: 25.7775	fud cardinality: 10	model cardinality: 187	fuds per threshold: 1.68919
+model072	induce summary	slice: 131141	diagonal: 33.2869	fud cardinality: 11	model cardinality: 213	fuds per threshold: 1.67173
+model072	induce summary	slice: 131114	diagonal: 25.8779	fud cardinality: 12	model cardinality: 228	fuds per threshold: 1.77515
+model072	induce summary	slice: 131162	diagonal: 21.5623	fud cardinality: 13	model cardinality: 242	fuds per threshold: 1.79558
+model072	induce summary	slice: 131171	diagonal: 23.5823	fud cardinality: 14	model cardinality: 257	fuds per threshold: 1.74129
+model072	induce summary	slice: 131186	diagonal: 25.5583	fud cardinality: 15	model cardinality: 273	fuds per threshold: 1.82482
+model072	induce summary	slice: 131201	diagonal: 32.3218	fud cardinality: 16	model cardinality: 303	fuds per threshold: 1.81818
+model072	induce summary	slice: 131156	diagonal: 26.0324	fud cardinality: 17	model cardinality: 318	fuds per threshold: 1.73824
+model072	induce summary	slice: 131216	diagonal: 25.7663	fud cardinality: 18	model cardinality: 334	fuds per threshold: 1.80723
+modeller	event id: 2000	time 0.107121s
+model072	induce summary	slice: 131169	diagonal: 29.6397	fud cardinality: 19	model cardinality: 351	fuds per threshold: 1.72414
+model072	induce summary	slice: 131219	diagonal: 24.5726	fud cardinality: 20	model cardinality: 366	fuds per threshold: 1.80505
+model072	induce summary	slice: 131237	diagonal: 25.6079	fud cardinality: 21	model cardinality: 386	fuds per threshold: 1.83888
+model072	induce summary	slice: 131212	diagonal: 23.7343	fud cardinality: 22	model cardinality: 398	fuds per threshold: 1.82119
+model072	induce summary	slice: 131260	diagonal: 27.635	fud cardinality: 23	model cardinality: 413	fuds per threshold: 1.76923
+model072	induce summary	slice: 131240	diagonal: 29.0321	fud cardinality: 24	model cardinality: 432	fuds per threshold: 1.82094
+model072	induce summary	slice: 131251	diagonal: 23.2074	fud cardinality: 25	model cardinality: 451	fuds per threshold: 1.80115
+model072	induce summary	slice: 131290	diagonal: 28.2974	fud cardinality: 26	model cardinality: 465	fuds per threshold: 1.83357
+modeller	event id: 3000	time 0.110061s
+modeller	model: opened records filerecords004.rec
+model072	induce summary	slice: 131149	diagonal: 32.5939	fud cardinality: 27	model cardinality: 490	fuds per threshold: 1.8
+model072	induce summary	slice: 131268	diagonal: 31.0958	fud cardinality: 28	model cardinality: 506	fuds per threshold: 1.86667
+model072	induce summary	slice: 131196	diagonal: 21.2616	fud cardinality: 29	model cardinality: 519	fuds per threshold: 1.93333
+model072	induce summary	slice: 131307	diagonal: 27.3151	fud cardinality: 30	model cardinality: 535	fuds per threshold: 2
+model072	induce summary	slice: 131228	diagonal: 28.6104	fud cardinality: 31	model cardinality: 554	fuds per threshold: 2.06667
+model072	induce summary	slice: 131274	diagonal: 33.9587	fud cardinality: 32	model cardinality: 581	fuds per threshold: 2.13333
+model072	induce summary	slice: 131337	diagonal: 22.6912	fud cardinality: 33	model cardinality: 598	fuds per threshold: 2.2
+model072	induce summary	slice: 131348	diagonal: 30.4629	fud cardinality: 34	model cardinality: 620	fuds per threshold: 2.26667
+modeller	event id: 4000	time 0.109597s
+model072	induce summary	slice: 131318	diagonal: 21.0995	fud cardinality: 35	model cardinality: 638	fuds per threshold: 2.33333
+model072	induce summary	slice: 131351	diagonal: 25.2324	fud cardinality: 36	model cardinality: 652	fuds per threshold: 2.4
+model072	induce summary	slice: 131259	diagonal: 26.8126	fud cardinality: 37	model cardinality: 667	fuds per threshold: 2.46667
+model072	induce summary	slice: 131374	diagonal: 23.2683	fud cardinality: 38	model cardinality: 687	fuds per threshold: 2.53333
+model072	induce summary	slice: 131356	diagonal: 25.1437	fud cardinality: 39	model cardinality: 706	fuds per threshold: 2.6
+model072	induce summary	slice: 131363	diagonal: 27.7486	fud cardinality: 40	model cardinality: 723	fuds per threshold: 2.66667
+modeller	event id: 5000	time 0.110843s
+model072	induce summary	slice: 131381	diagonal: 21.0493	fud cardinality: 41	model cardinality: 740	fuds per threshold: 2.73333
+model072	induce summary	slice: 131311	diagonal: 36.4433	fud cardinality: 42	model cardinality: 761	fuds per threshold: 2.8
+model072	induce summary	slice: 131418	diagonal: 25.7653	fud cardinality: 43	model cardinality: 779	fuds per threshold: 2.86667
+model072	induce summary	slice: 131326	diagonal: 20.9134	fud cardinality: 44	model cardinality: 795	fuds per threshold: 2.93333
+model072	induce summary	slice: 131462	diagonal: 32.0353	fud cardinality: 45	model cardinality: 812	fuds per threshold: 3
+model072	induce summary	slice: 131399	diagonal: 27.0745	fud cardinality: 46	model cardinality: 825	fuds per threshold: 3.06667
+model072	induce summary	slice: 131490	diagonal: 29.5991	fud cardinality: 47	model cardinality: 838	fuds per threshold: 3.13333
+modeller	event id: 6000	time 0.107055s
+modeller	model: opened records filerecords004.rec
+model072	induce summary	slice: 131407	diagonal: 27.117	fud cardinality: 48	model cardinality: 863	fuds per threshold: 3.2
+model072	induce summary	slice: 131345	diagonal: 28.7676	fud cardinality: 49	model cardinality: 880	fuds per threshold: 3.26667
+model072	induce summary	slice: 131446	diagonal: 32.0522	fud cardinality: 50	model cardinality: 908	fuds per threshold: 3.33333
+model072	induce summary	slice: 131293	diagonal: 22.3217	fud cardinality: 51	model cardinality: 926	fuds per threshold: 3.4
+model072	induce summary	slice: 131465	diagonal: 28.1596	fud cardinality: 52	model cardinality: 948	fuds per threshold: 3.46667
+model072	induce summary	slice: 131492	diagonal: 32.3538	fud cardinality: 53	model cardinality: 966	fuds per threshold: 3.53333
+model072	induce summary	slice: 131463	diagonal: 34.5862	fud cardinality: 54	model cardinality: 993	fuds per threshold: 3.6
+modeller	event id: 7000	time 0.119085s
+modeller	dumping
+model072	dump	file name: model072.ac	time 0.0049777s
+modeller	dump	file name: model072.rep	time 0.00558231s
+modeller	event id: 7000
+modeller	status: finished

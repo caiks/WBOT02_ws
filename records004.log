@@ -1,0 +1,14 @@
+qt.qpa.plugin: Could not find the Qt platform plugin "wayland" in ""
+actor	status: initialised
+actor	source	file:videos/No Man's Woman (1955) [oLiwhrvkMEU].webm
+actor	next video index: 1
+actor	seekable: false	duration: 4206721
+actor	position	120338
+actor	captured	0.015292s
+actor	updated	0.011525s
+actor	event id: 1000	time 0.0268413s
+actor	event id: 2000	time 0.00774811s
+actor	event id: 3000	time 0.0173444s
+actor	status: quitting
+actor	dumping
+actor	status: finished

@@ -1,6 +1,8 @@
 {
 	"model" : "model073",
+	"model_initial" : "model073",
 	"records_sources" : ["records001","records002","records003"],
+	"records_index" : 2,
 	"checkpointing" : true,
 	"mode" : "mode012",
 	"unique_records" : 333,

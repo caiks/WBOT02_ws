@@ -1,0 +1,24 @@
+modeller	init: opened records filerecords004.rec
+model074a	induce summary	slice: 0	diagonal: 28.3332	fud cardinality: 1	model cardinality: 28	fuds per threshold: 1
+model074a	induce summary	slice: 131087	diagonal: 39.9739	fud cardinality: 2	model cardinality: 54	fuds per threshold: 1.03359
+model074a	induce summary	slice: 131072	diagonal: 26.887	fud cardinality: 3	model cardinality: 83	fuds per threshold: 1.23203
+model074a	induce summary	slice: 131088	diagonal: 21.3825	fud cardinality: 4	model cardinality: 103	fuds per threshold: 1
+model074a	induce summary	slice: 131089	diagonal: 40.6909	fud cardinality: 5	model cardinality: 110	fuds per threshold: 1.22399
+model074a	induce summary	slice: 131091	diagonal: 28.6762	fud cardinality: 6	model cardinality: 137	fuds per threshold: 1.25261
+modeller	event id: 25000	time 0.0001989s
+model074a	induce summary	slice: 131104	diagonal: 29.4109	fud cardinality: 7	model cardinality: 160	fuds per threshold: 1.28913
+model074a	induce summary	slice: 131122	diagonal: 33.9355	fud cardinality: 8	model cardinality: 207	fuds per threshold: 1.08328
+model074a	induce summary	slice: 131110	diagonal: 21.143	fud cardinality: 9	model cardinality: 227	fuds per threshold: 1.1465
+modeller	event id: 50000	time 0.0001911s
+model074a	induce summary	slice: 131140	diagonal: 36.8194	fud cardinality: 10	model cardinality: 271	fuds per threshold: 0.999001
+model074a	induce summary	slice: 131123	diagonal: 21.1858	fud cardinality: 11	model cardinality: 290	fuds per threshold: 0.996828
+model074a	induce summary	slice: 131148	diagonal: 24.0521	fud cardinality: 12	model cardinality: 313	fuds per threshold: 1.01997
+model074a	induce summary	slice: 131173	diagonal: 32.4556	fud cardinality: 13	model cardinality: 355	fuds per threshold: 0.896861
+modeller	event id: 75000	time 0.0002377s
+modeller	dumping
+model074a	dump	file name: model074a.ac	time 0.0029302s
+modeller	dump	file name: model074a.rep	time 0.0002356s
+modeller	event id: 75000
+modeller	status: finished
+25.56user 0.27system 0:17.17elapsed 150%CPU (0avgtext+0avgdata 49048maxresident)k
+0inputs+10976outputs (0major+20015minor)pagefaults 0swaps

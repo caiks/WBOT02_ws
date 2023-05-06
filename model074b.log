@@ -1,0 +1,21 @@
+modeller	init: opened records filerecords004.rec
+model074b	induce summary	slice: 0	diagonal: 31.4169	fud cardinality: 1	model cardinality: 25	fuds per threshold: 1
+model074b	induce summary	slice: 131079	diagonal: 22.6264	fud cardinality: 2	model cardinality: 45	fuds per threshold: 1.07239
+model074b	induce summary	slice: 131080	diagonal: 28.4767	fud cardinality: 3	model cardinality: 75	fuds per threshold: 1.2
+model074b	induce summary	slice: 131091	diagonal: 32.7913	fud cardinality: 4	model cardinality: 133	fuds per threshold: 0.94451
+model074b	induce summary	slice: 131114	diagonal: 19.3237	fud cardinality: 5	model cardinality: 153	fuds per threshold: 1.13507
+modeller	event id: 25000	time 0.000183s
+model074b	induce summary	slice: 131100	diagonal: 41.149	fud cardinality: 6	model cardinality: 204	fuds per threshold: 1.03181
+model074b	induce summary	slice: 131107	diagonal: 23.6718	fud cardinality: 7	model cardinality: 225	fuds per threshold: 1.06141
+model074b	induce summary	slice: 131129	diagonal: 22.3222	fud cardinality: 8	model cardinality: 245	fuds per threshold: 0.882029
+modeller	event id: 50000	time 0.0001841s
+model074b	induce summary	slice: 131120	diagonal: 27.2121	fud cardinality: 9	model cardinality: 273	fuds per threshold: 0.788091
+model074b	induce summary	slice: 131122	diagonal: 36.9288	fud cardinality: 10	model cardinality: 312	fuds per threshold: 0.775494
+modeller	event id: 75000	time 0.0002157s
+modeller	dumping
+model074b	dump	file name: model074b.ac	time 0.0030466s
+modeller	dump	file name: model074b.rep	time 0.0001232s
+modeller	event id: 75000
+modeller	status: finished
+64.89user 0.23system 0:28.48elapsed 228%CPU (0avgtext+0avgdata 49752maxresident)k
+0inputs+10968outputs (0major+18248minor)pagefaults 0swaps

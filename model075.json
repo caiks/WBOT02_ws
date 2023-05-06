@@ -2,6 +2,7 @@
 	"model" : "model075",
 	"records_sources" : ["records001","records002","records003"],
 	"checkpointing" : true,
+	"checkpoint_interval" : 2500000,
 	"mode" : "mode013",
 	"valency_balanced" : true,
 	"size" : 8,

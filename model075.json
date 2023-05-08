@@ -1,6 +1,8 @@
 {
 	"model" : "model075",
+	"model_initial" : "model075",
 	"records_sources" : ["records001","records002","records003"],
+	"records_index" : 1,
 	"checkpointing" : true,
 	"checkpoint_interval" : 2500000,
 	"mode" : "mode013",

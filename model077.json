@@ -1,0 +1,10 @@
+{
+	"model" : "model077",
+	"model_initial" : "model076",
+	"induceThreadCount" : 8,
+	"induceParameters.diagonalMin" : 12.0,
+	"induceThreshold" : 200,
+	"induceParameters.xmax" : 1024,
+	"induceParameters.omax" : 20,
+	"induceParameters.bmax" : 60
+}

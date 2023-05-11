@@ -1,0 +1,8 @@
+{
+	"model" : "model078",
+	"model_initial" : "model077",
+	"size" : 8,
+	"induceThreadCount" : 8,
+	"induceParameters.diagonalMin" : 12.0,
+	"induceThreshold" : 200
+}

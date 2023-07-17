@@ -5,6 +5,7 @@ actor*.log
 test.*
 
 contour.json
+representation.json
 
 WBOT02
 WBOT02.txt

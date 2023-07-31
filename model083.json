@@ -23,6 +23,7 @@
 	"scales" : [0.250, 0.210, 0.177, 0.149, 0.125, 0.105],
 	"event_maximum" : 75000000,
 	"logging_event" : true,
-	"logging_event_factor" : 100000,
-	"summary_active" : true
+	"logging_event_factor" : 100,
+	"summary_active" : true,
+	"logging_active" : true
 }

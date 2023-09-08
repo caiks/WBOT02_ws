@@ -1,0 +1,13 @@
+{
+	"model" : "model088",
+	"model_initial" : "model087",
+	"new_representations" : true,
+	"induceThreadCount" : 1,
+	"induceParameters.asyncThreadMax" : 8,
+	"induceParameters.diagonalMin" : 12.0,
+	"induceParameters.xmax" : 256,
+	"induceParameters.omax" : 20,
+	"induceParameters.bmax" : 60,
+	"induceParameters.znnmax" : 1310720000.0,
+	"induceThreshold" : 200
+}

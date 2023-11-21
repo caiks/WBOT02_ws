@@ -7,7 +7,7 @@
 	"mode" : "mode016",
 	"valency" : 32,
 	"valency_balanced" : true,
-	"entropy_minimum" : 1.7,
+	"entropy_minimum" : 1.2,
 	"size" : 40,
 	"level1_size" : 8,
 	"level2_size" : 5,

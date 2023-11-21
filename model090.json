@@ -1,7 +1,7 @@
 {
 	"model" : "model090",
 	"structure" : "struct005",
-	"level1_model" : "model086",
+	"level1_model" : "model086c",
 	"records_sources" : ["records006","records002","records003"],
 	"checkpointing" : true,
 	"mode" : "mode016",

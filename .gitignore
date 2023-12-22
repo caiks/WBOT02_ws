@@ -6,6 +6,7 @@ test.*
 
 contour.json
 representation.json
+distributions.json
 
 WBOT02
 WBOT02.txt

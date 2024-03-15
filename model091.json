@@ -6,7 +6,7 @@
 	"records_sources" : ["records006","records002","records003"],
 	"records_start" : 3000000,
 	"checkpointing" : true,
-	"checkpoint_interval" : 10000000,
+	"checkpoint_interval" : 5000000,
 	"mode" : "mode016",
 	"valency" : 32,
 	"valency_balanced" : true,
